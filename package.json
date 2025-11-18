@@ -7,13 +7,25 @@
     "test": "tests"
   },
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "husky": "^9.1.7"
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.10.1",
+    "husky": "^9.1.7",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.5",
+    "typescript": "^5.9.3",
+    "zod-to-ts": "^2.0.0"
+  },
+  "dependencies": {
+    "zod": "^4.1.12"
   }
 }
