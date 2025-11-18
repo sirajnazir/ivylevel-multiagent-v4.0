@@ -1,0 +1,7 @@
+{
+  "claude-code.enabled": true,
+  "claude-code.projectRoot": "ivylevel-multiagents-v4",
+  "claude-code.rules.enforce": true,
+  "files.eol": "\n",
+  "editor.formatOnSave": false
+}

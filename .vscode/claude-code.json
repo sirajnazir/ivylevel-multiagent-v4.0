@@ -1,0 +1,16 @@
+{
+  "claude-code": {
+    "project": "ivylevel-multiagents-v4",
+    "autoLoadRules": true,
+    "rulesets": [
+      "./docs/contributors/Contributor_Ruleset_v2.0.md",
+      "./docs/ASSESSMENT_AGENT_v1_SPEC_SUITE.md"
+    ],
+    "preflightChecks": {
+      "checkDuplicates": true,
+      "validateSchemas": true,
+      "maxFilesPerSession": 10,
+      "maxLinesPerChange": 500
+    }
+  }
+}
