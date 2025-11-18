@@ -18,9 +18,9 @@ export async function handleAssessment(input: unknown): Promise<AssessmentOutput
   // Step 3: Initialize internal state
   agent.initialize();
 
-  // Step 4: Execute transformation chain (sequential stub calls)
+  // Step 4: Execute transformation chain (sequential calls)
   // TODO: Wire to task graph execution
-  const profile = agent.extractProfile();
+  const profile = await agent.extractProfile();
   const oracleResults = agent.runIntelligenceOracles(profile);
   const narrative = agent.generateNarrativeBlocks(profile, oracleResults);
   const strategy = agent.generateStrategyBlocks(profile, oracleResults, narrative);
