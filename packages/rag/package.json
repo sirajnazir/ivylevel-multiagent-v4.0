@@ -1,0 +1,7 @@
+{
+  "name": "@ivylevel/rag",
+  "version": "1.0.0",
+  "private": true,
+  "main": "assessmentRag.ts",
+  "types": "assessmentRag.ts"
+}
