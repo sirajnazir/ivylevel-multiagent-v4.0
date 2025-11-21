@@ -60,10 +60,18 @@ export function useAssessmentAgent(sessionId: string): UseAssessmentAgentResult 
 
       const data = await response.json();
 
-      setMessages(data.messages || []);
-      setProgress(data.progress?.progress || 0);
-      setStage(data.progress?.stage || "intake");
-      setStageDescription(data.progress?.description || "Getting started...");
+      // Transform messages to match AssessmentMessage type
+      const transformedMessages = (data.messages || []).map((msg: any) => ({
+        id: msg.id,
+        role: msg.role === "student" ? "user" : msg.role,
+        text: msg.content,
+        createdAt: msg.timestamp,
+      }));
+
+      setMessages(transformedMessages);
+      setProgress(data.progress || 0);
+      setStage(data.stage || "intake");
+      setStageDescription(data.stageDescription || "Getting started...");
       setArchetype(data.archetype || "");
       setEqTone(data.eqTone || { label: "warm", warmth: 0.8, strictness: 0.2 });
     } catch (err) {
@@ -104,17 +112,18 @@ export function useAssessmentAgent(sessionId: string): UseAssessmentAgentResult 
 
         const data: AssessmentChatResponse = await response.json();
 
-        // Update archetype and EQ tone
-        setArchetype(data.archetype);
-        setEqTone(data.eqTone);
-
-        // Update progress
-        setProgress(data.progress.progress);
-        setStage(data.progress.stage);
-        setStageDescription(data.progress.description);
-
         // Add assistant message
-        setMessages((prev) => [...prev, data.message]);
+        const assistantMessage: AssessmentMessage = {
+          id: crypto.randomUUID(),
+          role: "assistant",
+          text: data.message,
+          createdAt: data.timestamp,
+        };
+
+        setMessages((prev) => [...prev, assistantMessage]);
+
+        // Reload session state to get updated progress/archetype/eqTone
+        await loadSession();
 
         setStatus("idle");
       } catch (err) {
@@ -126,7 +135,7 @@ export function useAssessmentAgent(sessionId: string): UseAssessmentAgentResult 
         setMessages((prev) => prev.slice(0, -1));
       }
     },
-    [sessionId]
+    [sessionId, loadSession]
   );
 
   const clearError = useCallback(() => {

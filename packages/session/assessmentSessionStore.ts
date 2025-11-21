@@ -21,12 +21,22 @@ export interface AssessmentSession {
 }
 
 const sessions = new Map<string, AssessmentSession>();
+const studentIdIndex = new Map<string, string>(); // studentId -> sessionId
 
 export async function createAssessmentSession(input: {
   studentId: string;
   studentName?: string;
   intakeId?: string;
 }): Promise<AssessmentSession> {
+  // Check if session already exists for this student
+  const existingSessionId = studentIdIndex.get(input.studentId);
+  if (existingSessionId) {
+    const existingSession = sessions.get(existingSessionId);
+    if (existingSession) {
+      return existingSession;
+    }
+  }
+
   const sessionId = randomUUID();
   const session: AssessmentSession = {
     sessionId,
@@ -38,6 +48,7 @@ export async function createAssessmentSession(input: {
     status: "active"
   };
   sessions.set(sessionId, session);
+  studentIdIndex.set(input.studentId, sessionId);
   return session;
 }
 
@@ -59,6 +70,14 @@ export async function appendMessageToSession(
 export async function getSessionById(
   sessionId: string
 ): Promise<AssessmentSession | undefined> {
+  return sessions.get(sessionId);
+}
+
+export async function getSessionByStudentId(
+  studentId: string
+): Promise<AssessmentSession | undefined> {
+  const sessionId = studentIdIndex.get(studentId);
+  if (!sessionId) return undefined;
   return sessions.get(sessionId);
 }
 

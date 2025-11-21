@@ -1574,9 +1574,55 @@ class AssessmentAgent {
 
   callOracles(): void {}
 
-  buildNarrative(): void {}
+  /**
+   * Build narrative blocks from current state
+   * Calls generateNarrativeBlocks() with profile and oracle results
+   * Updates internal state with generated narrative
+   */
+  buildNarrative(): void {
+    if (!this.state.extractedProfile) {
+      throw new Error('Cannot build narrative: No extracted profile found');
+    }
+    if (!this.state.oracleResults) {
+      throw new Error('Cannot build narrative: No oracle results found');
+    }
 
-  buildPlan(): void {}
+    console.log('[AssessmentAgent] Building narrative blocks...');
+
+    this.state.narrativeBlocks = this.generateNarrativeBlocks(
+      this.state.extractedProfile,
+      this.state.oracleResults
+    );
+
+    console.log(`[AssessmentAgent] Generated ${this.state.narrativeBlocks.thematicHubs.length} thematic hubs`);
+  }
+
+  /**
+   * Build strategy blocks from current state
+   * Calls generateStrategyBlocks() with profile, oracles, and narrative
+   * Updates internal state with generated strategy
+   */
+  buildPlan(): void {
+    if (!this.state.extractedProfile) {
+      throw new Error('Cannot build plan: No extracted profile found');
+    }
+    if (!this.state.oracleResults) {
+      throw new Error('Cannot build plan: No oracle results found');
+    }
+    if (!this.state.narrativeBlocks) {
+      throw new Error('Cannot build plan: No narrative blocks found. Call buildNarrative() first');
+    }
+
+    console.log('[AssessmentAgent] Building strategy blocks...');
+
+    this.state.strategyBlocks = this.generateStrategyBlocks(
+      this.state.extractedProfile,
+      this.state.oracleResults,
+      this.state.narrativeBlocks
+    );
+
+    console.log(`[AssessmentAgent] Generated ${this.state.strategyBlocks.twelveMonthPlan.length} month strategy plan`);
+  }
 
   /**
    * Build final assessment output from internal state

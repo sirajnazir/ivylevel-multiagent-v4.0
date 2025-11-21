@@ -142,15 +142,15 @@ export default function AssessmentChatWrapper({
           </div>
           <div className="assessment-debug-row">
             <span className="assessment-debug-label">EQ Tone:</span>
-            <span className="assessment-debug-value">{eqTone.label}</span>
+            <span className="assessment-debug-value">{eqTone?.label || "N/A"}</span>
           </div>
           <div className="assessment-debug-row">
             <span className="assessment-debug-label">Warmth:</span>
-            <span className="assessment-debug-value">{(eqTone.warmth * 100).toFixed(0)}%</span>
+            <span className="assessment-debug-value">{eqTone ? (eqTone.warmth * 100).toFixed(0) + "%" : "N/A"}</span>
           </div>
           <div className="assessment-debug-row">
             <span className="assessment-debug-label">Strictness:</span>
-            <span className="assessment-debug-value">{(eqTone.strictness * 100).toFixed(0)}%</span>
+            <span className="assessment-debug-value">{eqTone ? (eqTone.strictness * 100).toFixed(0) + "%" : "N/A"}</span>
           </div>
           <div className="assessment-debug-row">
             <span className="assessment-debug-label">Progress:</span>

@@ -14,7 +14,7 @@ import OpenAI from "openai";
  * PATCHED VERSION - Connects to actual Pinecone embeddings (973 vectors)
  */
 
-const PINECONE_INDEX = process.env.PINECONE_INDEX_NAME ?? "jenny-v3-3072-093025";
+const PINECONE_INDEX = process.env.PINECONE_INDEX_NAME ?? "jenny-v3-3072-20250930";
 const PINECONE_API_KEY = process.env.PINECONE_API_KEY ?? "";
 const COHERE_API_KEY = process.env.COHERE_API_KEY ?? "";
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY ?? "";

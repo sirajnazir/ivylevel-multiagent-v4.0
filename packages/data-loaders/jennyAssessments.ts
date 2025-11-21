@@ -13,8 +13,21 @@ import {
  */
 
 // Root directory for Jenny assessment files (v4 organized structure)
+// Find monorepo root by looking for package.json with workspaces
+function findMonorepoRoot(): string {
+  let currentDir = process.cwd();
+
+  // If we're in apps/student-app, go up 2 levels to monorepo root
+  if (currentDir.includes('/apps/student-app')) {
+    return path.join(currentDir, '../..');
+  }
+
+  // Otherwise assume we're already at monorepo root
+  return currentDir;
+}
+
 const JENNY_ASSESSMENTS_ROOT = path.join(
-  process.cwd(),
+  findMonorepoRoot(),
   'data',
   'v4_organized',
   'students',
