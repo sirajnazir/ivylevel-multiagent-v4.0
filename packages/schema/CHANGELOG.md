@@ -7,6 +7,104 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added - v2.4.0
+
+#### AssessmentOutput_v2
+- **New Schema**: `assessmentOutput_v2.ts`
+- **Purpose**: Complete output schema for Assessment Agent pipeline
+
+**Structure:**
+- **Profile**: ExtractedProfile_v2 - Full student profile with academics, activities, awards, personality
+- **Oracles**: OracleResults_v2 - APS oracle scores with evidence and rationale
+- **Narrative**: NarrativeBlocks_v2 - Thematic hubs, flagship narrative, positioning, risks, opportunities
+- **Strategy**: StrategyBlocks_v2 - 12-month plan, summer scenarios, awards targets
+- **Metadata**: Model version, generation timestamp, agent version
+
+**Use Case:**
+- Final output from `AssessmentAgent.buildOutput()`
+- Consumed by downstream systems (report generation, UI display, strategy tracking)
+- Provides complete assessment results in single structured object
+
+**Migration Path:**
+- This is a new schema (not a breaking change to existing schemas)
+- Update `AssessmentAgent.buildOutput()` to return `AssessmentOutput_v2`
+- Use `assessmentOutputSchema_v2.parse()` for validation
+
+---
+
+### Added - v2.3.0
+
+#### StrategyBlocks_v2 (BREAKING CHANGE)
+- **New Schema**: `strategyBlocks_v2.ts`
+- **Purpose**: Structured strategy planning output from Assessment Agent
+
+**Structure:**
+- **Twelve-Month Plan**: Array of 12 monthly plan objects with priorities, tasks, and risks
+- **Summer Planning**: Array of 3 summer scenario objects (baseline, stretch, moonshot) with focus areas, commitments, and risks
+- **Awards Targets**: Array of award target objects with name, tier, likelihood, and rationale
+
+**Use Case:**
+- Output from `AssessmentAgent.generateStrategyBlocks()`
+- Provides actionable 12-month roadmap for student development
+- Identifies summer planning options and award opportunities
+
+**Migration Path:**
+- This is a new schema (not a breaking change to existing schemas)
+- Update `AssessmentAgent.generateStrategyBlocks()` to return `StrategyBlocks_v2`
+- Use `strategyBlocksSchema_v2.parse()` for validation
+
+---
+
+### Added - v2.2.0
+
+#### NarrativeBlocks_v2
+- **New Schema**: `narrativeBlocks_v2.ts`
+- **Purpose**: Structured narrative modeling output from Assessment Agent
+
+**Structure:**
+- **Thematic Hubs**: Tuple of 3 core narrative dimensions (e.g., "STEM Research Leadership", "Community Health Advocacy", "Cultural Bridge-Building")
+- **Flagship Narrative**: Central admissions story arc tying all hubs together
+- **Positioning**: Admissions officer positioning statement
+- **Identity Thread**: Core identity claim
+- **Risks**: Array of narrative weaknesses or unclear areas
+- **Opportunities**: Array of narrative strengthening opportunities
+
+**Use Case:**
+- Output from `AssessmentAgent.generateNarrativeBlocks()`
+- Consumed by strategy engine for 12-month planning
+- Informs essay topic recommendations and positioning strategy
+
+**Migration Path:**
+- This is a new schema (not a breaking change)
+- Update `AssessmentAgent.generateNarrativeBlocks()` to return `NarrativeBlocks_v2`
+- Use `narrativeBlocksSchema_v2.parse()` for validation
+
+---
+
+### Added - v2.1.0
+
+#### OracleResults_v2 (BREAKING CHANGE)
+- **New Schema**: `oracleResults_v2.ts`
+- **Migration**: Replaces Phase 2 empty oracle results with structured APS oracle outputs
+
+**Structure:**
+- **Aptitude Oracle**: Score (0-100), evidence array, rationale string
+- **Passion Oracle**: Score (0-100), evidence array, rationale string
+- **Service Oracle**: Score (0-100), evidence array, rationale string
+- **Future Integration**: ivyScore (optional), weakSpots (optional) for legacy v3 oracle compatibility
+
+**Breaking Changes:**
+- v1 returned empty object `{}`
+- v2 enforces strict validation of all three APS oracle results
+- All oracle pipeline calls must return `OracleResults_v2`
+
+**Migration Path:**
+- Update AssessmentAgent.runIntelligenceOracles() to return OracleResults_v2
+- Use `oracleResultsSchema_v2.parse()` for validation
+- Ensure all three oracles (aptitude, passion, service) are called
+
+---
+
 ### Added - v2.0.0
 
 #### ExtractedProfile_v2 (BREAKING CHANGE)

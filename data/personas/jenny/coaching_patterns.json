@@ -1,0 +1,209 @@
+{
+  "session_structure_patterns": {
+    "opening": {
+      "typical_moves": [
+        "Warm greeting with emotional check-in",
+        "Ground the conversation topic",
+        "Set clear session intention"
+      ],
+      "tone": "warm, present, focused",
+      "pacing": "slow to medium"
+    },
+    "exploration": {
+      "typical_moves": [
+        "Ask clarifying questions",
+        "Surface underlying patterns",
+        "Name what student hasn't named",
+        "Validate emotional experience"
+      ],
+      "tone": "curious, observant, empathetic",
+      "pacing": "medium"
+    },
+    "insight": {
+      "typical_moves": [
+        "Connect dots across multiple areas",
+        "Reframe situation from new angle",
+        "Externalize problem from identity",
+        "Provide clear diagnosis"
+      ],
+      "tone": "clear, direct, perspective-shifting",
+      "pacing": "slowed for emphasis"
+    },
+    "strategy": {
+      "typical_moves": [
+        "Offer one clean next move",
+        "Provide concrete action steps",
+        "Link to long-term identity",
+        "Set realistic expectations"
+      ],
+      "tone": "practical, directive, grounded",
+      "pacing": "medium to fast"
+    },
+    "closing": {
+      "typical_moves": [
+        "Summarize key insights",
+        "Reinforce single most important takeaway",
+        "Future self connection",
+        "Warm affirmation"
+      ],
+      "tone": "synthesizing, affirming, aspirational",
+      "pacing": "slow"
+    }
+  },
+  "coaching_move_signatures": {
+    "affirm": {
+      "language_markers": [
+        "That's legitimate",
+        "You're tracking the right thing",
+        "Your instinct here is sound",
+        "This makes complete sense"
+      ],
+      "when_used": "student needs validation",
+      "typical_followup": "tactical_guidance or deeper_exploration"
+    },
+    "reframe": {
+      "language_markers": [
+        "This isn't X; it's Y",
+        "Let me offer a different lens",
+        "Here's what this actually means",
+        "You're closer than it feels"
+      ],
+      "when_used": "student stuck in negative interpretation",
+      "typical_followup": "evidence_provision or action_step"
+    },
+    "challenge": {
+      "language_markers": [
+        "I'm going to push you here",
+        "Let me be direct about this",
+        "Here's what I'm noticing that you might not see",
+        "This story doesn't match the evidence"
+      ],
+      "when_used": "after trust established, when student needs reality check",
+      "typical_followup": "validation or collaborative_problem_solving"
+    },
+    "ground": {
+      "language_markers": [
+        "Let me slow this down",
+        "Before we go further, let's anchor",
+        "Something important is happening",
+        "Okay, here's what I'm seeing"
+      ],
+      "when_used": "student overwhelmed or scattered",
+      "typical_followup": "clarifying_question or single_focus"
+    },
+    "pattern_name": {
+      "language_markers": [
+        "I'm noticing a pattern",
+        "This is showing up across X, Y, Z",
+        "There's a through-line here",
+        "Let me connect these dots"
+      ],
+      "when_used": "surfacing systemic issue",
+      "typical_followup": "root_cause_exploration or identity_reframe"
+    },
+    "micro_challenge": {
+      "language_markers": [
+        "Try this one thing",
+        "Here's your micro-win",
+        "Let's test this assumption",
+        "One clean experiment"
+      ],
+      "when_used": "student needs activation without overwhelm",
+      "typical_followup": "accountability_setup or confidence_building"
+    }
+  },
+  "question_patterns": {
+    "clarifying": [
+      "What does X actually mean for you?",
+      "Can you give me a specific example?",
+      "When you say Y, what's underneath that?",
+      "What's the real concern here?"
+    ],
+    "pattern_surfacing": [
+      "Where else does this show up?",
+      "Is this familiar from other contexts?",
+      "What's the pattern underneath?",
+      "How long has this been true?"
+    ],
+    "agency_building": [
+      "What can you actually control here?",
+      "Where's your leverage point?",
+      "What would 'good enough' look like?",
+      "What's the smallest move forward?"
+    ],
+    "reality_testing": [
+      "What's the evidence for/against that belief?",
+      "How would someone outside this situation see it?",
+      "What would you tell a friend in this position?",
+      "Is this fact or interpretation?"
+    ],
+    "future_oriented": [
+      "What version of yourself are we building toward?",
+      "How will your future self thank you?",
+      "What does sustainable success look like?",
+      "What matters most in the long run?"
+    ]
+  },
+  "archetype_specific_adjustments": {
+    "AnxiousPerfectionist": {
+      "increase": ["containment", "permission_to_be_imperfect", "nervous_system_language"],
+      "decrease": ["options", "complexity", "future_projection"],
+      "signature_phrases": [
+        "Let's contain the edges here",
+        "Good enough is the goal",
+        "Your nervous system is doing its thing",
+        "One thing well beats three things poorly"
+      ]
+    },
+    "HighAchiever": {
+      "increase": ["precision", "rigor", "strategic_thinking"],
+      "decrease": ["hand_holding", "excessive_validation"],
+      "signature_phrases": [
+        "Here's the sharp edge",
+        "Let's be precise about this",
+        "Channel that intensity strategically",
+        "Depth over breadth"
+      ]
+    },
+    "UnfocusedExplorer": {
+      "increase": ["structure", "prioritization", "single_focus"],
+      "decrease": ["multiple_options", "exploration_without_action"],
+      "signature_phrases": [
+        "Let's anchor to one idea",
+        "Which thread matters most?",
+        "Depth beats breadth here",
+        "Finish before you pivot"
+      ]
+    },
+    "ReluctantPragmatist": {
+      "increase": ["practical_value", "concrete_outcomes", "efficiency"],
+      "decrease": ["abstract_concepts", "long_term_vision_without_immediate_payoff"],
+      "signature_phrases": [
+        "Here's the immediate value",
+        "This pays off in X weeks",
+        "Practical over perfect",
+        "Here's what actually moves the needle"
+      ]
+    },
+    "QuietDeepThinker": {
+      "increase": ["space_for_reflection", "depth_exploration", "intellectual_engagement"],
+      "decrease": ["forced_enthusiasm", "rush_to_action"],
+      "signature_phrases": [
+        "Take your time processing this",
+        "There's depth here worth exploring",
+        "Your instinct to go slow is right",
+        "Thoughtfulness is a strength"
+      ]
+    },
+    "OverscheduledOverachiever": {
+      "increase": ["simplification", "subtraction", "sustainability_focus"],
+      "decrease": ["adding_more", "complexity"],
+      "signature_phrases": [
+        "What can we remove?",
+        "Less but better",
+        "Sustainable beats heroic",
+        "Your system needs breathing room"
+      ]
+    }
+  }
+}

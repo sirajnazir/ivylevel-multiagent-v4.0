@@ -1,0 +1,3206 @@
+WEBVTT
+
+1
+00:00:24.040 --> 00:00:25.280
+Ivylevel: Hi, Jenny, how are you?
+
+2
+00:00:25.700 --> 00:00:29.829
+Jenny Duan: Hi! I'm doing well. How are you? Hi, Nanya! Hi! Dt.
+
+3
+00:00:32.920 --> 00:00:34.230
+Ivylevel: Hi, Lynia! How are you?
+
+4
+00:00:38.170 --> 00:00:39.480
+Ivylevel: Hi! Editi?
+
+5
+00:00:42.380 --> 00:00:43.230
+Ivylevel: Great
+
+6
+00:00:43.932 --> 00:00:47.920
+Ivylevel: otherwise your mom and dad also here just wanted to say, Hi.
+
+7
+00:00:51.230 --> 00:00:53.729
+Ivylevel: Hi! Can you hear me?
+
+8
+00:00:54.120 --> 00:00:55.319
+Ivylevel: We can't hear you.
+
+9
+00:01:19.510 --> 00:01:20.290
+Ivylevel: yeah.
+
+10
+00:01:20.650 --> 00:01:22.820
+Ivylevel: Can you speak now? And you actually
+
+11
+00:01:27.000 --> 00:01:28.090
+Ivylevel: how strange!
+
+12
+00:01:29.450 --> 00:01:31.169
+Ivylevel: Yeah, I still can't hear you.
+
+13
+00:01:32.330 --> 00:01:34.010
+Ivylevel: I see that you're
+
+14
+00:01:34.540 --> 00:01:35.720
+Ivylevel: you're not on mute.
+
+15
+00:01:37.030 --> 00:01:39.299
+Ivylevel: so you should be. I think it's probably.
+
+16
+00:01:52.740 --> 00:01:53.629
+Ananyaa Srivastava: No, you should be better.
+
+17
+00:01:53.630 --> 00:01:55.490
+Ivylevel: Yeah. Yeah. Good. Cool.
+
+18
+00:01:55.620 --> 00:01:56.110
+Ivylevel: Awesome.
+
+19
+00:01:56.110 --> 00:01:58.110
+Ananyaa Srivastava: Microphone is connected to the headset. That's what.
+
+20
+00:01:58.280 --> 00:01:58.960
+Ivylevel: Good
+
+21
+00:01:59.390 --> 00:02:06.500
+Ivylevel: thanks. Hi! Amit right amit, and danvi, and you know, welcome on board.
+
+22
+00:02:06.990 --> 00:02:08.360
+Ananyaa Srivastava: The summit.
+
+23
+00:02:08.360 --> 00:02:09.009
+Ivylevel: Great.
+
+24
+00:02:10.049 --> 00:02:14.999
+Ivylevel: Yeah, Alanya, welcome on board. Super excited to having you.
+
+25
+00:02:15.100 --> 00:02:20.770
+Ivylevel: and can't wait to see all the magic that we are able to. You know. Do with you.
+
+26
+00:02:21.350 --> 00:02:22.060
+Ananyaa Srivastava: Of course.
+
+27
+00:02:22.060 --> 00:02:26.579
+Ivylevel: It's really a fun journey. So I want you to be right, really like, be very positive about it.
+
+28
+00:02:26.963 --> 00:02:33.950
+Ivylevel: With no pressure. I think it's it's a it's a journey of discovery. It's a journey of really, you know growth.
+
+29
+00:02:34.050 --> 00:02:37.359
+Ivylevel: It's a journey of transformation, all for good.
+
+30
+00:02:37.420 --> 00:02:43.809
+Ivylevel: And I have Jenny with me here. Who's our head coach? Who's been, you know, with us for a long time.
+
+31
+00:02:43.850 --> 00:02:47.450
+Ivylevel: and she's been very instrumental in transforming, you know.
+
+32
+00:02:48.303 --> 00:02:52.010
+Ivylevel: Literally the lives of, you know, multiple students
+
+33
+00:02:52.020 --> 00:03:00.380
+Ivylevel: and Aditi as well. Who's joined us this year. But she's already been doing great with, you know, some other students as well.
+
+34
+00:03:00.640 --> 00:03:13.370
+Ivylevel: So it's really your relatable team, I think. Parents and I, we need to take a back seat here. It's really a journey between you and your coaches, but what we do is really we work as a team.
+
+35
+00:03:13.520 --> 00:03:42.969
+Ivylevel: so we try to bring. The best of all. You know, composite is always greater than some of parts. So it's a power of team that we bring a lot of diverse talents and expertise, you know, from you know, highly specialized team of Stanford coaches, but also, like lot of custom tools and a lot of technology. And you know, frameworks and and everything at your disposal. Right? So this is the 1st session, and I know that when I spoke to your mom and and you earlier. I gave you a glimpse of you know how we start.
+
+36
+00:03:43.447 --> 00:03:49.160
+Ivylevel: You know, this is a long term journey of prep. So it needs to be strategized.
+
+37
+00:03:49.260 --> 00:03:56.499
+Ivylevel: And there needs to be a game plan in place. And it's an evolving thing. So it isn't a static thing that where we say that this is what you need to do.
+
+38
+00:03:56.710 --> 00:03:59.279
+Ivylevel: It's a recurring process.
+
+39
+00:03:59.290 --> 00:04:17.420
+Ivylevel: What we are gonna do today is really set in a direction. And I think the fundamental difference, especially like for Indian parents, right coming from a different background. Having not studied here, I would assume, you know, like one of the fundamental differences between the Indian education system or the Chinese education system. Asian education system
+
+40
+00:04:17.430 --> 00:04:20.279
+Ivylevel: in terms of elite schools and college prep is
+
+41
+00:04:20.310 --> 00:04:30.369
+Ivylevel: that is very objective, 99%. Everything that matters think about iits. Think of anything else. All you need is a data point. You need to go through a competitive exam.
+
+42
+00:04:30.520 --> 00:04:37.149
+Ivylevel: And you need to have good grades. That's about it. I think the same applies for the top Chinese university as well. Right?
+
+43
+00:04:37.280 --> 00:04:44.850
+Ivylevel: What is the main difference in getting into or cracking the top. You know, elite schools in the world
+
+44
+00:04:45.020 --> 00:04:50.020
+Ivylevel: is a subjectivity. It's not objectivity. That's a fundamental difference.
+
+45
+00:04:50.040 --> 00:04:52.220
+Ivylevel: Yes, 25%
+
+46
+00:04:52.310 --> 00:04:58.709
+Ivylevel: of the standout factor that really decides at the end of the day. What gets you in is you
+
+47
+00:05:00.050 --> 00:05:03.189
+Ivylevel: right? That is why it becomes very interesting.
+
+48
+00:05:03.350 --> 00:05:09.209
+Ivylevel: because anything that is done objectively without factoring the one and only thing that really matters
+
+49
+00:05:09.400 --> 00:05:11.250
+Ivylevel: does not have an effect and impact.
+
+50
+00:05:11.420 --> 00:05:23.299
+Ivylevel: And it's all very connected. And I think Jenny can very beautifully articulate it for you. Anything and everything you do and see. Eventually, let's work backwards. It all boils down to 10 extracurricular activities. That's another fundamental difference
+
+51
+00:05:23.480 --> 00:05:28.689
+Ivylevel: that academics is not the main significant factor at the end of the day to get you in.
+
+52
+00:05:29.020 --> 00:05:39.790
+Ivylevel: It's in non academics, because the kind of people they're looking for, that you have, Jenny here, and Aditi here, and many other kind of brilliant coaches we have, you know, mainly from Stanford, mainly because Stanford, you know.
+
+53
+00:05:40.263 --> 00:06:00.860
+Ivylevel: is is kind of a very unique top iv plus school. And you know, they've also got admitted into many other schools is that you know? They all stood out right. So that's the relatability. And they did very impactful work, which is very well aligned cohesively with their narrative, with their profile, with their identity.
+
+54
+00:06:00.920 --> 00:06:08.179
+Ivylevel: Right? So th! That's why it's very important that you are involved in this journey, and you team up
+
+55
+00:06:08.740 --> 00:06:10.980
+Ivylevel: every week after week after week
+
+56
+00:06:11.360 --> 00:06:18.489
+Ivylevel: you strategize, you plan, you execute. It doesn't really matter about you know how many awards you won, how many checklist items you have done.
+
+57
+00:06:18.710 --> 00:06:22.969
+Ivylevel: The sure way to not stand out is to just follow the crowd.
+
+58
+00:06:23.940 --> 00:06:30.760
+Ivylevel: So it is about doing unique things. It's not about doing some passion project. It's about doing something which is very uniquely.
+
+59
+00:06:31.160 --> 00:06:32.130
+Ivylevel: Anonia.
+
+60
+00:06:32.680 --> 00:06:40.220
+Ivylevel: Every bit of your college application finally has to tell a narrative. It should not be a checklist. That's a fundamental difference. Academics is checklist
+
+61
+00:06:40.780 --> 00:06:44.960
+Ivylevel: grade, one grade, 2. Grade subject, one. Subject, 2. That's the easiest part.
+
+62
+00:06:45.070 --> 00:06:50.039
+Ivylevel: How do you build extracurriculars. That's very qualitative. It's not quantitative.
+
+63
+00:06:50.150 --> 00:06:58.620
+Ivylevel: So that is the beauty of it. And I think that's the journey. So today's session is really something that Jenny will lead. You know she's our head coach, and you know Aditya is gonna
+
+64
+00:06:58.981 --> 00:07:05.469
+Ivylevel: again chime in as needed. But she's gonna observe you. And and what what's gonna happen is really it's
+
+65
+00:07:05.550 --> 00:07:09.649
+Ivylevel: understanding who you are. What's what's your profile? What are your passions?
+
+66
+00:07:10.312 --> 00:07:15.000
+Ivylevel: Really getting to know you at a very, you know a broad and a deep level.
+
+67
+00:07:15.060 --> 00:07:17.329
+Ivylevel: So we have done this for many, many students.
+
+68
+00:07:17.628 --> 00:07:27.080
+Ivylevel: So I'm just gonna go on on mute and silence now. And it's just a show between you and and Jenny. Just enjoy this session, and then we'll take it from there. Make sense.
+
+69
+00:07:27.500 --> 00:07:28.090
+Ananyaa Srivastava: Yes.
+
+70
+00:07:28.380 --> 00:07:29.520
+Ananyaa Srivastava: thanks. Raj.
+
+71
+00:07:30.870 --> 00:07:55.820
+Jenny Duan: Awesome. Hi, Nanya, it's really nice to meet you, and I think so. Raj kind of set everything up pretty nicely. So hopefully, you have some context for today's session. So today is one of 2 sessions, and the 1st one will be trying to get to know you. It'll be a lot of me sort of asking you questions, and then from that, what our team will do is we'll create some ideas for what you can work on to strengthen your profile, and then we'll start building on to those in the second session.
+
+72
+00:07:55.820 --> 00:08:03.689
+Jenny Duan: What that could look like is perhaps suggestions of summer programs that you might be a good fit for extracurriculars that really tie along with your profile and
+
+73
+00:08:04.016 --> 00:08:16.409
+Jenny Duan: sort of the idea of what we want to show for bringing your passions and your interests and your hobbies, and also your career aspirations together in one cohesive profile. And when I say profile, I mean, it's
+
+74
+00:08:16.728 --> 00:08:36.479
+Jenny Duan: a way to represent you within the context of a college application. So understanding that you're more than just a college application. But a college application is a way for you to better understand yourself, and also what your goals are, and how your different extracurriculars come together to shape what you do, and the impact you can have on the world one day.
+
+75
+00:08:36.703 --> 00:08:51.250
+Jenny Duan: So with that, do you have any questions before I get started? How it will go is I'll probably ask you for questions for about 40 min, and then I'll leave some time at the end. If you or your parents have any questions about you, or we can talk through some of your concerns. Does that sound good? Do you have any other questions.
+
+76
+00:08:51.710 --> 00:08:52.365
+Ananyaa Srivastava: Good.
+
+77
+00:08:53.260 --> 00:08:57.539
+Ananyaa Srivastava: I don't you? None so far, thank you.
+
+78
+00:08:57.970 --> 00:08:58.749
+Jenny Duan: Awesome, feel free to.
+
+79
+00:08:59.119 --> 00:09:25.329
+Ananyaa Srivastava: What? What Siraj earlier mentioned is what we have been struggling with as well like, you know. We know the objective way of doing je in India very well. But the you know this whole guidance on how does she improve her other things? She's a good student. She gets good grades. And you know she has her passions. But how does she stand out from
+
+80
+00:09:25.330 --> 00:09:39.259
+Ananyaa Srivastava: many, many other good students? That's that's the guidance which which we are looking for. So thank you so much for the introduction, and we, we are willing to put in all 3 of us. We are willing to put in quite a bit of effort to make us successful.
+
+81
+00:09:40.120 --> 00:09:49.419
+Jenny Duan: Yeah, amazing. That sounds really good. Well, to start off, I looked a bit at your form submission and I saw that you go to Eastlake High School in Washington, right.
+
+82
+00:09:49.650 --> 00:09:50.160
+Ananyaa Srivastava: Yes.
+
+83
+00:09:50.433 --> 00:09:53.990
+Jenny Duan: Is that close to how close? What suburb of Washington is that in.
+
+84
+00:09:54.250 --> 00:09:55.559
+Ananyaa Srivastava: That's in Samish.
+
+85
+00:09:55.800 --> 00:10:01.278
+Jenny Duan: Samish Washington cool. I'm from Portland, Oregon. So like also Pacific, Northwest.
+
+86
+00:10:01.920 --> 00:10:22.449
+Jenny Duan: yeah. I thought also, before I get started, I could do an introduction about me, because it seems like I already know a bit about you. But I feel like you don't know anything about me, so we can start with that. I'm Jenny. I'm a rising junior at Stanford University. I study symbolic systems, which is an interdisciplinary major, and we'll get more into what that means later on, that combines
+
+87
+00:10:22.450 --> 00:10:34.879
+Jenny Duan: computer science, philosophy, psychology, linguistics, statistics, and math. But my concentrations on human centered AI. So I think a lot about what AI is and how that impacts the world. And that's what I spend most of my time studying.
+
+88
+00:10:36.100 --> 00:10:41.190
+Jenny Duan: with that, let's get more into your profile. So you're from Samish Washington. Did you grow up there?
+
+89
+00:10:42.070 --> 00:10:44.590
+Ananyaa Srivastava: More or less. Yeah, we moved here when I was what? 3?
+
+90
+00:10:45.320 --> 00:10:46.210
+Ananyaa Srivastava: Yeah.
+
+91
+00:10:46.790 --> 00:10:47.909
+Ananyaa Srivastava: from Chicago.
+
+92
+00:10:48.520 --> 00:10:49.380
+Jenny Duan: From Chicago.
+
+93
+00:10:49.560 --> 00:10:59.590
+Jenny Duan: Awesome. And at high school you're entering your sophomore year 1st of all, like, how do you feel about that? Has school already started. And how's everything going school? Wise.
+
+94
+00:11:00.188 --> 00:11:02.399
+Ananyaa Srivastava: Yeah. School started just this week.
+
+95
+00:11:02.460 --> 00:11:05.770
+Ananyaa Srivastava: It's going pretty well so far. I think I could
+
+96
+00:11:05.830 --> 00:11:09.919
+Ananyaa Srivastava: manage the workload fairly easily as long as I keep on top of homework.
+
+97
+00:11:10.750 --> 00:11:15.870
+Jenny Duan: Awesome. Can you tell me a little bit more about what your course load or workload looks like this year?
+
+98
+00:11:16.913 --> 00:11:24.659
+Ananyaa Srivastava: I'm taking French. 3 ap computer science applications ap world history. Honors English.
+
+99
+00:11:25.310 --> 00:11:26.250
+Ananyaa Srivastava: But Alex
+
+100
+00:11:26.730 --> 00:11:32.150
+Ananyaa Srivastava: physics, one calculus a b, a B. Calculus a B, and
+
+101
+00:11:32.330 --> 00:11:34.380
+Ananyaa Srivastava: missing something.
+
+102
+00:11:34.450 --> 00:11:36.290
+Ananyaa Srivastava: chemistry, honors, chemistry.
+
+103
+00:11:36.520 --> 00:11:37.759
+Ananyaa Srivastava: so on and so
+
+104
+00:11:38.140 --> 00:11:44.480
+Ananyaa Srivastava: oh, one sec, Jenny, so she might get into physics, too. But that's with the counselor yet.
+
+105
+00:11:45.050 --> 00:11:46.260
+Ananyaa Srivastava: Right? Yeah.
+
+106
+00:11:46.860 --> 00:11:49.789
+Ananyaa Srivastava: So she took ap physics one over the summer.
+
+107
+00:11:49.880 --> 00:11:52.300
+Ananyaa Srivastava: not over the summer last year. Yeah.
+
+108
+00:11:53.530 --> 00:11:57.629
+Jenny Duan: So you took ap physics one over the summer, but you're taking physics one in school right now.
+
+109
+00:11:57.850 --> 00:12:02.640
+Ananyaa Srivastava: Yes, like I self studied for the Ap. Test, and I got a 4,
+
+110
+00:12:02.890 --> 00:12:08.109
+Ananyaa Srivastava: and I talked to my counselor about going to Ap. Physics, too, but she hasn't really responded yet.
+
+111
+00:12:08.570 --> 00:12:12.769
+Jenny Duan: Okay. And how long ago did you send that message to your counselor?
+
+112
+00:12:12.770 --> 00:12:21.030
+Ananyaa Srivastava: Okay. So I talked to her. Well, I emailed her over the summer and she said that I had to fill out a form that goes out on the 1st day of school if I wanted to change my course.
+
+113
+00:12:21.400 --> 00:12:25.050
+Ananyaa Srivastava: and that's what I did. But no response. So far.
+
+114
+00:12:25.690 --> 00:12:32.480
+Jenny Duan: Right and maybe you can reach back out to her like on Monday to see if
+
+115
+00:12:32.580 --> 00:12:42.119
+Jenny Duan: she has seen that form. You can just send her a follow up email on Monday. I would recommend doing that. So you're taking pretty much all Aps and honors except for French. 3 right?
+
+116
+00:12:42.120 --> 00:12:42.750
+Ananyaa Srivastava: Yes.
+
+117
+00:12:42.980 --> 00:12:46.790
+Jenny Duan: And do you have French for? Or are you going straight into French
+
+118
+00:12:47.020 --> 00:12:48.940
+Jenny Duan: ap French next year?
+
+119
+00:12:49.470 --> 00:12:54.539
+Ananyaa Srivastava: I think there is a French 4, and we definitely do have ap French. But I'm not certain
+
+120
+00:12:54.790 --> 00:12:57.009
+Ananyaa Srivastava: I can look at the course catalog if you want.
+
+121
+00:12:58.910 --> 00:13:01.799
+Jenny Duan: it's okay. No, no need. What did you take last year?
+
+122
+00:13:02.360 --> 00:13:03.300
+Ananyaa Srivastava: I took
+
+123
+00:13:05.954 --> 00:13:09.640
+Ananyaa Srivastava: I took ap computer science principles.
+
+124
+00:13:09.810 --> 00:13:11.710
+Ananyaa Srivastava: French, 2
+
+125
+00:13:12.340 --> 00:13:16.111
+Ananyaa Srivastava: honors, English honors, humanities. Well, honors.
+
+126
+00:13:18.320 --> 00:13:19.040
+Ananyaa Srivastava: what?
+
+127
+00:13:19.580 --> 00:13:21.940
+Ananyaa Srivastava: No. I took precalculus.
+
+128
+00:13:22.010 --> 00:13:25.400
+Ananyaa Srivastava: not honors, humanities. It was honors, civics, or something.
+
+129
+00:13:25.660 --> 00:13:26.345
+Ananyaa Srivastava: Yeah.
+
+130
+00:13:27.860 --> 00:13:28.950
+Ananyaa Srivastava: what else?
+
+131
+00:13:29.150 --> 00:13:32.219
+Ananyaa Srivastava: Precalculus? Yeah, it's a precalculus already
+
+132
+00:13:34.220 --> 00:13:35.359
+Ananyaa Srivastava: hardly forgotten.
+
+133
+00:13:36.240 --> 00:13:36.740
+Aditi B: Pure science.
+
+134
+00:13:37.325 --> 00:13:37.910
+Ananyaa Srivastava: But
+
+135
+00:13:38.640 --> 00:13:41.477
+Ananyaa Srivastava: right honors biology, and thank you.
+
+136
+00:13:43.480 --> 00:13:44.710
+Ananyaa Srivastava: Something else.
+
+137
+00:13:44.790 --> 00:13:45.950
+Ananyaa Srivastava: Oh, fitness.
+
+138
+00:13:46.140 --> 00:13:47.260
+Ananyaa Srivastava: fitness, and health.
+
+139
+00:13:49.475 --> 00:13:58.119
+Jenny Duan: And just curious like, how would you describe the atmosphere at your school? Is it very stressful? Is it very competitive? Is it more chill.
+
+140
+00:13:59.230 --> 00:13:59.970
+Ananyaa Srivastava: That's
+
+141
+00:14:00.180 --> 00:14:00.990
+Ananyaa Srivastava: hmm.
+
+142
+00:14:01.370 --> 00:14:15.820
+Ananyaa Srivastava: Well, I would say that it's pretty chill in terms of actual coursework. But the students there are fairly competitive, like, there's a lot of clubs, and most, if not all, students, do a lot of extracurricular stuff.
+
+143
+00:14:17.080 --> 00:14:19.150
+Jenny Duan: Gotcha how would you say?
+
+144
+00:14:19.150 --> 00:14:24.550
+Ananyaa Srivastava: I mean, I do feel a lot of students, not you. They do feel that academics are
+
+145
+00:14:24.630 --> 00:14:27.990
+Ananyaa Srivastava: pretty competitive. That's your personal opinion, right?
+
+146
+00:14:28.020 --> 00:14:32.130
+Ananyaa Srivastava: Oh, you said Chill. But there are, I know personally
+
+147
+00:14:32.610 --> 00:14:39.519
+Ananyaa Srivastava: some of the friends, some of the people who you used to be friends with. They feel that it's pretty competitive. It's tough. The courses are tough.
+
+148
+00:14:39.690 --> 00:14:53.440
+Ananyaa Srivastava: Yeah. Yeah. So, Jenny, it could be because Anania comes from quest background. And she was a little ahead. So that's why, compared to Quest, which is the gifted program in middle school. She finds the pace easier.
+
+149
+00:14:53.600 --> 00:14:54.350
+Ananyaa Srivastava: Yeah.
+
+150
+00:14:55.430 --> 00:15:08.049
+Jenny Duan: Okay, cool. That's really good. So do you feel like among your peers? Are you taking classes that are pretty typical? Are you taking a more challenging course load than most of your peers? Or is it somewhere in between.
+
+151
+00:15:09.090 --> 00:15:14.899
+Ananyaa Srivastava: It's not uncommon to do what I do, but it's not like super common either. So somewhere in the middle.
+
+152
+00:15:15.320 --> 00:15:18.710
+Jenny Duan: Okay, do, are there people taking more challenging courses than you are?
+
+153
+00:15:19.010 --> 00:15:21.220
+Ananyaa Srivastava: I know. Maybe like one or 2 people.
+
+154
+00:15:21.260 --> 00:15:30.410
+Ananyaa Srivastava: one or 2 people taking instead of honors chemistry. They're taking ap chemistry because they took honors chemistry over the summer, and then skipped over to physics, too. Like I'm trying to.
+
+155
+00:15:30.860 --> 00:15:32.650
+Jenny Duan: Gotcha are.
+
+156
+00:15:32.650 --> 00:15:43.789
+Ananyaa Srivastava: Any another another thing that those some of the kids are doing. Very few of them are doing like the math program that they were in. They. Some of them are doing that. Uw, math.
+
+157
+00:15:43.980 --> 00:15:48.570
+Ananyaa Srivastava: Yeah, which I didn't do. Yeah. But that was pre calculus. No.
+
+158
+00:15:49.320 --> 00:15:56.150
+Ananyaa Srivastava: yeah. They have the University of Washington version of the math program also, which is tougher than just regular pick calc.
+
+159
+00:15:57.420 --> 00:16:01.250
+Jenny Duan: Got it. Does your school have a ranking system.
+
+160
+00:16:01.530 --> 00:16:02.160
+Ananyaa Srivastava: You know.
+
+161
+00:16:02.590 --> 00:16:03.610
+Jenny Duan: No, okay, cool.
+
+162
+00:16:03.810 --> 00:16:07.589
+Jenny Duan: That's pretty healthy. I? Yeah, I don't think it's good to rank students.
+
+163
+00:16:08.980 --> 00:16:16.370
+Jenny Duan: And do you feel appropriately challenged by your courses. Do you feel like you could be taking harder courses? Or do you feel like this is a good level for you?
+
+164
+00:16:17.050 --> 00:16:24.730
+Ananyaa Srivastava: Well, I'm not sure about this year, because the school year just started. I'm gonna guess it will be more challenging than last year, because last year was
+
+165
+00:16:25.320 --> 00:16:27.460
+Ananyaa Srivastava: quite easy. I'm gonna be honest.
+
+166
+00:16:27.630 --> 00:16:43.079
+Jenny Duan: Yeah, well, that's good. I think that you know high school oftentimes should feel a little bit lighter. And if it does feel lighter, and you are taking hard classes. That just means you have more time to dedicate to things outside of school, which is cool. How's your relationship with your teachers? Would you say.
+
+167
+00:16:43.970 --> 00:16:50.239
+Ananyaa Srivastava: Well, I am on the quieter side, so I don't interact with them a lot. But when I do, generally they like me.
+
+168
+00:16:51.170 --> 00:16:55.200
+Jenny Duan: Cool. Do you have like a favorite teacher, or one that you're particularly close with.
+
+169
+00:16:56.250 --> 00:16:57.380
+Ananyaa Srivastava: I'd say so.
+
+170
+00:16:59.023 --> 00:17:00.169
+Jenny Duan: Which one.
+
+171
+00:17:00.560 --> 00:17:03.679
+Ananyaa Srivastava: My ap world history and English teacher
+
+172
+00:17:03.840 --> 00:17:05.069
+Ananyaa Srivastava: cause I think you
+
+173
+00:17:05.130 --> 00:17:06.449
+Ananyaa Srivastava: good sense of humor.
+
+174
+00:17:06.900 --> 00:17:08.280
+Jenny Duan: Hmm, yeah.
+
+175
+00:17:09.267 --> 00:17:31.130
+Jenny Duan: One thing that I would keep in mind this year is because you're approaching your sophomore year. I would try to like, try to get closer with teachers because you need, you're gonna start needing a lot of letters of recommendations for like different programs that you apply to even before college. Like, if you apply to an award or a scholarship program or a summer program, you're gonna need to have a letter of recommendation. So I'd focus on trying to develop your
+
+176
+00:17:31.404 --> 00:17:50.620
+Jenny Duan: relationships with, especially like your stem teachers and also your humanities teachers. So like you're in your core classes try to strengthen your relationships because over time, like throughout high school, you're going to need their support on different things that you do. And it's nice to have an existing relationship with them and not have to scramble and worry about letters of recommendations at the last minute.
+
+177
+00:17:50.660 --> 00:17:59.639
+Jenny Duan: So that's 1 thing I would definitely keep in mind as you approach your school year. Is there anything that you're worried about like going into the sophomore year, or anything that's kind of top of mind?
+
+178
+00:18:00.320 --> 00:18:04.630
+Ananyaa Srivastava: Top of mind. Ap world history. From what I've heard, it's a pretty tough class.
+
+179
+00:18:04.630 --> 00:18:05.570
+Jenny Duan: Yeah.
+
+180
+00:18:05.570 --> 00:18:07.549
+Ananyaa Srivastava: Lot of memorization and dates.
+
+181
+00:18:07.970 --> 00:18:15.829
+Jenny Duan: Definitely are you? Do you consider yourself more like a stem having a stem, mind or humanities, mind? Or do you handle both pretty well?
+
+182
+00:18:16.300 --> 00:18:32.595
+Ananyaa Srivastava: Well, I definitely lean towards them. But I'm not bad at humanities. I don't think I'm bad at humanity. Yeah, yeah. She has good decent writing skills and comprehensive skills. Also, I think it should be fine. Yeah, some mugging up in old history, I guess.
+
+183
+00:18:33.840 --> 00:18:44.829
+Jenny Duan: Yeah, totally. Makes a lot of sense. So you said that you're interested in stem can you tell me like, what about stem, or what specific aspect of stem you're interested in. And and how did you get gain that interest.
+
+184
+00:18:45.290 --> 00:18:46.270
+Ananyaa Srivastava: Well.
+
+185
+00:18:46.480 --> 00:18:53.950
+Ananyaa Srivastava: probably computer science cause, I think, what like, a year ago, I started participating in Usacco.
+
+186
+00:18:54.710 --> 00:18:55.200
+Jenny Duan: And.
+
+187
+00:18:55.200 --> 00:18:57.179
+Ananyaa Srivastava: I quite like it. It's fun.
+
+188
+00:18:58.780 --> 00:19:00.120
+Jenny Duan: What do you like about it?
+
+189
+00:19:02.350 --> 00:19:10.569
+Ananyaa Srivastava: Well, it's satisfying to get a problem right? It's not like super duper easy, but it's not impossible if you like. Study and practice.
+
+190
+00:19:10.880 --> 00:19:14.489
+Ananyaa Srivastava: And I like puzzles and stuff like that. So.
+
+191
+00:19:15.850 --> 00:19:17.869
+Jenny Duan: Yeah, have you always liked puzzles?
+
+192
+00:19:19.390 --> 00:19:21.600
+Ananyaa Srivastava: Yes, yeah, Jenny, that's true.
+
+193
+00:19:22.256 --> 00:19:27.119
+Ananyaa Srivastava: Ever since she was a toddler. Yeah, we used to solve a lot of puzzles. So yeah.
+
+194
+00:19:27.120 --> 00:19:30.980
+Jenny Duan: That's awesome. Do you like math, too? Or or more computer science.
+
+195
+00:19:31.674 --> 00:19:42.049
+Ananyaa Srivastava: I used to dislike math, but then I got like a math teacher, or you know, and I got a lot better at it, and since then I liked it.
+
+196
+00:19:43.000 --> 00:19:45.699
+Jenny Duan: Yeah, have you taken like a number theory class? Ever.
+
+197
+00:19:46.180 --> 00:19:46.810
+Ananyaa Srivastava: No.
+
+198
+00:19:47.430 --> 00:20:08.760
+Jenny Duan: Okay, that's 1 thing I would probably recommend you to do is to explore more math, because I think you know, math and Cs, obviously go really well together and getting the foundation for like number theory, logic can be really helpful when I'm doing use of other like coding competitions. And also eventually doing math competitions, too. In the future. Do you see yourself like
+
+199
+00:20:08.850 --> 00:20:13.900
+Jenny Duan: studying computer science in college? Or are there other subjects that you're still exploring and are interested in.
+
+200
+00:20:14.410 --> 00:20:21.190
+Ananyaa Srivastava: Right now I would lean towards computer science. But I'm not like completely close to anything else. If it interests me.
+
+201
+00:20:22.110 --> 00:20:35.759
+Jenny Duan: Yeah, and have besides, you Sicko, have you done any other like computer science related activities? I know that you, are are working on a website design for a corporation. Can you tell me a bit about that?
+
+202
+00:20:36.500 --> 00:20:37.350
+Ananyaa Srivastava: Well.
+
+203
+00:20:37.700 --> 00:20:45.276
+Ananyaa Srivastava: it involves learning a lot of like other languages like HTML more Javascript, like frameworks, and.
+
+204
+00:20:46.920 --> 00:20:47.390
+Jenny Duan: Yeah.
+
+205
+00:20:47.390 --> 00:20:48.240
+Ananyaa Srivastava: And
+
+206
+00:20:48.600 --> 00:20:49.420
+Ananyaa Srivastava: oh.
+
+207
+00:20:50.580 --> 00:20:53.120
+Ananyaa Srivastava: it's okay, I guess.
+
+208
+00:20:54.110 --> 00:20:59.839
+Jenny Duan: Okay, it's just okay. So I'm sensing that there's like something up with it. Why, why, just okay.
+
+209
+00:21:00.450 --> 00:21:04.649
+Ananyaa Srivastava: It's okay, because, honestly, I find it kind of confusing to do.
+
+210
+00:21:05.470 --> 00:21:07.609
+Jenny Duan: Yeah, what about it is confusing.
+
+211
+00:21:09.200 --> 00:21:10.630
+Ananyaa Srivastava: Well, I'm not
+
+212
+00:21:10.920 --> 00:21:18.770
+Ananyaa Srivastava: very good at like React Js. And next js, I think it's just a matter of like I didn't have a lot of time, and I was trying to crunch it all in
+
+213
+00:21:19.550 --> 00:21:21.020
+Ananyaa Srivastava: and
+
+214
+00:21:21.150 --> 00:21:25.559
+Ananyaa Srivastava: kind of create a block in my head. I guess that makes sense.
+
+215
+00:21:26.640 --> 00:21:28.450
+Jenny Duan: How long have you been working there?
+
+216
+00:21:29.250 --> 00:21:29.980
+Ananyaa Srivastava: So long.
+
+217
+00:21:30.940 --> 00:21:35.400
+Ananyaa Srivastava: Why don't you didn't? A few months April, right? Yeah. A few months.
+
+218
+00:21:36.770 --> 00:21:39.330
+Jenny Duan: And how did you? How did you find this role.
+
+219
+00:21:40.120 --> 00:21:41.489
+Ananyaa Srivastava: Stressful honestly.
+
+220
+00:21:42.690 --> 00:21:44.719
+Ananyaa Srivastava: No, she's asking, how did you find.
+
+221
+00:21:44.720 --> 00:21:47.739
+Jenny Duan: How did how did you find it? Yeah, like, how did you.
+
+222
+00:21:48.245 --> 00:21:54.089
+Ananyaa Srivastava: On Jenny, a friend of mine. She's 1 of the founding founding members of the company.
+
+223
+00:21:54.210 --> 00:21:55.840
+Ananyaa Srivastava: So that's how.
+
+224
+00:21:55.840 --> 00:21:57.133
+Jenny Duan: Okay, cool.
+
+225
+00:21:58.450 --> 00:22:02.190
+Jenny Duan: and what kind of projects have you worked on through that organization?
+
+226
+00:22:02.850 --> 00:22:04.850
+Ananyaa Srivastava: So I've been making some
+
+227
+00:22:05.160 --> 00:22:06.870
+Ananyaa Srivastava: website pages like
+
+228
+00:22:07.050 --> 00:22:08.709
+Ananyaa Srivastava: website page design.
+
+229
+00:22:11.054 --> 00:22:18.380
+Jenny Duan: Like? Do you work with external clients like? Who do you work with? Is it for startups, or do you do it for small businesses, or who are the clients.
+
+230
+00:22:18.380 --> 00:22:21.550
+Ananyaa Srivastava: But directly for the website that they have the company.
+
+231
+00:22:21.550 --> 00:22:24.290
+Jenny Duan: Oh, it's for the company's website. Okay.
+
+232
+00:22:24.290 --> 00:22:24.870
+Ananyaa Srivastava: Yeah.
+
+233
+00:22:25.290 --> 00:22:26.200
+Ananyaa Srivastava: so.
+
+234
+00:22:26.820 --> 00:22:27.610
+Jenny Duan: And what's a couple.
+
+235
+00:22:27.610 --> 00:22:30.510
+Ananyaa Srivastava: Solutions Company. It's a climate Solutions company
+
+236
+00:22:31.020 --> 00:22:37.020
+Ananyaa Srivastava: based out of India, but they have headquarters in 5 countries like Singapore
+
+237
+00:22:37.400 --> 00:22:40.569
+Ananyaa Srivastava: in a couple of other countries in Germany, and so on.
+
+238
+00:22:41.120 --> 00:22:41.670
+Ananyaa Srivastava: Oh.
+
+239
+00:22:41.670 --> 00:22:57.179
+Jenny Duan: Got it. Yeah, that sounds really cool. I think there's so there's a big difference between kind of doing like front end web development work versus, like used to coast more like algorithms problem solving. And more. That type of computer science. What type do you find yourself more drawn to.
+
+240
+00:22:57.700 --> 00:22:58.970
+Ananyaa Srivastava: Definitely used to go.
+
+241
+00:22:59.410 --> 00:23:08.080
+Jenny Duan: Okay, yeah, have you? Explored anything in like the machine learning space or more? Writing algorithms for different purposes. Besides, competition.
+
+242
+00:23:09.170 --> 00:23:10.700
+Ananyaa Srivastava: I've been meaning to. But no.
+
+243
+00:23:11.490 --> 00:23:24.798
+Jenny Duan: Okay, I think that you might find that interesting because that uses like, I guess, the same type of problem solving skills that you saw code does and not like the design and front end stuff that maybe web development would. So I would consider doing that. And then
+
+244
+00:23:25.422 --> 00:23:45.149
+Jenny Duan: to gain the foundation for machine learning and artificial intelligence. That's again about like strengthening your math and statistics skills. So I would highly recommend, like trying to explore that and finding opportunities to strengthen your math background and maybe learn some statistics, because that's directly contributes to to success in AI and Ml, learning.
+
+245
+00:23:46.610 --> 00:23:48.751
+Jenny Duan: yeah, so that sounds cool.
+
+246
+00:23:49.220 --> 00:23:53.889
+Jenny Duan: at your school like what would you say? Your Gpa is.
+
+247
+00:23:53.900 --> 00:23:55.979
+Jenny Duan: and do you have weighted Gpas.
+
+248
+00:23:57.630 --> 00:23:59.470
+Ananyaa Srivastava: It's not weighted, and
+
+249
+00:24:00.470 --> 00:24:08.129
+Ananyaa Srivastava: I checked my transcript, and I have a 4.0. But I got a B plus in English for one semester. Last year.
+
+250
+00:24:08.990 --> 00:24:12.570
+Jenny Duan: Okay, so how does that affect your transcript? Or how will that.
+
+251
+00:24:12.570 --> 00:24:14.230
+Ananyaa Srivastava: Mostly 4.0. But
+
+252
+00:24:14.370 --> 00:24:14.920
+Ananyaa Srivastava: yeah.
+
+253
+00:24:14.920 --> 00:24:15.510
+Jenny Duan: What
+
+254
+00:24:16.570 --> 00:24:18.839
+Jenny Duan: sorry can you repeat that? I think you cut out a bit.
+
+255
+00:24:18.840 --> 00:24:24.749
+Ananyaa Srivastava: I'm sorry. So I checked my official transcript, and it still says 4 point. Oh.
+
+256
+00:24:25.260 --> 00:24:29.190
+Jenny Duan: Oh, then how does that B plus factor into your Gpa. Then.
+
+257
+00:24:30.110 --> 00:24:31.200
+Ananyaa Srivastava: I'm not sure
+
+258
+00:24:32.970 --> 00:24:34.759
+Ananyaa Srivastava: I can send.
+
+259
+00:24:36.110 --> 00:24:53.990
+Jenny Duan: That might be something to clarify, just to see like if that's gonna affect your Gpa later on. I mean, if so, that's okay, too, but just like knowing where you stand there and making sure that like when you send it to schools and things, there's not gonna be an error. So I would try to like get some clarity there. Not a big deal, either way. But
+
+260
+00:24:53.990 --> 00:25:06.849
+Jenny Duan: yeah, that sounds good. So can you tell me more about. I already know that you're doing this web design for the Climate Solutions Company, and you do use a code. Is Yusuco through a club at school. Are you doing this on your own.
+
+261
+00:25:07.220 --> 00:25:08.030
+Ananyaa Srivastava: On my own.
+
+262
+00:25:08.440 --> 00:25:11.112
+Jenny Duan: Do you have a coach, or how are you learning?
+
+263
+00:25:11.670 --> 00:25:13.599
+Ananyaa Srivastava: I've just been learning on my own.
+
+264
+00:25:13.750 --> 00:25:15.270
+Ananyaa Srivastava: Well, with my dad.
+
+265
+00:25:15.570 --> 00:25:16.150
+Ananyaa Srivastava: Okay.
+
+266
+00:25:16.150 --> 00:25:28.620
+Jenny Duan: Sounds good. Yeah. Congratulations on being bronze qualified, highly encourage you again to explore gold, and then I mean silver, and then hopefully, gold at some point. Have you done any hackathons at all?
+
+267
+00:25:29.270 --> 00:25:29.940
+Ananyaa Srivastava: No.
+
+268
+00:25:30.790 --> 00:25:39.459
+Jenny Duan: Okay, hackathons might be something that you could be interested in exploring, too. I know that like front end design and and Ui development isn't your favorite thing. But
+
+269
+00:25:39.510 --> 00:25:46.018
+Jenny Duan: I think hackathons are a cool way to like build projects and strengthen your computer science skills without
+
+270
+00:25:46.570 --> 00:25:56.339
+Jenny Duan: spending too much time, because they're, you know, short events that you can like upscale very quickly on at your school. Is there a big community for people interested in computer science? Or are you like.
+
+271
+00:25:56.340 --> 00:25:56.840
+Ananyaa Srivastava: Yeah.
+
+272
+00:25:56.840 --> 00:26:00.190
+Jenny Duan: One of the only people. Okay, cool. Do you have a lot of friends who do it?
+
+273
+00:26:01.520 --> 00:26:03.070
+Ananyaa Srivastava: A decent view. Yeah.
+
+274
+00:26:03.700 --> 00:26:07.570
+Jenny Duan: Yeah, is that through girls who code at your school? Or is that through a different medium.
+
+275
+00:26:08.860 --> 00:26:13.429
+Ananyaa Srivastava: Well, I just know a lot of kids in general who do computer science stuff.
+
+276
+00:26:14.200 --> 00:26:16.300
+Ananyaa Srivastava: Sorry, I think your voice is cutting out.
+
+277
+00:26:16.800 --> 00:26:17.940
+Jenny Duan: Oh! Can you hear me?
+
+278
+00:26:18.770 --> 00:26:19.979
+Ananyaa Srivastava: Yes, I can hear you now.
+
+279
+00:26:20.380 --> 00:26:25.140
+Jenny Duan: Okay, awesome. Can you tell me a bit about what computer science honor society is.
+
+280
+00:26:26.150 --> 00:26:36.620
+Ananyaa Srivastava: Well, it's just a club where you have to do like some amount of volunteering hours, and you have to attend all the meetings, and they talk about computer science related things
+
+281
+00:26:37.100 --> 00:26:38.270
+Ananyaa Srivastava: to get like
+
+282
+00:26:38.280 --> 00:26:39.430
+Ananyaa Srivastava: verified.
+
+283
+00:26:39.940 --> 00:26:40.830
+Ananyaa Srivastava: That's it.
+
+284
+00:26:41.890 --> 00:26:43.780
+Jenny Duan: What does that mean to get verified?
+
+285
+00:26:44.470 --> 00:26:45.449
+Ananyaa Srivastava: So you're like.
+
+286
+00:26:45.620 --> 00:26:49.439
+Ananyaa Srivastava: you're like, officially a member of the club for that year.
+
+287
+00:26:50.660 --> 00:26:53.419
+Jenny Duan: Is it a competitive club like? Are there a lot of people in it?
+
+288
+00:26:53.990 --> 00:26:55.779
+Ananyaa Srivastava: Yes, there are a lot of people in that.
+
+289
+00:26:57.360 --> 00:26:58.030
+Jenny Duan: And
+
+290
+00:26:58.570 --> 00:26:59.380
+Jenny Duan: go ahead.
+
+291
+00:27:00.840 --> 00:27:15.789
+Ananyaa Srivastava: Do you hold competitions or some such? No, there are no really competitions. What do people do when you meet say for the meeting meeting. It's monthly, and you learn about a topic. You practice some activity related to that topic.
+
+292
+00:27:16.290 --> 00:27:17.550
+Ananyaa Srivastava: And
+
+293
+00:27:18.040 --> 00:27:19.410
+Ananyaa Srivastava: that's it, really
+
+294
+00:27:20.260 --> 00:27:22.869
+Ananyaa Srivastava: so how is it different from your regular curriculum.
+
+295
+00:27:23.650 --> 00:27:25.500
+Ananyaa Srivastava: You said you learn about a topic.
+
+296
+00:27:25.730 --> 00:27:29.219
+Ananyaa Srivastava: Is it outside of the curriculum that you have? Yeah.
+
+297
+00:27:29.920 --> 00:27:32.620
+Ananyaa Srivastava: give us some example, like a small example.
+
+298
+00:27:33.250 --> 00:27:35.540
+Ananyaa Srivastava: We did something on
+
+299
+00:27:37.480 --> 00:27:38.680
+Ananyaa Srivastava: trying to remember.
+
+300
+00:27:41.510 --> 00:27:44.180
+Ananyaa Srivastava: We did stuff on AI for sure.
+
+301
+00:27:44.920 --> 00:27:47.939
+Ananyaa Srivastava: like, you just touch a topic in general. Right? Yeah.
+
+302
+00:27:48.060 --> 00:27:52.019
+Ananyaa Srivastava: Yeah. And then, once a month, you do something else.
+
+303
+00:27:52.200 --> 00:27:53.030
+Ananyaa Srivastava: Okay?
+
+304
+00:27:54.600 --> 00:28:01.020
+Jenny Duan: Yeah, okay? And what's your role in this club? And what's some examples of like the volunteering that you've done to become a member.
+
+305
+00:28:05.320 --> 00:28:07.830
+Ananyaa Srivastava: So I'm just a participant in the club.
+
+306
+00:28:09.010 --> 00:28:11.519
+Ananyaa Srivastava: and last year I only earned my
+
+307
+00:28:12.880 --> 00:28:14.080
+Ananyaa Srivastava: iron, my
+
+308
+00:28:14.350 --> 00:28:18.169
+Ananyaa Srivastava: volunteering hours by creating problems for the club.
+
+309
+00:28:18.290 --> 00:28:21.730
+Ananyaa Srivastava: Oh, that reminds me so. We have like another.
+
+310
+00:28:22.250 --> 00:28:26.529
+Ananyaa Srivastava: I don't remember the exact name, but they have like a smaller club. That's kind of in the club
+
+311
+00:28:26.930 --> 00:28:30.910
+Ananyaa Srivastava: which is for solving competitive programming problems.
+
+312
+00:28:31.450 --> 00:28:34.160
+Ananyaa Srivastava: And I created some problems for that
+
+313
+00:28:34.170 --> 00:28:36.190
+Ananyaa Srivastava: club. And I participate in that, too.
+
+314
+00:28:37.730 --> 00:28:40.220
+Jenny Duan: You guys all train for Usco together.
+
+315
+00:28:41.220 --> 00:28:43.949
+Ananyaa Srivastava: Not quite musical level stuff. But
+
+316
+00:28:44.110 --> 00:28:44.960
+Ananyaa Srivastava: yes.
+
+317
+00:28:45.670 --> 00:28:50.969
+Jenny Duan: Okay, cool. And then is girls who go to school club? Or are you just a part of their summer programs?
+
+318
+00:28:51.550 --> 00:28:54.189
+Ananyaa Srivastava: Nope, it's a it's a club high school.
+
+319
+00:28:54.740 --> 00:28:56.829
+Jenny Duan: Cool, and then what about the oh, go ahead.
+
+320
+00:28:56.830 --> 00:29:03.640
+Ananyaa Srivastava: Yes, girls, Dakota is part of a larger organization. But I don't do anything related to that.
+
+321
+00:29:04.060 --> 00:29:04.940
+Ananyaa Srivastava: Okay.
+
+322
+00:29:05.890 --> 00:29:11.219
+Ananyaa Srivastava: okay. I didn't know that. I thought, it's the larger organization. And you guys do something over there.
+
+323
+00:29:13.620 --> 00:29:21.959
+Jenny Duan: Yeah. So at school. You're part of this computer science honors society girls. Who code. What is the Journalism School club that you're a part of. And what do you do? There.
+
+324
+00:29:22.550 --> 00:29:26.960
+Ananyaa Srivastava: Okay? So basically, we meet up every week. And we
+
+325
+00:29:27.040 --> 00:29:28.659
+Ananyaa Srivastava: do jerk, like.
+
+326
+00:29:29.950 --> 00:29:32.020
+Ananyaa Srivastava: yeah, we create articles for the
+
+327
+00:29:33.420 --> 00:29:35.810
+Ananyaa Srivastava: what's it called like school website.
+
+328
+00:29:37.778 --> 00:29:39.869
+Jenny Duan: And what's your role? There.
+
+329
+00:29:40.710 --> 00:29:42.599
+Ananyaa Srivastava: Usually I make articles.
+
+330
+00:29:43.230 --> 00:29:45.330
+Jenny Duan: What's an example of something that you've written.
+
+331
+00:29:46.370 --> 00:29:53.029
+Ananyaa Srivastava: I started something on the conflict between Palestine and Israel, but I never actually finished it.
+
+332
+00:29:53.570 --> 00:29:55.500
+Jenny Duan: What's something else that you've published?
+
+333
+00:29:56.230 --> 00:29:58.020
+Ananyaa Srivastava: Haven't really published anything.
+
+334
+00:29:58.560 --> 00:30:00.630
+Jenny Duan: Do you plan to get more involved this year?
+
+335
+00:30:02.470 --> 00:30:16.220
+Jenny Duan: Awesome. And then what is like the leadership structure for clubs at your school look like our underclassmen allowed to be have leadership positions. Is this something that you can be elected towards? And do you have any plans to take on leadership roles within these clubs.
+
+336
+00:30:17.310 --> 00:30:19.020
+Ananyaa Srivastava: Typically, you have, like
+
+337
+00:30:19.480 --> 00:30:22.169
+Ananyaa Srivastava: 2 or 3 club officers per
+
+338
+00:30:22.840 --> 00:30:26.380
+Ananyaa Srivastava: club. And you take an interview. If you want to
+
+339
+00:30:27.190 --> 00:30:28.830
+Ananyaa Srivastava: get that position.
+
+340
+00:30:29.640 --> 00:30:33.290
+Jenny Duan: Yeah, is this something that you've been thinking about at all? Through your clubs?
+
+341
+00:30:33.910 --> 00:30:34.660
+Ananyaa Srivastava: Yes.
+
+342
+00:30:36.370 --> 00:30:40.099
+Jenny Duan: What! What does that look like? When would you have the opportunity to interview.
+
+343
+00:30:41.110 --> 00:30:46.470
+Ananyaa Srivastava: Usually it's towards the end of the year, and I applied for some positions last year, but I didn't get in.
+
+344
+00:30:46.940 --> 00:30:52.880
+Jenny Duan: Got it, would you say, like leadership is pretty easy to get at the club, or is it pretty? Is it.
+
+345
+00:30:52.880 --> 00:30:54.190
+Ananyaa Srivastava: Fairly competitive.
+
+346
+00:30:54.190 --> 00:30:56.040
+Jenny Duan: It's really competitive. Okay?
+
+347
+00:30:56.090 --> 00:31:13.529
+Jenny Duan: So one thing that I think is important is demonstrated leadership in school activities. And if that's not attainable through like the traditional processes. What you can do is you can like start your own organization or club, and like, that's like a fast track to get a leadership role? Is this something that you've thought about or considered at all?
+
+348
+00:31:14.340 --> 00:31:15.590
+Ananyaa Srivastava: I've thought about it.
+
+349
+00:31:15.830 --> 00:31:16.600
+Ananyaa Srivastava: Yeah.
+
+350
+00:31:17.510 --> 00:31:22.100
+Jenny Duan: Yeah, would you be interested in starting your own club? And do you know and like what type of club you would want to start.
+
+351
+00:31:23.050 --> 00:31:29.659
+Ananyaa Srivastava: The thing is that there's a lot of clubs at my school, for, like nearly everything like mainstream.
+
+352
+00:31:30.010 --> 00:31:34.559
+Ananyaa Srivastava: So it's it's tough to come up with an idea to start a club for.
+
+353
+00:31:35.765 --> 00:31:43.190
+Aditi B: Can. Do you mind if I jump in for a second? Have you considered like robotics teams in your area cause? There are a few like
+
+354
+00:31:43.210 --> 00:31:50.350
+Aditi B: good robotics teams like Frc. Teams that I can think of. I think they're school affiliated, but you might be able to join them, and if you're not part of the high school.
+
+355
+00:31:50.400 --> 00:31:52.210
+Aditi B: and you can get, like, you know.
+
+356
+00:31:52.260 --> 00:32:01.519
+Aditi B: a software leadership role or like a technical leadership role within those teams, and that might also be useful for both leadership and for building your computer science skills.
+
+357
+00:32:02.020 --> 00:32:05.439
+Ananyaa Srivastava: Yeah, I think that my school does have some robotics teams.
+
+358
+00:32:05.600 --> 00:32:19.950
+Aditi B: Okay? Then I'd highly recommend like looking into those and joining those. It's a decent time commitment, but also great for leadership, great for recs cause. There's lots of mentors usually on those teams who are from industry. And then there's also great like technical skills. You can learn from the club. So
+
+359
+00:32:20.080 --> 00:32:21.560
+Aditi B: right, yeah, highly recommend robot.
+
+360
+00:32:21.560 --> 00:32:22.360
+Ananyaa Srivastava: Awesome.
+
+361
+00:32:22.500 --> 00:32:30.209
+Ananyaa Srivastava: Okay, I'm sorry, Aditi, that's the thing. She used to be part of a robotics club while she was in middle school.
+
+362
+00:32:30.360 --> 00:32:42.329
+Ananyaa Srivastava: but somehow the dynamics within the team was a bit weird, and then the time commitment was like, you know, 3 3 days a week, and then all those extended hours, and somehow.
+
+363
+00:32:43.530 --> 00:32:53.129
+Ananyaa Srivastava: I ended up not really doing actual robotics there very often. But then, if you're part of a bigger team that will always be there. You have to fight it out
+
+364
+00:32:53.260 --> 00:33:00.670
+Ananyaa Srivastava: somehow. It doesn't. Yeah, it it was a bit, you know, like, you know, all the girls in the team versus all the boys in the team
+
+365
+00:33:01.200 --> 00:33:01.890
+Ananyaa Srivastava: and.
+
+366
+00:33:01.890 --> 00:33:03.050
+Aditi B: Oh, yeah, I can imagine.
+
+367
+00:33:03.050 --> 00:33:05.360
+Ananyaa Srivastava: Was, yeah, so.
+
+368
+00:33:06.522 --> 00:33:11.310
+Aditi B: But I think if I'm assuming you did ftc, or something in middle school
+
+369
+00:33:12.210 --> 00:33:14.409
+Aditi B: with like a 15 ish person team.
+
+370
+00:33:15.650 --> 00:33:16.619
+Ananyaa Srivastava: Sorry could you?
+
+371
+00:33:16.620 --> 00:33:23.210
+Aditi B: Did you do like ftc, or like, what robotics did you do in middle school? Okay. So I feel like the Frc
+
+372
+00:33:23.550 --> 00:33:52.680
+Aditi B: set, like the mindset or like the the community, is slightly different, because usually parents aren't the mentors for the team. It's like external and then students end up having better leadership roles like upperclassmen. So there's not too much of like a parent influence on things. And then if you find another like girl in the on the team who's older then, like it's great to like, just connect with them. And then you can kind of like, you know, go under their wing and then build up to maybe a leadership role next year. So.
+
+373
+00:33:52.680 --> 00:33:53.080
+Ananyaa Srivastava: Separate.
+
+374
+00:33:53.439 --> 00:34:03.879
+Aditi B: And plus the season only starts in January for Frc, so you are not behind in anything. They'll probably be starting training and stuff over the fall.
+
+375
+00:34:04.430 --> 00:34:04.830
+Ananyaa Srivastava: Okay.
+
+376
+00:34:04.830 --> 00:34:06.010
+Aditi B: So, yeah.
+
+377
+00:34:07.330 --> 00:34:14.300
+Jenny Duan: And then, yeah, are you interested in robotics at all? Or like the hardware side of computer science? Or are you mostly interested in like the software side?
+
+378
+00:34:15.250 --> 00:34:20.680
+Ananyaa Srivastava: I think that the hardware side of robotics is pretty cool, but I never got the chance to really learn it.
+
+379
+00:34:20.989 --> 00:34:22.770
+Ananyaa Srivastava: but I would be interested in it.
+
+380
+00:34:23.630 --> 00:34:37.250
+Jenny Duan: Yeah. Do you see? In your opinion, do you think it's like you have enough time to join Frc. To make a contribution starting sophomore year, or would it? I? I don't know much about frc, so do you think that that's feasible? Or do you think, like most people start from freshman year earlier?
+
+381
+00:34:37.580 --> 00:34:57.029
+Aditi B: It really depends on your team. I was doing robotics like I did Ftc. As well. I started in the 5th grade with Fll, and I joined my team freshman year, and I ended up getting soft relief by sophomore year. But that was Covid for me. I think it really depends. A lot of students do join sophomore year, and as long as you're like joining as an underclassman, then you really have a good you know.
+
+382
+00:34:57.080 --> 00:34:58.389
+Aditi B: a reasonable
+
+383
+00:34:58.400 --> 00:35:13.240
+Aditi B: possibility of becoming leadership before, like Junior or Senior year. And also, I guess, with Ft. Frc. Teams you can kind of make leadership roles. So there's like, you know, there can be a software lead. But if there's enough students involved, usually they'll open up extra positions. So there's a software like
+
+384
+00:35:13.260 --> 00:35:20.920
+Aditi B: scheduling lead, and they'll break it up to a software technical lead. And you know, they'll just keep breaking up the kind of the leadership
+
+385
+00:35:20.970 --> 00:35:22.130
+Aditi B: roles. So.
+
+386
+00:35:22.130 --> 00:35:24.119
+Ananyaa Srivastava: Like smaller units, right within a.
+
+387
+00:35:24.120 --> 00:35:25.220
+Aditi B: Yeah, yeah.
+
+388
+00:35:25.540 --> 00:35:26.250
+Ananyaa Srivastava: Okay.
+
+389
+00:35:27.440 --> 00:35:28.579
+Jenny Duan: Yeah, that's it. Yeah.
+
+390
+00:35:28.580 --> 00:35:34.869
+Ananyaa Srivastava: Yeah, you'll you'll have to try and see. Look around who's doing it? And like, go and talk to them. Yeah.
+
+391
+00:35:35.660 --> 00:35:59.999
+Aditi B: Yeah, but I'll admit it is like a huge time commitment. I spend like 18 HA week on my team. You know, like 4 days a week, and then Saturdays. So it really depends. Like, if you have, are ready to commit that much time. But then again, it's like in the evenings, and usually Frc. Teams are a little bit better about like time management. They let you go by 10 Pm. They don't make you stay overnight until, like 2 Am. Like Ftc. Teams sometimes do.
+
+392
+00:36:00.000 --> 00:36:00.630
+Ananyaa Srivastava: Yeah.
+
+393
+00:36:00.960 --> 00:36:01.660
+Ananyaa Srivastava: also.
+
+394
+00:36:01.660 --> 00:36:01.979
+Jenny Duan: Thank you.
+
+395
+00:36:01.980 --> 00:36:05.730
+Ananyaa Srivastava: I would say that requires a lot of, you know.
+
+396
+00:36:05.880 --> 00:36:13.300
+Ananyaa Srivastava: interpersonal communication and reaching out to people and talking to people which I feel Anania really needs to work on.
+
+397
+00:36:13.680 --> 00:36:24.530
+Aditi B: Yeah, that would be a great place to work on like leadership and interpersonal skill development. So that's that's another reason why I brought up robotics, because that's, you know, leadership and technical in one. Go.
+
+398
+00:36:24.760 --> 00:36:28.279
+Ananyaa Srivastava: Yeah, even to get a position. You know, you have to have, you know, like basic stuff.
+
+399
+00:36:28.410 --> 00:36:34.239
+Ananyaa Srivastava: You know, skills, how you reach out to people, how you talk to people, how you wiggle, you weigh in
+
+400
+00:36:34.340 --> 00:36:42.400
+Ananyaa Srivastava: right that I mean, if I would go around and do it for you. That's not the point right now in high school? Yeah. So.
+
+401
+00:36:42.400 --> 00:37:04.940
+Jenny Duan: Alright, I think I'm gonna step in here and yeah. And then, yeah, I'm curious, like, is this something that you would be interested in? Or is this something that you wouldn't find enjoyable at all? Because I think, with the whole approach to college applications. And you know, activities, we want to do things that you find that you personally appreciate. So is this something that you think you'd be interested in? If not, we can just move on. If so, I'll write it down.
+
+402
+00:37:05.310 --> 00:37:08.240
+Ananyaa Srivastava: If I could manage the time commitment, then I would be interested.
+
+403
+00:37:08.240 --> 00:37:15.549
+Jenny Duan: Okay, I'm a little bit concerned about the time commitment here, especially starting it. And trying to fight your way through a hierarchy. In
+
+404
+00:37:15.550 --> 00:37:40.479
+Jenny Duan: sophomore year. And so I think that I'm gonna write it down. But I think let's explore what some other alternatives would look like that. I think the goal here is to not like necessarily push through a hierarchy like trying to grind your way up, but rather like create opportunities, are a good fit for you where you can immediately step into leadership roles, just because time is like a little bit short, not too short, since you're still a sophomore. But I'd love to find areas where you can have a direct
+
+405
+00:37:40.480 --> 00:37:44.900
+Jenny Duan: influence without having to like compete with other people or like.
+
+406
+00:37:45.040 --> 00:37:58.990
+Jenny Duan: put in just a lot of hours with little impact. Because I think with activities, we want to maximize like your hours to impact ability and try to give you like the most impact with, like the smallest amount of time. Because, obviously, like, we want you to live your life.
+
+407
+00:37:58.990 --> 00:38:22.848
+Jenny Duan: too. And like, I'm sure you have other hobbies outside of school and dedicating time to those, too. So yeah, and also feel free like anytime. If I suggest something that you're like, oh, like this is cool, but maybe, like I don't super wanna do this and let me know, or if I say something, and I tell you maybe this isn't a good fit, and you're like, Oh, I really wanna try this like also let me know. This is all about you, and like what's a good fit for you.
+
+408
+00:38:24.300 --> 00:38:33.230
+Jenny Duan: so yeah, another thing I saw that was super cool on your profile is this, Karate? Advanced Brown Belt. Can you tell me a bit more about Karate, and how long you've been involved with this.
+
+409
+00:38:33.590 --> 00:38:36.740
+Ananyaa Srivastava: I've been doing it since I was 7 or 8. Right?
+
+410
+00:38:37.625 --> 00:38:41.380
+Ananyaa Srivastava: Yeah. 9, no, yeah. 9. No.
+
+411
+00:38:42.245 --> 00:38:42.700
+Jenny Duan: Wow!
+
+412
+00:38:42.890 --> 00:38:43.550
+Ananyaa Srivastava: Yeah.
+
+413
+00:38:45.030 --> 00:38:46.110
+Ananyaa Srivastava: I, like it.
+
+414
+00:38:46.110 --> 00:38:47.659
+Jenny Duan: What do you like about Karate.
+
+415
+00:38:48.180 --> 00:38:48.870
+Ananyaa Srivastava: Well.
+
+416
+00:38:50.240 --> 00:38:51.950
+Ananyaa Srivastava: it's good
+
+417
+00:38:52.190 --> 00:38:55.850
+Ananyaa Srivastava: form of exercise, and I just like the sport, I guess.
+
+418
+00:38:56.350 --> 00:38:56.850
+Ananyaa Srivastava: Built it.
+
+419
+00:38:56.850 --> 00:38:57.460
+Jenny Duan: Yeah.
+
+420
+00:38:58.068 --> 00:39:26.340
+Jenny Duan: I I know I I like martial arts, too. I took an intro to martial arts course at Stanford, and it was super fun. I like learned a little bit of Karate. I'm really bad, but it was fun to like learn more about the like the positions, and like the history behind it. One thing that I'm that I'm thinking about, that could be really cool with just Karate in general and movement is since you like robotics, and you're interested in the hardware. I'm curious like. I know, that the University of Washington
+
+421
+00:39:26.648 --> 00:39:49.490
+Jenny Duan: is pretty close to where you are in Spanish, and they might have some cool labs that do research on like movement, and translating like physical movement into robotics with applications into like physical therapy, or like simulating humanoid robots like, I think that would be really cool. If you're interested in robotics at all. Is that something that sounds interesting to you like learning how to make robots move like humans.
+
+422
+00:39:49.490 --> 00:39:50.035
+Ananyaa Srivastava: Yeah.
+
+423
+00:39:50.580 --> 00:40:05.239
+Jenny Duan: Yeah. And I think like doing something like that could connect really well to you know your love for Karate and sport and movement, and like trying to translate. You know that into robotic movement to like either, I could see applications on like helping people rehabilitate, for
+
+424
+00:40:05.250 --> 00:40:28.640
+Jenny Duan: with like muscular diseases, or helping people recover from injury by modeling it through robots, or creating robots that can help, like elderly people, do complete tasks and give them like more autonomy. I think that would be like a really cool direction. I feel like, since you said you're more quiet. Like, maybe a research environment could be good for you, because then you're collaborating with a lot of people. But you don't have to like fight for leadership, because
+
+425
+00:40:28.640 --> 00:40:38.030
+Jenny Duan: everyone's kind of doing their own thing, but still, like collaborating with each other, and you can have charge of your own like projects in your own time. Have you explored any research before.
+
+426
+00:40:38.450 --> 00:40:39.080
+Ananyaa Srivastava: No.
+
+427
+00:40:39.590 --> 00:40:55.349
+Jenny Duan: No, okay. I think that could be something to think about, especially because you're close to the University of Washington, and you have so many resources there. So I think that could be something to look more into. And then I also see, like chess tournaments. How long have you been doing that for.
+
+428
+00:40:55.350 --> 00:40:56.649
+Ananyaa Srivastava: Just a few months.
+
+429
+00:40:59.750 --> 00:41:02.169
+Jenny Duan: and like, how what got you into that.
+
+430
+00:41:02.770 --> 00:41:05.499
+Ananyaa Srivastava: Well, my dad plays a lot of chess and.
+
+431
+00:41:05.690 --> 00:41:06.310
+Jenny Duan: Yeah.
+
+432
+00:41:06.310 --> 00:41:08.370
+Ananyaa Srivastava: Mostly I like the game. It's fun.
+
+433
+00:41:09.489 --> 00:41:11.369
+Jenny Duan: What do you? What do you like about it?
+
+434
+00:41:12.050 --> 00:41:13.160
+Ananyaa Srivastava: Well, it's
+
+435
+00:41:14.450 --> 00:41:16.290
+Ananyaa Srivastava: hmm. Well.
+
+436
+00:41:17.790 --> 00:41:18.599
+Ananyaa Srivastava: it's like
+
+437
+00:41:18.720 --> 00:41:24.159
+Ananyaa Srivastava: I like the way that you have to plan things out. Think like 3 or 4 moves in advance.
+
+438
+00:41:24.850 --> 00:41:27.479
+Ananyaa Srivastava: It's just good mental stimulation.
+
+439
+00:41:27.960 --> 00:41:30.040
+Jenny Duan: Yeah. Do you have a rating in chess?
+
+440
+00:41:30.780 --> 00:41:31.510
+Ananyaa Srivastava: Yes.
+
+441
+00:41:31.980 --> 00:41:32.960
+Jenny Duan: What's your rating.
+
+442
+00:41:33.740 --> 00:41:37.930
+Ananyaa Srivastava: 300. Not that good. I only participated in like a couple of tournaments.
+
+443
+00:41:38.260 --> 00:41:43.039
+Jenny Duan: Yeah, that's pretty good. Do you compete with for your school team, or just independently.
+
+444
+00:41:43.370 --> 00:41:45.349
+Ananyaa Srivastava: I take classes independent of school.
+
+445
+00:41:45.350 --> 00:41:47.852
+Jenny Duan: They take classes independently. That's awesome.
+
+446
+00:41:48.430 --> 00:41:49.390
+Jenny Duan: And
+
+447
+00:41:49.730 --> 00:41:55.089
+Jenny Duan: have you watched like the Queen's gambit? That's the only thing that I know about that I know about chess, but.
+
+448
+00:41:55.090 --> 00:41:57.409
+Ananyaa Srivastava: Alright, your voice cut out a little. Could you repeat that.
+
+449
+00:41:57.410 --> 00:42:03.029
+Jenny Duan: I said, have you watched? The Queen's gambit? That's like the only thing I know about chess. But.
+
+450
+00:42:03.030 --> 00:42:08.080
+Ananyaa Srivastava: I've heard about it. But no, I have seen it. It's I love that movie yeah.
+
+451
+00:42:08.565 --> 00:42:09.510
+Ananyaa Srivastava: yeah, you should.
+
+452
+00:42:09.925 --> 00:42:10.340
+Jenny Duan: Fun?
+
+453
+00:42:12.330 --> 00:42:18.930
+Jenny Duan: yeah. And then one thing I actually found really quickly, right now is like, Have you heard of the company? Nvidia?
+
+454
+00:42:19.330 --> 00:42:19.990
+Ananyaa Srivastava: Yes.
+
+455
+00:42:20.320 --> 00:42:42.439
+Jenny Duan: They actually have a pretty cool lab that they just opened in Seattle. It's like a robotics research lab in Seattle. And I looked at their like I looked at their internship program, and it looks like they have a lot of like college interns. And so I think if they have college interns, they might be willing to take high school interns, or you might be able to connect with some members of their lab to like help out. So
+
+456
+00:42:42.500 --> 00:42:53.060
+Jenny Duan: that's 1 thing I like, we'll talk more about this during our more in depth session next week, but like as a preview like doing something related to Nvidia's lab or research lab at Uw. Could be interesting for you.
+
+457
+00:42:53.379 --> 00:43:01.470
+Jenny Duan: And then, finally, the last extracurricular I see that you have is called Model United Nations delegate is this through school, and how long have you been doing that before?
+
+458
+00:43:02.120 --> 00:43:09.389
+Ananyaa Srivastava: Well, I started off through my middle school, but this year I have been doing it on my own. It started in 7th grade.
+
+459
+00:43:10.370 --> 00:43:11.490
+Jenny Duan: Through school, right.
+
+460
+00:43:11.840 --> 00:43:12.420
+Ananyaa Srivastava: Yes.
+
+461
+00:43:12.990 --> 00:43:15.180
+Jenny Duan: And what what kind of got you into this.
+
+462
+00:43:16.100 --> 00:43:16.920
+Ananyaa Srivastava: Well.
+
+463
+00:43:17.220 --> 00:43:20.290
+Ananyaa Srivastava: there was a Humanities Club in my middle school.
+
+464
+00:43:20.370 --> 00:43:25.020
+Ananyaa Srivastava: and I just joined that club, and I found model United Nations through that.
+
+465
+00:43:25.910 --> 00:43:51.279
+Jenny Duan: Yeah, that makes sense. So I see that you're doing a lot of a lot of different things. So you're doing some technical things. You're learning chess. You're learning a model, you and you're doing, Karate, something that stands out to me about your profile right now is it seems like you're doing like a lot of really cool activities. It seems like you have good interest in computer science. It does seem like your profile is a little bit cookie cutter right now. Do you know what I mean when I say cookie Cutter.
+
+466
+00:43:51.280 --> 00:43:53.180
+Ananyaa Srivastava: Yes. Yes. Okay, that's.
+
+467
+00:43:53.180 --> 00:44:15.620
+Jenny Duan: I think one thing that stands out to me is like, probably a lot of people in your area are like doing similar things to you and like, that's not a bad thing where everyone in in high school kind of starts out with doing the same thing until they eventually figure out their path. So what I want to like kind of dive into right now is what we can do to make your profile very unique and stand out a bit more, and that will look like doing things that are outside the box and things that are special and
+
+468
+00:44:15.620 --> 00:44:37.489
+Jenny Duan: important to you. Could you tell me a bit about like what you're interested in outside of school. It could be anything. It doesn't have to be anything academic related. For example, you could tell me like you like hiking, you can tell me you love playing video games. You love cooking like anything it can be. If you have any really niche interest. I just want to learn more about what you're passionate, about what you spend your time binging Youtube videos on or thinking about in your free time.
+
+469
+00:44:39.060 --> 00:44:41.010
+Ananyaa Srivastava: I like gardening.
+
+470
+00:44:41.350 --> 00:44:42.670
+Jenny Duan: Yeah, that's cool.
+
+471
+00:44:43.040 --> 00:44:43.660
+Ananyaa Srivastava: Yes.
+
+472
+00:44:44.770 --> 00:44:45.210
+Jenny Duan: To hit.
+
+473
+00:44:45.210 --> 00:44:46.199
+Ananyaa Srivastava: Are you telling me more
+
+474
+00:44:46.870 --> 00:44:48.820
+Ananyaa Srivastava: gardening? Hiking?
+
+475
+00:44:50.505 --> 00:44:53.474
+Ananyaa Srivastava: What else, Jenny? She's been helping
+
+476
+00:44:54.040 --> 00:45:01.859
+Ananyaa Srivastava: son of my friend my friend's son with the reading comprehension like a tutor.
+
+477
+00:45:01.860 --> 00:45:03.690
+Jenny Duan: Oh, yeah. Yes.
+
+478
+00:45:03.690 --> 00:45:07.849
+Ananyaa Srivastava: I mean I don't know how I thought. It's something that I should mention.
+
+479
+00:45:08.090 --> 00:45:16.850
+Jenny Duan: Yeah, no, totally I want to know, like, how you spend your time, how? What else do you do? So you keep a garden. What do you like to garden? Vegetables, fruits, flowers.
+
+480
+00:45:16.850 --> 00:45:19.119
+Ananyaa Srivastava: Flowers. Specifically, a lot of roses.
+
+481
+00:45:19.330 --> 00:45:27.339
+Jenny Duan: Roses. Portland is the City of Roses, so I love roses. I think that's awesome. Gardening roses! What else.
+
+482
+00:45:28.440 --> 00:45:30.220
+Ananyaa Srivastava: I like reading.
+
+483
+00:45:31.960 --> 00:45:33.170
+Ananyaa Srivastava: what else?
+
+484
+00:45:36.767 --> 00:45:43.182
+Ananyaa Srivastava: I think, Chris, food, you are a bit of a foodie, yeah, I, like food,
+
+485
+00:45:43.840 --> 00:45:50.289
+Jenny Duan: What do you like about food? Do you like cooking? Do you like like eating out like, do you like learning about restaurants?
+
+486
+00:45:50.900 --> 00:45:52.189
+Ananyaa Srivastava: Eating out, mostly.
+
+487
+00:45:53.180 --> 00:46:07.189
+Jenny Duan: Do? Do you have like? How much do you like eating out like I'm a big foodie, too, like, how much do you like? Do you like learning about like how food is cooked? Do you like following chefs like, do you like like writing about food, or like, what? Or do you just.
+
+488
+00:46:07.190 --> 00:46:07.570
+Ananyaa Srivastava: 2.
+
+489
+00:46:07.570 --> 00:46:07.970
+Jenny Duan: And appreciate.
+
+490
+00:46:07.970 --> 00:46:17.989
+Ananyaa Srivastava: I don't follow chefs, but I do like learning about how food is prepared, and or or sampling a new kind of a cuisine, a new cuisine something that's
+
+491
+00:46:18.530 --> 00:46:21.379
+Ananyaa Srivastava: she hasn't tried before. Yeah, trying new things.
+
+492
+00:46:22.030 --> 00:46:25.220
+Jenny Duan: Yeah, so a couple of things that this is
+
+493
+00:46:25.240 --> 00:46:33.460
+Jenny Duan: bringing to my mind right away is 1st of all like, you like stem right. Do you like chemistry at all, or no.
+
+494
+00:46:34.320 --> 00:46:37.350
+Ananyaa Srivastava: Well, I, yeah, I like chemistry.
+
+495
+00:46:37.980 --> 00:46:40.249
+Jenny Duan: So food. Science. Oh, go ahead.
+
+496
+00:46:40.580 --> 00:46:40.910
+Ananyaa Srivastava: Book.
+
+497
+00:46:41.120 --> 00:46:45.870
+Ananyaa Srivastava: So she did. Ybtc, you be the chemist during the Covid time.
+
+498
+00:46:45.900 --> 00:46:48.710
+Ananyaa Srivastava: and she did pretty well. I think she got
+
+499
+00:46:49.340 --> 00:46:56.270
+Ananyaa Srivastava: second or 3, rd highest grades, or or points in the district at that point in time, in that competition. Yeah.
+
+500
+00:46:57.350 --> 00:47:08.087
+Jenny Duan: Yeah, that's awesome. And I think, like right now, one thing that I'm also noticing is like you do a lot of academic competitions. This is amazing. But we also want to show impact in different ways.
+
+501
+00:47:08.370 --> 00:47:28.339
+Jenny Duan: So we want to have, like a diversified way of showing your impact and your involvement. So that's competitions, but also like tangible impact that you make in your community in the passion areas that we have, we are discussing. And one thing I think, that could be really cool for you is to learn more about food, science and what that looks like, because like food. Science is
+
+502
+00:47:28.730 --> 00:47:56.690
+Jenny Duan: the the science behind? Like, okay, why do we have to boil this food at a certain temperature, like when we cookies making cookies or baking is basically an act of science, like putting together different ingredients, watching their chemical compounds and like kind of expanding that like food, science can help us create less waste when we eat it can create more sustainable processes of making food, especially like I'm mostly vegetarian. I don't really like fake meat, but I know, like food scientists. They make that fake meat. They're making more sustainable choices for a planet. And like
+
+503
+00:47:56.690 --> 00:48:04.129
+Jenny Duan: learning more about the science behind. Food can be like a really interesting thing for you to do, to connect with the community, to develop, to develop, maybe, like
+
+504
+00:48:04.130 --> 00:48:15.159
+Jenny Duan: less waste or better ways to process food or more sustainable choices. So that's something that we could look more into. Another thing is, I just found out that there's a Seattle Rose Society.
+
+505
+00:48:15.479 --> 00:48:18.570
+Jenny Duan: Are you aware of this? Are you familiar with it?
+
+506
+00:48:18.760 --> 00:48:19.639
+Ananyaa Srivastava: I was not.
+
+507
+00:48:20.270 --> 00:48:43.099
+Jenny Duan: Okay. I think that like gardening is a super unique thing, and you should like lean more into that, because at every school, and especially at the schools that you want to apply it to like. They're looking for people that can bring something different and something special to their community like they're not just looking for a billion people who do say science Olympiad, or mock trial or something. They're looking for people who have really unique and diverse and different interests, and I think, like
+
+508
+00:48:43.520 --> 00:49:13.369
+Jenny Duan: learning about flowers, and like trying to be involved with like a rose. Society can be a really good way to connect with the community and can teach you a lot about, I imagine, like interacting with people from all different ages, and being able to share your passion for gardening with the public, which I think could be really cool. Something that I can imagine you going from you could something I can imagine you leading is maybe like an initiative where you like, educate people about roses like, especially kids. Or you emphasize like the importance of having community gardens which
+
+509
+00:49:13.370 --> 00:49:31.738
+Jenny Duan: you know, I could see, like you growing a community garden that then you take that food, and you like either donated that to like a shelter or like a food pantry, or you do something with your love for food, with like your passion for gardening, too? Like something that combines this interest together. I think that would be really cool.
+
+510
+00:49:32.510 --> 00:49:47.140
+Jenny Duan: and this is just like me going on a tangent. But like these are all ideas that I think you could take on for hiking do you go hiking? Really often? I know Mount Rainier is like pretty close to you. I hiked that couple of weeks ago, when I was still in the Pacific Northwest. It's beautiful.
+
+511
+00:49:48.606 --> 00:49:56.899
+Ananyaa Srivastava: Honestly, I've dropped off on hiking lately because I had an injury to my ankle, and that took a while to recover.
+
+512
+00:49:57.800 --> 00:49:58.560
+Ananyaa Srivastava: Yeah.
+
+513
+00:49:59.050 --> 00:49:59.680
+Jenny Duan: That's a good.
+
+514
+00:49:59.680 --> 00:50:01.899
+Ananyaa Srivastava: On an average in the summer.
+
+515
+00:50:02.680 --> 00:50:05.499
+Ananyaa Srivastava: Okay? Ish, okay? Yeah.
+
+516
+00:50:06.220 --> 00:50:09.700
+Jenny Duan: Yeah, cool. And then another question I have is like.
+
+517
+00:50:09.770 --> 00:50:16.279
+Jenny Duan: in your free time. What do you catch yourself thinking about? The most like, you know, when you're not thinking about anything. What do you think about.
+
+518
+00:50:17.950 --> 00:50:23.850
+Ananyaa Srivastava: Usually I go to books and different scenarios for scenes and books I've read lately.
+
+519
+00:50:24.140 --> 00:50:26.859
+Jenny Duan: Yeah, yeah, what are you reading right now? Any recommendations?
+
+520
+00:50:27.320 --> 00:50:29.349
+Ananyaa Srivastava: Project. Hail Mary. I just started.
+
+521
+00:50:29.550 --> 00:50:34.650
+Jenny Duan: Hill, Mary. Okay, I think I've heard of that. That's like pretty. Is that popular right now?
+
+522
+00:50:35.570 --> 00:50:37.450
+Ananyaa Srivastava: Oh, I know it's popular, like
+
+523
+00:50:37.720 --> 00:50:40.959
+Ananyaa Srivastava: in my friend Group. I don't know about outside of that, but.
+
+524
+00:50:40.960 --> 00:50:42.800
+Jenny Duan: Oh, Andy, wire. Okay.
+
+525
+00:50:43.260 --> 00:50:45.860
+Ananyaa Srivastava: Old, so I'm guessing. Yes.
+
+526
+00:50:46.650 --> 00:50:52.739
+Jenny Duan: I read the Martian. I love the Martian. I love science fiction. I haven't read Project Hail Mary yet, but it looks really good.
+
+527
+00:50:53.340 --> 00:51:12.200
+Jenny Duan: Okay, so I think we've covered a lot of material today. I think the biggest goal. And what I want to focus our next session in is coming from these interests that we talked about. I'm gonna prepare. We're gonna prepare. Our team is gonna prepare some like specific extracurricular ideas that we want to help you grow from, and like sort of shape.
+
+528
+00:51:12.482 --> 00:51:35.379
+Jenny Duan: Your interest and help balance them a bit. I think that's our goal is like shifting you from a more cookie cutter profile to diving deeper into those things that from the surface level other people might not know about you. For example, your passion for gardening, your love for reading, cooking, I mean sorry eating good food, and like combining all that into something that's a little bit deeper, because ultimately, like a college application, or all the steps along
+
+529
+00:51:35.380 --> 00:51:52.469
+Jenny Duan: along the way, for your application is a way for you to explore like who you are, and hopefully show that to someone else. I'm just wondering, like as you approach the season of your life, like, what are some of your concerns, and like? What are some things that you struggle with, or you might want extra support or clarification on.
+
+530
+00:51:53.073 --> 00:51:58.909
+Jenny Duan: Now, it's like more of a question. Answer session for you and your parents, where you can go a little deeper into your thoughts.
+
+531
+00:52:01.085 --> 00:52:04.634
+Ananyaa Srivastava: Jenny. The areas that she needs to improve on my take is
+
+532
+00:52:05.920 --> 00:52:14.050
+Ananyaa Srivastava: She? She does speak well, but she needs to learn to speak more freely, I to me it feels like she's holding back a lot.
+
+533
+00:52:14.910 --> 00:52:18.080
+Ananyaa Srivastava: I I want her to be a more confident, more
+
+534
+00:52:18.320 --> 00:52:26.609
+Ananyaa Srivastava: a more confident speaker, and to be able to say, instead of monosyllabic answers, to be able to
+
+535
+00:52:27.149 --> 00:52:32.419
+Ananyaa Srivastava: chat fluidly, more confidently, more fluidly, not holding back so much.
+
+536
+00:52:33.690 --> 00:52:46.770
+Ananyaa Srivastava: Number 2 I mentioned earlier also. Okay, agreed that she's quiet and sort of introverted. But you need basic minimum interpersonal skills to be able to be successful anywhere.
+
+537
+00:52:47.040 --> 00:52:50.549
+Ananyaa Srivastava: Those 2 for me, for example, you know that
+
+538
+00:52:52.050 --> 00:52:55.240
+Ananyaa Srivastava: B. That she got in her English
+
+539
+00:52:55.300 --> 00:52:57.750
+Ananyaa Srivastava: was because she
+
+540
+00:52:58.250 --> 00:53:02.440
+Ananyaa Srivastava: somehow she was very, very hesitant about reaching out to the teacher.
+
+541
+00:53:02.490 --> 00:53:14.380
+Ananyaa Srivastava: She had submitted the assignment, but she had to communicate to the teacher. She did communicate once, but when it I feel it's too important a matter to let go of that. Then, you know, you're not
+
+542
+00:53:14.410 --> 00:53:21.180
+Ananyaa Srivastava: reaching out to the teacher one more time, you know that. Hey? I submitted my assignment. Can you please improve my grades?
+
+543
+00:53:22.210 --> 00:53:23.910
+Ananyaa Srivastava: Or or I mean.
+
+544
+00:53:24.050 --> 00:53:30.400
+Ananyaa Srivastava: yeah, those are self advocacy. Yeah, that was the term that I was raised that I was looking for.
+
+545
+00:53:32.330 --> 00:53:33.450
+Ananyaa Srivastava: Yeah,
+
+546
+00:53:34.740 --> 00:53:57.710
+Jenny Duan: Yeah, that starts. Now let's make sure that you send that follow up email to your counselor on Monday morning. Okay, you're gonna write this down in your notes app, or however, you take notes like right, send this email on Monday morning. Ask them to bump you to physics, too. That can be one small baby step goal. You're definitely qualified, I think sometimes it's easy to like, disqualify ourselves. And we do this all the time when we think like, oh, like.
+
+547
+00:53:57.710 --> 00:54:12.699
+Jenny Duan: maybe I'm not good enough for something, and like I don't deserve to be there. But, like you already took ap physics, one you already got 4, which is a great score. So you deserve to be an Ap. Physics. 2. And you want to put yourself there, and if all it takes is one email. You've got it totally within your reach.
+
+548
+00:54:13.016 --> 00:54:18.199
+Jenny Duan: So let's start with that. And then, yeah, what are your kind of like goals, or like, what are you
+
+549
+00:54:18.620 --> 00:54:27.150
+Jenny Duan: like? Would be concerned about? Or are there any questions that you have regarding like college applications, or your next steps that you would like to clarify or talk about
+
+550
+00:54:27.300 --> 00:54:28.110
+Jenny Duan: right.
+
+551
+00:54:28.574 --> 00:54:35.080
+Ananyaa Srivastava: One concern that I have is probably not quite time management, but more efficiency
+
+552
+00:54:35.540 --> 00:54:41.079
+Ananyaa Srivastava: cause I I don't feel like I have a lot of time management, too. I get tired easily.
+
+553
+00:54:41.570 --> 00:54:46.880
+Jenny Duan: Yeah, you got tired easy, like, physically tired or like, it's hard to hold your attention and focus.
+
+554
+00:54:46.880 --> 00:54:48.109
+Ananyaa Srivastava: Physically tired.
+
+555
+00:54:48.110 --> 00:55:12.559
+Jenny Duan: Okay, this is actually something that I think I would encourage you. To get your labs checked at a doctor. This is like this is just personal advice, like not Iv, not like medical advice, but like personally, this used to happen to me a lot, and like turns out I had a vitamin d deficiency and an iron deficiency. So I would actually like, this is something that maybe isn't a cause by you like, just try especially living in the Pacific Northwest like vitamin d deficiencies
+
+556
+00:55:12.560 --> 00:55:22.519
+Jenny Duan: common. So try to. I would get a blood test, actually get your thyroid, and then your like vitamins. Check to see if you need anything, because a lot of the times like, if you just tell yourself to sleep more like
+
+557
+00:55:22.630 --> 00:55:25.889
+Jenny Duan: from my experience. Having been there like that doesn't really help like
+
+558
+00:55:25.910 --> 00:55:38.719
+Jenny Duan: if something's not helping like, maybe that's just your body needs more nutrients and like in the Pacific Northwest. We know it rains all the time. We don't get sun like that's 1 main reason, or like iron deficiency is also really common. So try to get that checked too.
+
+559
+00:55:38.985 --> 00:55:57.310
+Jenny Duan: And then, with the actual, like, more time, management, aspect, and not like the physical aspect. We can work through some exercises later on to like schedule your time. Make sure that you're balanced, and like we have some strategies to help you with that, so that we can do but the medical side I would just like get check off and try to get that figured out first.st
+
+560
+00:55:57.310 --> 00:56:02.529
+Ananyaa Srivastava: You have an an annual exam coming up right. Yes, please bring it up, because I won't be there.
+
+561
+00:56:03.160 --> 00:56:12.029
+Jenny Duan: Yeah, that would be a good time to bring that up, because that's outside your control. And that's a pretty easy fix, too. It's not like a self discipline issue. That's just like a health thing.
+
+562
+00:56:12.596 --> 00:56:14.660
+Jenny Duan: Yeah. Any other concerns.
+
+563
+00:56:15.640 --> 00:56:23.790
+Ananyaa Srivastava: Yeah. Time management. Also, apart from getting tired, I feel, because I kept hearing in the freshman year that the course is very easy. It's very easy.
+
+564
+00:56:24.070 --> 00:56:27.750
+Ananyaa Srivastava: When it came to homework a lot of the time she was all over the place.
+
+565
+00:56:28.010 --> 00:56:36.419
+Ananyaa Srivastava: you know. If you feel it's easy you should be able to finish it way ahead of time and not like running against a very tight deadline over and over. Yeah.
+
+566
+00:56:36.970 --> 00:56:38.370
+Jenny Duan: Yeah. Totally.
+
+567
+00:56:39.204 --> 00:56:42.350
+Jenny Duan: What about your parents? Anything else that comes to mind.
+
+568
+00:56:43.030 --> 00:56:49.350
+Ananyaa Srivastava: I think I think it's you know this is. This is a wonderful step. I think most of it is.
+
+569
+00:56:50.029 --> 00:56:51.109
+Ananyaa Srivastava: You know.
+
+570
+00:56:51.690 --> 00:57:19.777
+Ananyaa Srivastava: our lack of overall, you know, knowledge and process and structure. And I feel very confident with this session alone that that you are bringing quite a lot of structure and knowledge. Into it we come, as we said earlier, we come from Indian background. You you write G, you get into it. You are done. It's very like, you know. Yes, no kind of thing you do poorly. You don't get done so this is, this is, this requires a game plan. And I I really
+
+571
+00:57:20.220 --> 00:57:35.210
+Ananyaa Srivastava: enjoyed this discussion, and it gives me quite a lot of confidence also that, having gone through all of that, both you, Jenny and Aditi, you would provide the insight and structure, and help guide all of us into this journey. Thank you.
+
+572
+00:57:35.390 --> 00:57:36.390
+Jenny Duan: Yeah, I, I.
+
+573
+00:57:36.390 --> 00:57:38.200
+Ananyaa Srivastava: Some of the ideas that you brought up.
+
+574
+00:57:38.300 --> 00:57:42.869
+Ananyaa Srivastava: and they were amazing, like, we are right here, and we had no idea so.
+
+575
+00:57:43.260 --> 00:57:44.100
+Jenny Duan: Yeah.
+
+576
+00:57:44.670 --> 00:58:03.059
+Jenny Duan: One thing I can easily see, like you taking part in. And and I know we'll we have another session. So we'll go deeper into this. But, like even with the Seattle Rose Society, like, I know that they have volunteer opportunities like maybe you could volunteer and like give tours in their garden. And that would be a cool way to like talk about something you're really passionate about, but also like.
+
+577
+00:58:03.060 --> 00:58:19.409
+Jenny Duan: learn how to interact with people in a very casual setting, and also improving like your community service aspect of your profile. But anyways, we'll go deeper into this in our next session, so no worries about thinking about it. Now, Amadici, do you have anything to add about any ideas that you have or anything you think Anania should be aware of.
+
+578
+00:58:20.080 --> 00:58:32.750
+Aditi B: No, I thought you had a great wrap up. Those were great ideas, too. But yeah, I guess. Keep looking out into your clubs and like, Keep keep doing what you're doing because you're doing a lot of great things. And as we progress we'll try to. You know.
+
+579
+00:58:32.840 --> 00:58:34.950
+Aditi B: Streamline, what you're working on.
+
+580
+00:58:35.560 --> 00:58:36.170
+Ananyaa Srivastava: Okay.
+
+581
+00:58:36.640 --> 00:58:38.440
+Jenny Duan: Yeah. Siraj, any final words?
+
+582
+00:58:38.440 --> 00:58:53.002
+Ivylevel: I mean, you know, I didn't have enough time to actually talk to both parents. Actually, it's been a while since I also talked to you spoke to your mom, but I think just to set a few things here right. The stage. I'm glad that you were able to get the essence of it. I mean, basically, I'm talking to parents here.
+
+583
+00:58:53.230 --> 00:58:54.020
+Ananyaa Srivastava: Gotcha.
+
+584
+00:58:54.020 --> 00:59:00.140
+Ivylevel: Why is this important at the end of the day? Why am I like doing this? And you know, really, for people like myself
+
+585
+00:59:00.300 --> 00:59:08.890
+Ivylevel: is fundamentally for those reasons. You know, the thing that really excites me about the college prep in the Us. Is really those foundational skills
+
+586
+00:59:08.910 --> 00:59:15.800
+Ivylevel: that unfortunately cannot be acquired by going to a boot camp or a meditation camp or a psychotherapy camp.
+
+587
+00:59:16.210 --> 00:59:25.430
+Ivylevel: Right? How do you change a girl? And you know, like I'm I'm sure that probably Jenny is a witness she has seen my own daughter transform. We have seen many girls transform.
+
+588
+00:59:25.610 --> 00:59:39.580
+Ivylevel: and the reason is that this whole framework is such a beautiful thing. So really, what I want you to see, and this thing will happen, whether, like, you know, if done in the proper way with the right strategies and the right guidance.
+
+589
+00:59:39.740 --> 00:59:58.079
+Ivylevel: It will happen because there's no other way of doing this. If you really want to stand out and you're committed. You will have to say no to 1,000 things right. See, there was a lot of question here, and I don't want you to be overbrended with it, right? Clubs and activities, all that this was really kind of to see. Like, you know, what are you currently doing? What's your status scope?
+
+590
+00:59:58.170 --> 01:00:03.220
+Ivylevel: You know how far are you stretched? And and the cookie cutter is is actually a real thing.
+
+591
+01:00:03.230 --> 01:00:07.719
+Ivylevel: And it's 1 of the easiest way to. Actually, it's the most prohibitive way to prepare
+
+592
+01:00:07.830 --> 01:00:25.539
+Ivylevel: right. I'm not saying that as a cookie cutter you won't be able to get in might be one of the top most platinum Olympiad winner, you know, in the entire world might have a chance to get in or a research paper. But that was so novel that probably you know Sam Altman, you know, hired him for his company, or something like that, or her company. What is important is.
+
+593
+01:00:26.070 --> 01:00:31.079
+Ivylevel: you know, especially the second part. You see like how there was this kind of pivot towards the end.
+
+594
+01:00:31.500 --> 01:00:43.860
+Ivylevel: where your community causes your gardening. See, that is what is interesting. And this is fundamentally something that I have missed it as a parent coming from the background where no one actually cared the admission offices did not care
+
+595
+01:00:44.060 --> 01:00:47.280
+Ivylevel: who the person behind that application, or that paper was.
+
+596
+01:00:47.280 --> 01:00:48.160
+Ananyaa Srivastava: Right.
+
+597
+01:00:48.160 --> 01:00:55.000
+Ivylevel: And the only thing they care here is who is the person, the personality behind that application package.
+
+598
+01:00:55.140 --> 01:01:03.640
+Ivylevel: you know. Probably your dad knows it right, you know. Let's work backwards like Amazon. Right? You have this release right coming up. And you know, Alan, you are getting into Stanford
+
+599
+01:01:03.990 --> 01:01:10.729
+Ivylevel: now. They are reading your paper like your your essay or narrative. The 1st thing that manifests in your application is probably 1 min of reading.
+
+600
+01:01:10.910 --> 01:01:16.310
+Ivylevel: And what memories are you leaving them behind when they're reading like 1,000 applications on a daily basis?
+
+601
+01:01:16.470 --> 01:01:16.990
+Ananyaa Srivastava: Correct.
+
+602
+01:01:16.990 --> 01:01:24.429
+Ivylevel: Let's say, like one another girl who's done one who's done XYZ. Debate club X club, y club.
+
+603
+01:01:24.460 --> 01:01:26.010
+Ivylevel: or that girl
+
+604
+01:01:26.150 --> 01:01:29.560
+Ivylevel: who also used to do gardening and made a huge food science impact.
+
+605
+01:01:29.810 --> 01:01:30.859
+Ivylevel: Think about it.
+
+606
+01:01:31.270 --> 01:01:37.300
+Ivylevel: It is how uniquely and interesting! And you know the best part of it. Your authenticity is what will help you.
+
+607
+01:01:37.580 --> 01:01:44.169
+Ivylevel: so do not think of your kind of interest to be. That is your sweet spot and strength.
+
+608
+01:01:44.250 --> 01:01:47.359
+Ivylevel: Do not, and I'm I'm being very honest, a parent to parent chat
+
+609
+01:01:47.480 --> 01:01:59.710
+Ivylevel: parents. We are under a lot of pressure, right? We are looking at 1560, 1580, and then Jenny knows that there is a Asian ritual month after month, where parents actually take their kids to just boost 10 points in sat.
+
+610
+01:01:59.960 --> 01:02:00.680
+Ananyaa Srivastava: Yeah.
+
+611
+01:02:00.680 --> 01:02:04.530
+Ivylevel: Much a waste of return of investment. Your parents know it is about
+
+612
+01:02:04.610 --> 01:02:09.899
+Ivylevel: really spending time on the things that will give you the biggest bang for the buck return of investment.
+
+613
+01:02:10.090 --> 01:02:18.119
+Ivylevel: So there will be a lot of elimination. By the way, okay, and this time management is a woman thing in our program. That's why the weekly execution is important.
+
+614
+01:02:18.220 --> 01:02:25.820
+Ivylevel: The 1st session will be this 1 68 h framework, right where we will try to take a stake. We'll say no to 1,000 things, and that's perfectly fine.
+
+615
+01:02:25.950 --> 01:02:36.709
+Ivylevel: We should not be running after everything. We have to be smart about it, and we need to pick up and define things that are uniquely yours that needs to have a DNA. So the whole point is anything and everything you do.
+
+616
+01:02:36.780 --> 01:03:06.390
+Ivylevel: You should enjoy it. That's when the transformation happens. Because remember, the expectation here is to do this, for you know, eventually, in the college application, there will be a. A. Some quantitative day, some quantitative data for this qualitative work. And one of the quantitative data point is, how many hours and how many F. How much. What kind of an effort and tenure have you put on a particular activity, and tell me one thing, the only way to put a dedicated time and effort on something. If it if you truly love and you're passionate about it.
+
+617
+01:03:07.000 --> 01:03:10.069
+Ivylevel: it's the Indian 3 idiot philosophy, that's what it is.
+
+618
+01:03:10.070 --> 01:03:11.110
+Ananyaa Srivastava: Yes. Yeah.
+
+619
+01:03:11.110 --> 01:03:13.849
+Ivylevel: Do that right. So what I want you to do is
+
+620
+01:03:14.420 --> 01:03:19.769
+Ivylevel: subjectivity. Anania is going to be your secret sauce. There's no other secret sauce.
+
+621
+01:03:19.790 --> 01:03:21.889
+Ivylevel: The more you hold your stories
+
+622
+01:03:21.970 --> 01:03:27.230
+Ivylevel: the more, and you know what this is. Precisely the narrative that every time you do something there is
+
+623
+01:03:27.489 --> 01:03:38.269
+Ivylevel: and you know Aditya and Jenny feel free to kind of drop. I know you guys have a hard stop, you know. I'll just spend some 4, 5, 4 min just to set the stage, because I might not be able to join the next sessions. So
+
+624
+01:03:38.320 --> 01:03:40.540
+Ivylevel: thanks a lot, Jenny. Thanks a lot. Aditi.
+
+625
+01:03:41.126 --> 01:03:41.999
+Ivylevel: Thank you.
+
+626
+01:03:42.000 --> 01:03:44.200
+Jenny Duan: Thank you. Thank you.
+
+627
+01:03:44.920 --> 01:03:48.179
+Ivylevel: So I I really want to set the stage here right, like, you know.
+
+628
+01:03:48.390 --> 01:03:55.070
+Ivylevel: quantitative accomplishments, winning competitions. It is not a checklist. Remove this from your mind.
+
+629
+01:03:55.180 --> 01:04:04.410
+Ivylevel: you know, and I'm talking to you as a you know, as a dad here, like you know, who has gone through this journey multiple times. I that is what actually causes a lot of unnecessary stress on kids.
+
+630
+01:04:04.720 --> 01:04:14.029
+Ivylevel: There is no reason for you to. Actually again, I'm not saying that you should not get into a robotics if it's an overcrowded. And you see that's precisely what Jenny said.
+
+631
+01:04:14.200 --> 01:04:22.049
+Ivylevel: This is our whole strategy. Why do you really go after a crowd where your chances of you know, getting the return of investment is really low.
+
+632
+01:04:22.460 --> 01:04:32.729
+Ivylevel: So you need to carve your own path, your unique path right? And we, what we'll do is we'll try to figure out, you know, things and opportunities and game plan for you that is uniquely yours.
+
+633
+01:04:32.850 --> 01:04:47.810
+Ivylevel: And that also actually is optimized for you to win and succeed at top national levels and international levels and group and impact. So what will happen is you will love that cause. You will love gardening. You will love probably some, but it has to be woven with
+
+634
+01:04:47.890 --> 01:04:55.689
+Ivylevel: your skills, your your subject matter, and your community impact and your passion, probably for girls, probably for some area.
+
+635
+01:04:55.820 --> 01:05:13.569
+Ivylevel: What it what it will do is it will bring you out from that kind of you will feel more confident because you will own it. You will all see you don't need a title to be a leader. And yeah, that's what I'm saying, and I would say this to my daughter, too, and I've seen that transformation, and she's a gangster now. I tell that all the time I said, you know, I don't know what you were 2 years ago, and you're a gangster now.
+
+636
+01:05:13.740 --> 01:05:19.650
+Ivylevel: because she's literally like, you know, like transformed. And and the reason why that happens is
+
+637
+01:05:19.820 --> 01:05:26.460
+Ivylevel: you need to pursue things that you're passionate about, make an impact. The community that you love. So be very authentic in whatever you're discussing.
+
+638
+01:05:26.540 --> 01:05:30.080
+Ivylevel: And the job that our team is really sitting here with
+
+639
+01:05:30.140 --> 01:05:33.579
+Ivylevel: is to really give you a framework
+
+640
+01:05:33.640 --> 01:05:51.919
+Ivylevel: and give you ideas and guide you to really build something which is uniquely yours that you should enjoy doing. Okay? And so don't get into the rat race. You know I'm I know it's very easy, like, you know, don't let these things bother you. If there are 15 guys who are competing at different levels, and they are completely dominating the robotics.
+
+641
+01:05:52.030 --> 01:05:56.650
+Ivylevel: Don't worry about it. That's not. That's not what will help someone actually stand out.
+
+642
+01:05:56.910 --> 01:05:57.280
+Ananyaa Srivastava: Right.
+
+643
+01:05:57.280 --> 01:06:16.560
+Ivylevel: Food science. To me food science is a game changer, like, you know, that is the kind of game changing innings we want. Right? You watch cricket right? We want game changing innings we want. So I think. I I you know, just enjoy this journey and don't you know. Get into a race, because these are
+
+644
+01:06:16.650 --> 01:06:24.660
+Ivylevel: all I'll tell you is like you need 2 or 3 big ticket items. You need 2 or 3 big ticket items. One is community impact. You need to show a community impact
+
+645
+01:06:24.800 --> 01:06:29.440
+Ivylevel: which will be a quantitative number to say that you have actually helped
+
+646
+01:06:29.720 --> 01:06:48.869
+Ivylevel: 10,000 people. You have helped 3,000 people, 5,000 people, and it it could be like in different ways. Right? So that will be your home run. Second thing, you need a passion project that stands out. It could be research, or it could be something that your main. But it cannot just be another project right? It has to be something that also translates into
+
+647
+01:06:48.940 --> 01:06:58.140
+Ivylevel: and impact to the community. Right? So this is. And these things take time. You know, you have to do it with love, care, and effort, and you have to enjoy the journey.
+
+648
+01:06:58.330 --> 01:07:02.779
+Ivylevel: I challenge. I bet you. And I've done this to many parents who we've been helping.
+
+649
+01:07:02.790 --> 01:07:25.809
+Ivylevel: I absolutely see no reason why an India you cannot transform into a strong leader an outspoken girl, a very confident girl, and time management will happen, because, see, the only and and the only commitment I need from you is this, and I'll be very honest if it doesn't work out. i i i i it's not happened before, but I do not take up students. If the it's not working out for them or their parents right?
+
+650
+01:07:26.020 --> 01:07:43.029
+Ivylevel: We want you to succeed, because your success is also my success. You know we are like, I'm a 3 years old startup. I want more, more and more stars. I'm very picky about the students and parents I bring on board parents all they see parents are committed. I know that. But students, I want their commitment. The only commitment I need from you is this
+
+651
+01:07:43.500 --> 01:07:45.379
+Ivylevel: consistency, that's it.
+
+652
+01:07:46.250 --> 01:07:50.190
+Ivylevel: That is the skill that will. You have to be consistent.
+
+653
+01:07:50.200 --> 01:07:53.960
+Ivylevel: and you will be bombarded with 100 things. You go to your school.
+
+654
+01:07:54.000 --> 01:07:58.000
+Ivylevel: Your your classmate would have raised 15,000 in nonprofit
+
+655
+01:07:58.320 --> 01:08:13.490
+Ivylevel: that will probably make you restless. Someone else might have won this. You might have gotten a B. My daughter got a B. She converted it into A, and absolutely your mom was right. You have to reach out. You have to show persistence, consistency. See? At the end of the day you know the biggest factor.
+
+656
+01:08:13.510 --> 01:08:28.739
+Ivylevel: I I'll tell you the rubric I'm I'm I'm sure that your dad, probably, and your mom knows the hiring committees. You know they have the rubric in this top tech companies. You know. What is the rubric of top schools? Admissions? The biggest factor is overcoming adversity. Do you know that
+
+657
+01:08:29.040 --> 01:08:39.309
+Ivylevel: over adversity has a relative weightage of 4 on 5? Whereas your special talents only have a weightage of 3 on 5. Think about it!
+
+658
+01:08:39.540 --> 01:08:46.309
+Ivylevel: If you were a national like, you know, America's got talent singer, you would only be weighted 3 out of 5.
+
+659
+01:08:46.600 --> 01:08:52.200
+Ivylevel: But if you were able to show and tell that story and demonstrate how, in a boys heavy club
+
+660
+01:08:52.210 --> 01:08:56.110
+Ivylevel: of a robotics club where you absolutely had no
+
+661
+01:08:56.550 --> 01:09:05.390
+Ivylevel: entry, all entry barriers, and in 2 years you changed the game and started your own club and became a leader and impacted 15,000 girls.
+
+662
+01:09:05.569 --> 01:09:08.709
+Ivylevel: You see, that story is what is needed.
+
+663
+01:09:09.370 --> 01:09:33.410
+Ivylevel: You know, the kind of people they are requiring is the future leaders of the world they want. They're not looking for experts who are in AI talent and researchers and robotics. Champions might be one or 2 mit, probably some research at some level. They're looking for brilliant like, you know, only academics, students. They need people that if I bring this interesting girl into the class of 2020, 30, or whatever class your class is, gonna be.
+
+664
+01:09:33.410 --> 01:09:41.520
+Ivylevel: you know. How can she come and make an impact in Stanford and then make an impact in the Us and make a global impact in the world.
+
+665
+01:09:41.569 --> 01:09:46.230
+Ivylevel: So they want people who have demonstrated that trail.
+
+666
+01:09:46.359 --> 01:10:08.140
+Ivylevel: So how can you demonstrate? You know, I'll tell you one thing. Your biggest asset is your barriers today. Remember this word, and we will talk about this in 2 years time when you prepare your college application, the biggest struggle I have with students who are all straight A's, and you know no B's and no struggles, and they're all like, you know, I've won all the competition. I I we do have students like that, too, the biggest. There's no story.
+
+667
+01:10:08.280 --> 01:10:13.820
+Ivylevel: There is no story. And I'm like, what story are. We have to struggle to find out.
+
+668
+01:10:13.890 --> 01:10:20.609
+Ivylevel: You know, what barriers did you have? And remember you are from a privileged class at the end of the day, you know, in the gamified system it's a gamified system.
+
+669
+01:10:20.880 --> 01:10:35.259
+Ivylevel: You you you are part of, you know, a a community, and you know, an ethnicity. That is actually, you know, a, not a underserved segment. Unfortunately. So you have to be really different.
+
+670
+01:10:35.320 --> 01:10:44.329
+Ivylevel: So enjoy the journey. And I think you know and the other reason I I did not bring it up, but I did see and mention of Bio in in your profile.
+
+671
+01:10:44.836 --> 01:10:49.970
+Ivylevel: And but mention of journalism. There were a couple of other interest areas. I know it's a lot to cover.
+
+672
+01:10:50.100 --> 01:10:57.959
+Ivylevel: See? I typically, we typically do not assign a long term head coach, you know, like your primary coach, until we evaluate a few things. So
+
+673
+01:10:58.282 --> 01:11:08.080
+Ivylevel: that's why I brought in Aditi as well. Now, Aditi is a very stem. Heavy girl, right? She is really like, you see, like she's robotic. She's Isef. She's reach research. She's all stem stem stem.
+
+674
+01:11:08.451 --> 01:11:14.969
+Ivylevel: Jenny is a very interdisciplinary. And you know Jenny is also a psychologist. You can see the very different approach. Right? So. But she's a head coach.
+
+675
+01:11:14.970 --> 01:11:15.670
+Ananyaa Srivastava: Right, right.
+
+676
+01:11:15.670 --> 01:11:16.100
+Ivylevel: Yeah.
+
+677
+01:11:16.100 --> 01:11:16.539
+Ananyaa Srivastava: I'm sorry.
+
+678
+01:11:16.540 --> 01:11:19.490
+Ivylevel: Care of that. We do have a lot of bio purchase, too.
+
+679
+01:11:19.610 --> 01:11:31.129
+Ivylevel: So I think what we are gonna do is like, you know, we're gonna look at your game plan in next session. I will ask them to also dig a bit more into bio. And the other thing I want. Also. You know, parents to take away from here is
+
+680
+01:11:31.180 --> 01:11:37.899
+Ivylevel: 90% of the coaches who are doing Cs today at Stanford. The top school in the world.
+
+681
+01:11:38.559 --> 01:11:45.209
+Ivylevel: When it comes to Cs actually did no Cs project in their high school, something also that our parents we need to understand.
+
+682
+01:11:45.320 --> 01:11:50.570
+Ivylevel: major, not a requirement to get into a school to do a particular major
+
+683
+01:11:50.860 --> 01:11:52.400
+Ivylevel: fundamental difference.
+
+684
+01:11:53.230 --> 01:12:03.329
+Ivylevel: right? Fundamental difference. Jenny is doing Cs. AI and psychology and all that. The only thing she did when she was in high school was all Bio research. She wanted to be a doctor
+
+685
+01:12:04.000 --> 01:12:19.020
+Ivylevel: there. There is a lot of different profiles. Okay? So I think, remove that thing from your mind that. Oh, if I don't do Cs projects and I don't go to Cs boot camps, I won't get into a Cs school absolutely wrong. Same applies with Berkeley. Same applies. You can even go in as an undecided student.
+
+686
+01:12:19.250 --> 01:12:32.540
+Ivylevel: so I think, don't have that kind of, you know, biases and the weight. You know I have to do. Cs, I have to do. AI. I have to do. That's not the point. What you need to do is you need to demonstrate your overcoming adversity.
+
+687
+01:12:32.790 --> 01:12:43.470
+Ivylevel: growing as a student into a leader, impacting your community, pursuing your passions with consistency and grit and perseverance the future leaders of the world.
+
+688
+01:12:43.900 --> 01:12:46.719
+Ivylevel: the future leaders of the world, do not just think about themselves
+
+689
+01:12:46.880 --> 01:12:50.500
+Ivylevel: right? You can't be just thinking about. You know my marks, my thing.
+
+690
+01:12:50.530 --> 01:12:54.399
+Ivylevel: You are a girl who's gonna impact. And I'm telling you as a proud dad today
+
+691
+01:12:54.650 --> 01:13:17.860
+Ivylevel: that my daughter has influenced, like, you know, tens and thousands of girls today, and she comes from a place where she was completely in a boys heavy club. And this will happen. Trust me, just follow the process. Be consistent with the way they are, you know, helping you and do not take a lot, and if you have any doubts, hey? There are 15 clubs and competitions I was not able to make it. Do not undermine yourself.
+
+692
+01:13:18.020 --> 01:13:25.390
+Ivylevel: Do not undermine and speak up all your barriers, you know the only reason again to parents right? You know, my daughter would reveal so many things
+
+693
+01:13:25.440 --> 01:13:48.820
+Ivylevel: to her coach, and I would go into the recordings once in a while and see what is she sharing? She would share all all her internal barriers with her. That's why relatability works. Because, you know, kids don't share things with their parents, but when you kind of work with your relatable people, feel free to share your vulnerabilities, you know that is part of your story and narrative. So you should really look for a friend. Your coach is your friend.
+
+694
+01:13:48.960 --> 01:14:05.579
+Ivylevel: and that's why you know this, this magic works. I'm giving you all the things that I've learned, the hard way working with many students. And of course there are students who struggle, despite, you know, spending 12 weeks, 14 weeks, 18 weeks, and then I have a chat with their parents. I say, at the end of the day it takes 2 to Tango.
+
+695
+01:14:06.170 --> 01:14:24.810
+Ivylevel: and we'll put a village behind you. I mean it. I you will see this. This will happen, we I because this for me is more than just, you know, running a service. I want to make a big impact with this. I want to change, you know, communities with this. So we will bring in more and more people like research. We'll bring whatever specialist you need. I'll bring them on board.
+
+696
+01:14:24.930 --> 01:14:27.719
+Ivylevel: But you need to promise me that you are going to be consistent.
+
+697
+01:14:28.020 --> 01:14:33.030
+Ivylevel: And you're not giving it up. Okay, just because you have grades. Oh, I'm not gonna do my extracurriculars. No.
+
+698
+01:14:33.070 --> 01:14:38.740
+Ivylevel: if you want to really make an impact to the community and the world. You have to focus on extracurriculars. Very important.
+
+699
+01:14:39.120 --> 01:14:43.429
+Ivylevel: Okay, sorry. One more, dad, talk. Okay. You have to live with it. We are, they see parents.
+
+700
+01:14:43.784 --> 01:14:55.850
+Ananyaa Srivastava: No, this was wonderful, and and in our head the clock has started. So we will put all the effort for next 2 years. She is the primary effort. Like, you know.
+
+701
+01:14:55.880 --> 01:15:17.860
+Ananyaa Srivastava: Provider, but we will help her in every way possible. One thing final just thought which we didn't discuss. Maybe. I'm also looking like if if she has opportunity to go to Oxford or Cambridge, those are also options available to us. I would love her to go to some place. Very good that so I don't know how that works, but but you know
+
+702
+01:15:17.870 --> 01:15:27.060
+Ananyaa Srivastava: I'm I'm completely open if if she wants to go to another really really great university outside as well. So you know, just keep that in mind as well.
+
+703
+01:15:27.060 --> 01:15:51.610
+Ivylevel: I mean, very interesting. We we do have a coach from Cambridge, actually, Oxford, I mean, I'm not expanding into us. Uk, because us schools are in itself like such a heavy toll. But we do have a coach. Actually, you know, from Uk. If needed. You know, there was only one instance, you know where once someone wanted to go, and we brought in someone. It's very easy for me, but you know we bring in, and it's an onboarding like I. We train every coach like, you know, 3 months before they are able to like get into the team.
+
+704
+01:15:51.670 --> 01:15:53.749
+Ivylevel: There is one, at least, but
+
+705
+01:15:53.760 --> 01:15:57.580
+Ivylevel: I would say that you know there is still something very beautiful about us schools.
+
+706
+01:15:58.358 --> 01:16:00.830
+Ivylevel: You know. So
+
+707
+01:16:01.135 --> 01:16:09.370
+Ivylevel: I think Cambridge and Oxford would be probably slightly a cakewalk compared to like. You know the way you prefer, because you know your your profile and your story will be.
+
+708
+01:16:09.590 --> 01:16:17.940
+Ivylevel: I mean, I can't even tell you like I cry at times. You know, reading the essays that our students have prepared after going through that 2 years journey, and I've shown Anushka's transformation.
+
+709
+01:16:18.060 --> 01:16:28.199
+Ivylevel: You know, one of the girls actually, you know, who won an election. And she was like all pre like, just because she won a school election. So and and I've seen. So don't worry about it.
+
+710
+01:16:28.585 --> 01:16:37.149
+Ivylevel: I just don't like when girls are like, feel that they have this barriers right? Because I'm also kind of. You know I have 2 daughters, and I'm very passionate about it. I really want girls to be
+
+711
+01:16:37.524 --> 01:16:41.610
+Ivylevel: you know. And you know, serendipity, like, you know, 99%
+
+712
+01:16:41.977 --> 01:16:48.390
+Ivylevel: all girl coaches. And of course we do have 5% boys. I think girl power is hugely untapped. I think we need to.
+
+713
+01:16:48.390 --> 01:16:55.970
+Ananyaa Srivastava: We have 2 girls as well, so we have another one coming up for your course in in a few years
+
+714
+01:16:56.420 --> 01:17:21.759
+Ananyaa Srivastava: we can wait a little bit, Raj. I have something here you were you you spoke about overcoming adversity right? So like you mentioned. Some of us are from the privileged background, but mental adversity, emotional adversity that also counts for right. If somebody is pathologically shy or anxious, and they, you know.
+
+715
+01:17:21.800 --> 01:17:24.410
+Ananyaa Srivastava: that could also be a beautiful story, right.
+
+716
+01:17:25.000 --> 01:17:31.579
+Ivylevel: Absolutely. And I think that is what the whole narrative is around. In fact, if you think about it, the the game plan report that comes out.
+
+717
+01:17:31.868 --> 01:18:00.340
+Ivylevel: You know. You will see in that report that we will. Already we work backwards. That's 1 of the process, right? We will have. But again, you can't be like, for example, like you know, especially with my daughter, like I never thought she would get into journalism like somehow in one year. Her game plan got like she got into some very prestigious journalism, you know, thing, and but it kind of we wove it into her advocacy. Kind of profile, right? Because there is an when you become journalist you're also an advocate, so that gives you a tool extra tool.
+
+718
+01:18:00.370 --> 01:18:05.790
+Ivylevel: You don't change at your core. You're still the same narrative. But you can. So what what we're going to do is
+
+719
+01:18:06.110 --> 01:18:09.679
+Ivylevel: absolutely, I think the reason why I was trying to highlight is.
+
+720
+01:18:09.750 --> 01:18:19.750
+Ivylevel: it becomes even more important for a person who is not coming from the socioeconomic adversities to highlight your mental adversities. Very important
+
+721
+01:18:19.970 --> 01:18:36.319
+Ivylevel: like. Don't, don't shy away is my point, you know, and and I tell that, and you know I'll be very honest at times. It takes even 10 weeks, because coaches then come back to me, and they tell that Siraj, you know, like we need your help, you know. Can you please jump in, talk to their parents. The girl is not opening up.
+
+722
+01:18:36.410 --> 01:18:38.189
+Ivylevel: She's not telling anything
+
+723
+01:18:38.230 --> 01:18:44.989
+Ivylevel: she's not telling her interest there is. There's kind of, and I'll be very blunt right? There is that kind of tension between
+
+724
+01:18:45.210 --> 01:19:02.149
+Ivylevel: the the the family, you know, and and I can understand. I'm a dad and girl like there's always that kind of tension. You know they want her to do something. She's something else like. Then I have to spend time and educate. I want to avoid all that stuff because your parents are already like your dad. You know, mom, I spend a lot of time, but your dad was able to get the essence of it.
+
+725
+01:19:02.380 --> 01:19:11.640
+Ivylevel: And and all this has taken like 2 years, and I've still, like, you know, 2 2 years I've been deep into it. Of course, one year. I I did not even educate myself. But 2 years I've been learning deep.
+
+726
+01:19:11.740 --> 01:19:19.250
+Ivylevel: and despite that, you know, it's very hard to crack this, because it's a very beautiful thing. It's very qualitative. It's a lot of ambiguity and chaos and abstract.
+
+727
+01:19:19.420 --> 01:19:37.469
+Ivylevel: But you get it right? Yeah, so definitely bring out your adversities. Because, remember, these trail will eventually become part of your eventual package. Your essays, you know you will spend your final year, will go all on essays. Such a beautiful thing in 6 50 words. You will be writing your life story
+
+728
+01:19:37.480 --> 01:19:48.690
+Ivylevel: to an admission officer. But trust me if you haven't lived, that if you haven't done that. Nothing will come out. You can fake it the way you like it. Trust me, might be one or 2 fake like, you know. We'll get in.
+
+729
+01:19:48.880 --> 01:19:56.830
+Ivylevel: It's just hard. But when you are doing this authentically and naturally, like, you know, so powerful. And and I'll I'll you know, ask your coaches. They will send you.
+
+730
+01:19:56.950 --> 01:20:03.039
+Ivylevel: You know, the kind of winning applications that get into Stanford Harvard. They write about their Costco essay
+
+731
+01:20:03.270 --> 01:20:10.099
+Ivylevel: the L. Word the you know there. There is nothing about your, you know. Don't bring your subject matter expertise, you know you have to show you don't tell.
+
+732
+01:20:10.230 --> 01:20:12.620
+Ivylevel: Show your impact. Don't tell.
+
+733
+01:20:12.670 --> 01:20:13.810
+Ivylevel: Agree. I mean.
+
+734
+01:20:13.940 --> 01:20:14.800
+Ivylevel: yeah.
+
+735
+01:20:14.800 --> 01:20:28.480
+Ananyaa Srivastava: Yeah, it might seem little to, you know, a lot of people, but the kind of impact that it leaves on the life that it touches, you know it can build a very powerful story. Have you heard about Zarnagar? The stand up, comedian, Siraj.
+
+736
+01:20:29.270 --> 01:20:31.619
+Ivylevel: I mean the the Indian lady.
+
+737
+01:20:31.840 --> 01:20:39.279
+Ananyaa Srivastava: Yes, the Indian lady, the Indian mom. So my daughter got into Stanford and you know what made her story stand out.
+
+738
+01:20:39.640 --> 01:20:55.120
+Ananyaa Srivastava: She, her mom was, had gone into depression for many years, and but she used to be a very funny person. So she reached out to all her friends her Mom's friends and relatives, and made them write letters to her mom to encourage her to become a comedian.
+
+739
+01:20:55.590 --> 01:21:04.489
+Ananyaa Srivastava: So there! I I thought, it's such a wonderful story, you know, and it it made her stand out her on her Stanford application, and she got through Stanford.
+
+740
+01:21:04.840 --> 01:21:22.930
+Ivylevel: Yeah. And and I'll be very honest. Right? I think this is where somehow, culturally, there's a barrier with really Indian families, you know they see, I think I think if you compare with like the East Asians, and not to sound a Nationalist or anything else group is here. But there is a hundred barrier where our our kids are very shy to, you know, like
+
+741
+01:21:23.030 --> 01:21:50.319
+Ivylevel: talk about their vulnerabilities and their experience, whereas when you think about the backgrounds of, you know, like, really, you know, East Asians. And you know, Southeast Asians, I think they come from a very different kind of background to this country, and what happens is like, you know, they are. They're really starting from scratch. And and I see a lot of success stories where they do not shy away, and their essays really speak for that, even like you know, talking about, you know, stresses and tensions and family, and like so. But again. Remember.
+
+742
+01:21:50.380 --> 01:21:52.909
+Ivylevel: the only way to win this game is you, be you.
+
+743
+01:21:53.230 --> 01:21:55.670
+Ivylevel: UBU. Is the only
+
+744
+01:21:56.020 --> 01:22:07.669
+Ivylevel: do not try to fake like, do not create anything just because of that, because that that that is a sure way for you to not stand out. See? The only thing unique about you is your fingerprint your DNA right?
+
+745
+01:22:08.340 --> 01:22:22.320
+Ivylevel: Like you need to have that in everything. So that is your power, like, Oh, yeah, I'm a girl who actually is a shy girl. Amazing, you know that is a beautiful thing. Of course I don't want you to be shy. I want you to grow into a strong leader.
+
+746
+01:22:22.380 --> 01:22:24.839
+Ivylevel: But what inspires someone.
+
+747
+01:22:25.320 --> 01:22:27.920
+Ivylevel: a person who's born strong
+
+748
+01:22:28.010 --> 01:22:32.559
+Ivylevel: and always been like, you know, at the forefront, or a person who comes from a racks to richer stories.
+
+749
+01:22:32.860 --> 01:22:47.230
+Ivylevel: You need rack to richer stories, you know. People remember stories right? Don't cook it. Yeah, you you will enjoy it so. Absolutely. I'm glad that you know, it takes a lot of time for me to really educate parents, and I'll be very honest. I'm talking about cios and very top execs, you know.
+
+750
+01:22:47.250 --> 01:23:06.179
+Ivylevel: Unfortunately, sometimes it's very hard for me, and I tell them that you know, please. You know I don't think this is working out because they again come with the checklist mindset. And they're like, Oh, yeah, we've been doing this program. She hasn't won. XYZ. It's not about, you know, we we have outcomes. We can show data that you know, we are able to get the smaller outcomes. You need. Lot of smaller trail.
+
+751
+01:23:06.270 --> 01:23:07.840
+Ivylevel: See, the main game is
+
+752
+01:23:08.100 --> 01:23:11.199
+Ivylevel: 75% is qualitative. That's what it is.
+
+753
+01:23:11.460 --> 01:23:24.800
+Ivylevel: How do you quantify? Your qualitative work is where the challenges you need data points, competitions is just one endorsement and attestation authority that gives you some attestation and saying, Oh, yeah, you got one competition one.
+
+754
+01:23:25.160 --> 01:23:27.570
+Ivylevel: But when it comes to the real heavy weights.
+
+755
+01:23:27.590 --> 01:23:30.200
+Ivylevel: community impact passion project.
+
+756
+01:23:30.690 --> 01:23:56.180
+Ivylevel: That is something that you will have to come out. You're talking about. Your mom used the word self promotion. You know. It is a part like you will do that. Eventually you will come out and you will start speaking about your project, and you will scale it. You will have thousands of people joining it, you will organize events. So in the process you will become from a shy girl to a self advocate. If you do not advocate for yourself who's gonna advocate for you?
+
+757
+01:23:56.480 --> 01:24:07.700
+Ivylevel: Right? So that's why I'm telling you, not honestly like I don't even know where my daughter will end today. You know she's in the last mile, but for me she's already a winner, because to me I know that I even tell her like you know, get into Stanford, or wherever like, you know, drop out
+
+758
+01:24:07.710 --> 01:24:14.059
+Ivylevel: because she's a founder already. She's raised money. She's done doing amazing things. So I'm like, you're already a leader, you know
+
+759
+01:24:14.070 --> 01:24:15.509
+Ivylevel: that is a success for me.
+
+760
+01:24:16.170 --> 01:24:28.770
+Ivylevel: So I think you will be, you know. Be confident. And then you know. And and it's okay, completely. Okay, at times, you know the and and, by the way, always be a bit like, you know. I would say kind to your parents.
+
+761
+01:24:28.980 --> 01:24:31.490
+Ivylevel: because parents come from a very different background.
+
+762
+01:24:31.700 --> 01:24:47.849
+Ivylevel: Right? We come from a very. And they all want you to succeed. So there will be that stress all the time where you know they feel like, okay. You know why she got to be in this. But remember, B is not end of the world. In fact, how do you change that? B to A, now is going to be the amazing thing that we need. We need more of those low points in your profile.
+
+763
+01:24:47.920 --> 01:25:04.300
+Ivylevel: and if you have a few we'll we'll try to composite, and especially like with freshmen, you know. Grades are not that important. I mean, I'm not saying you're not to study. But when I look at you know eventually, in 2 years time, when your application goes out, there are many other things that will factor which will overshadow all of these things. Not a big deal
+
+764
+01:25:04.410 --> 01:25:09.279
+Ivylevel: so but you know, see, I I like the beauty of this
+
+765
+01:25:09.390 --> 01:25:12.109
+Ivylevel: like. Just look at the things that Jenny is stressed upon
+
+766
+01:25:12.380 --> 01:25:23.749
+Ivylevel: because she's working backwards. She's literally she conducted this as an admission officer, right? So she's working backwards, and she's saying that your biggest weak sport that is going to be very costly for you is your lack of relationship with your teachers.
+
+767
+01:25:23.930 --> 01:25:25.029
+Ivylevel: She was spot on.
+
+768
+01:25:25.720 --> 01:25:48.390
+Ivylevel: you know, because the biggest 3 factors in the outcome. And this is from Raj Shetty, and you can probably, like I have posted a lot of things about it. The most comprehensive and high fidelity data. Today from an economist on college admissions outcome. For the last 20 years, Raj Shetty has released this data and he basically looked at all the admits in the Iv schools in the last 20 years, plus 3 out main outcome drivers, extracurriculars. Number one.
+
+769
+01:25:48.680 --> 01:25:50.809
+Ivylevel: number 2. Your letter of recommendation.
+
+770
+01:25:51.680 --> 01:25:52.460
+Ananyaa Srivastava: Yes.
+
+771
+01:25:52.460 --> 01:25:55.379
+Ivylevel: Because see what is letter of recommendation.
+
+772
+01:25:55.650 --> 01:26:06.910
+Ivylevel: It is the quantification of your character. It's the quantification of your qualitative work, of your discipline, your leadership skills of who you are.
+
+773
+01:26:07.280 --> 01:26:17.470
+Ivylevel: Do you understand? So you have to think about, always think. No, don't think through the lens of grades and marks and competition think through the lens of how can I quantify my qualitative work?
+
+774
+01:26:17.980 --> 01:26:25.600
+Ivylevel: Right? So remember the 10 plus you know how many hours did Adity put on her research thing
+
+775
+01:26:25.710 --> 01:26:29.609
+Ivylevel: 18 h, but she told me she was so obsessed with it
+
+776
+01:26:29.760 --> 01:26:38.440
+Ivylevel: that she fell in love with it that she could not take her like weekend, she would go into that. So you have to love with what you're doing. That's very important. If you don't, you will not be able to survive this.
+
+777
+01:26:38.650 --> 01:26:46.130
+Ivylevel: And that is why it's very important for you to identify one top passion project, one top community impact service project
+
+778
+01:26:46.360 --> 01:26:53.250
+Ivylevel: and then rest are just small things, you know. We'll work on your awards. We'll work on these things. All this will give you a lot of boost.
+
+779
+01:26:53.260 --> 01:26:55.529
+Ivylevel: You get a national award. It you'll change
+
+780
+01:26:55.800 --> 01:27:05.369
+Ivylevel: right. But again, not an award that everyone gets, you know, every month award every robotics, every like leadership, award, like 10 students have it in the school like Win, something different, unique.
+
+781
+01:27:05.560 --> 01:27:14.429
+Ivylevel: And then, wow! You know, food science, you know, Anushka won. Actually, National Geographic National Level award National Smithsonian on Food science.
+
+782
+01:27:14.500 --> 01:27:29.239
+Ivylevel: It's a national award. And we identified that for her. And and it's important to find those kind of opportunities. So I think the fundamental thing is, don't get carried away by your subject matter. Expertise. This is not, and that is the biggest difference between the tech world
+
+783
+01:27:29.670 --> 01:27:35.320
+Ivylevel: and the academia in this country. Academia is very doesn't care about skills.
+
+784
+01:27:35.590 --> 01:27:36.939
+Ivylevel: Technical skills.
+
+785
+01:27:37.720 --> 01:27:39.690
+Ivylevel: Academia is about leadership
+
+786
+01:27:39.780 --> 01:27:44.679
+Ivylevel: academia. And I'm talking about the top Ib plus schools. And that's why you see, upward mobility happens
+
+787
+01:27:44.870 --> 01:27:55.369
+Ivylevel: when you're coming from Iv schools. Your upward mobility, your dad can vouch for that. Not everyone is under pitching right. There are few people who upwardly mo move because they are in that environment, that they become leaders
+
+788
+01:27:55.440 --> 01:28:09.210
+Ivylevel: so they might have an advantage of getting into some, but you know, if you are at a mid level and you're at a low level, you'll always pretty much be in the same kind of income bracket. It's not just about money, is what I'm saying. Why is Iv important? Is it gives you that mindset of future leaders of the world?
+
+789
+01:28:09.230 --> 01:28:12.109
+Ivylevel: Why so many startups from Stanford.
+
+790
+01:28:12.280 --> 01:28:19.680
+Ivylevel: Why, 300 billion dollar plus worth of shadows from why, 8 Presidents from Howard is because that's the kind of crew you're working with
+
+791
+01:28:20.400 --> 01:28:29.949
+Ivylevel: you are. You are in a different environment. You are not working with people who are looking for a job. You're looking for people who want to put a dent in the in in the ecosystem.
+
+792
+01:28:30.300 --> 01:28:38.970
+Ivylevel: Right? So that is why I think I want you to aspire like be be, you know, be aspirational about it, you know it's not a prestige thing. Only.
+
+793
+01:28:39.230 --> 01:28:47.579
+Ivylevel: of course, if you get to Stanford Howard, you know, people will say, but you know you need to be genuine about getting into that, because if you're not genuine about getting into it, anyways, you're going to struggle there
+
+794
+01:28:47.940 --> 01:28:49.849
+Ivylevel: because you will not enjoy it right.
+
+795
+01:28:50.110 --> 01:28:55.670
+Ivylevel: You will get into Stanford, and then course load will be 10 times more than your high school course load.
+
+796
+01:28:56.240 --> 01:28:57.999
+Ivylevel: So that is why you know.
+
+797
+01:28:58.286 --> 01:29:01.589
+Ivylevel: It's good. Okay, I have a call now. Thank you very much. Great talking to you.
+
+798
+01:29:01.590 --> 01:29:04.340
+Ananyaa Srivastava: Thank you, sir. Lovely talking to you. Thank you.
+
+799
+01:29:04.340 --> 01:29:05.299
+Ivylevel: Bye, bye. Thank you.
+
+800
+01:29:05.300 --> 01:29:06.170
+Ananyaa Srivastava: Well.
+
+801
+01:29:06.170 --> 01:29:06.830
+Ivylevel: But.
+

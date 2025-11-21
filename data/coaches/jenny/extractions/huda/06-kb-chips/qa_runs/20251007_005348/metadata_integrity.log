@@ -1,0 +1,81 @@
+🔍 KB Metadata Integrity Check
+Traceback (most recent call last):
+  File "/Users/snazir/ivylevel-platform-v10/tools/qa/check_metadata_integrity.py", line 90, in <module>
+    main()
+    ~~~~^^
+  File "/Users/snazir/ivylevel-platform-v10/tools/qa/check_metadata_integrity.py", line 76, in main
+    idx = pc.Index(PINECONE_INDEX)
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/pinecone.py", line 490, in Index
+    index_host = self.db.index._get_host(name)
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/db_control/resources/sync/index.py", line 245, in _get_host
+    return self._index_host_store.get_host(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        api=self._index_api, config=self.config, index_name=name
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/db_control/index_host_store.py", line 47, in get_host
+    description = api.describe_index(index_name)
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/openapi_support/endpoint.py", line 102, in __call__
+    return self.callable(self, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/core/openapi/db_control/api/manage_indexes_api.py", line 883, in __describe_index
+    return self.call_with_http_info(**kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/openapi_support/endpoint.py", line 134, in call_with_http_info
+    return self.api_client.call_api(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        self.settings["endpoint_path"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<16 lines>...
+        collection_formats=params["collection_format"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/openapi_support/api_client.py", line 306, in call_api
+    return self.__call_api(
+           ~~~~~~~~~~~~~~~^
+        resource_path,
+        ^^^^^^^^^^^^^^
+    ...<14 lines>...
+        _check_type,
+        ^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/openapi_support/api_client.py", line 182, in __call_api
+    raise e
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/openapi_support/api_client.py", line 170, in __call_api
+    response_data = self.request(
+        method,
+    ...<6 lines>...
+        _request_timeout=_request_timeout,
+    )
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/openapi_support/api_client.py", line 360, in request
+    return self.rest_client.GET(
+           ~~~~~~~~~~~~~~~~~~~~^
+        url,
+        ^^^^
+    ...<3 lines>...
+        headers=headers,
+        ^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/openapi_support/rest_utils.py", line 75, in GET
+    return self.request(
+           ~~~~~~~~~~~~^
+        "GET",
+        ^^^^^^
+    ...<4 lines>...
+        query_params=query_params,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/openapi_support/rest_urllib3.py", line 267, in request
+    return raise_exceptions_or_return(r)
+  File "/opt/homebrew/lib/python3.13/site-packages/pinecone/openapi_support/rest_utils.py", line 44, in raise_exceptions_or_return
+    raise NotFoundException(http_resp=r)
+pinecone.exceptions.exceptions.NotFoundException: (404)
+Reason: Not Found
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2025-04', 'x-cloud-trace-context': '27e585c8e2e723eec281171ea59394fa', 'date': 'Tue, 07 Oct 2025 07:53:51 GMT', 'server': 'Google Frontend', 'Content-Length': '83', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"NOT_FOUND","message":"Resource jenny-v2 not found"},"status":404}
+

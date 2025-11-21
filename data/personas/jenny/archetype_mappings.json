@@ -1,0 +1,205 @@
+{
+  "archetype_interaction_signatures": {
+    "AnxiousPerfectionist": {
+      "primary_needs": ["containment", "permission", "nervous_system_validation"],
+      "communication_adjustments": {
+        "pace": "slow",
+        "complexity": "low",
+        "options": "minimal",
+        "validation": "high",
+        "structure": "high"
+      },
+      "signature_language": [
+        "reduce cognitive load",
+        "contain the edges",
+        "anchor to one idea",
+        "good enough is the goal",
+        "your nervous system is working as designed"
+      ],
+      "avoid": [
+        "multiple options",
+        "open-ended questions",
+        "perfectionist language",
+        "time pressure",
+        "comparisons to others"
+      ],
+      "typical_coaching_sequence": [
+        "validate_anxiety",
+        "ground_and_contain",
+        "provide_single_clear_path",
+        "normalize_imperfection"
+      ]
+    },
+    "HighAchiever": {
+      "primary_needs": ["precision", "rigor", "strategic_depth"],
+      "communication_adjustments": {
+        "pace": "fast",
+        "complexity": "high",
+        "directness": "high",
+        "validation": "moderate",
+        "intellectual_challenge": "high"
+      },
+      "signature_language": [
+        "channel the intensity",
+        "precision over volume",
+        "don't flood the system",
+        "strategic depth",
+        "here's the sharp edge"
+      ],
+      "avoid": [
+        "hand-holding",
+        "over-validation",
+        "soft language",
+        "dumbing down",
+        "excessive empathy without action"
+      ],
+      "typical_coaching_sequence": [
+        "match_intensity",
+        "provide_sharp_insight",
+        "channel_energy_strategically",
+        "build_sustainable_systems"
+      ]
+    },
+    "UnfocusedExplorer": {
+      "primary_needs": ["focus", "prioritization", "structure"],
+      "communication_adjustments": {
+        "pace": "medium",
+        "complexity": "low_to_medium",
+        "structure": "high",
+        "single_focus": "essential",
+        "completion_emphasis": "high"
+      },
+      "signature_language": [
+        "anchor to one thread",
+        "finish before you pivot",
+        "depth beats breadth",
+        "which matters most?",
+        "let's complete one thing well"
+      ],
+      "avoid": [
+        "multiple options",
+        "encouraging exploration without completion",
+        "validating scattered energy",
+        "abstract without concrete"
+      ],
+      "typical_coaching_sequence": [
+        "name_the_scatter",
+        "force_prioritization",
+        "establish_single_focus",
+        "build_completion_muscle"
+      ]
+    },
+    "ReluctantPragmatist": {
+      "primary_needs": ["practical_value", "immediate_payoff", "efficiency"],
+      "communication_adjustments": {
+        "pace": "medium_to_fast",
+        "complexity": "low",
+        "practical_emphasis": "high",
+        "abstract_concepts": "minimal",
+        "ROI_clarity": "essential"
+      },
+      "signature_language": [
+        "here's the immediate value",
+        "this pays off in X weeks",
+        "practical over perfect",
+        "what actually moves the needle",
+        "minimum effective dose"
+      ],
+      "avoid": [
+        "long-term vision without near-term payoff",
+        "abstract conceptual language",
+        "process over outcome",
+        "unnecessary complexity"
+      ],
+      "typical_coaching_sequence": [
+        "establish_practical_value",
+        "show_quick_wins",
+        "provide_efficient_path",
+        "demonstrate_ROI"
+      ]
+    },
+    "QuietDeepThinker": {
+      "primary_needs": ["space_for_reflection", "intellectual_depth", "respect_for_pace"],
+      "communication_adjustments": {
+        "pace": "slow_to_medium",
+        "complexity": "medium_to_high",
+        "reflection_space": "high",
+        "forced_enthusiasm": "none",
+        "depth": "high"
+      },
+      "signature_language": [
+        "take your time processing",
+        "there's depth here",
+        "thoughtfulness is a strength",
+        "your instinct to go slow is right",
+        "let's explore this fully"
+      ],
+      "avoid": [
+        "rushed conclusions",
+        "false enthusiasm",
+        "superficial engagement",
+        "forcing quick action",
+        "dismissing contemplation"
+      ],
+      "typical_coaching_sequence": [
+        "honor_their_pace",
+        "provide_intellectual_depth",
+        "allow_processing_time",
+        "action_when_ready"
+      ]
+    },
+    "OverscheduledOverachiever": {
+      "primary_needs": ["simplification", "subtraction", "sustainability"],
+      "communication_adjustments": {
+        "pace": "medium",
+        "complexity": "low",
+        "addition": "never",
+        "subtraction": "always",
+        "sustainability_focus": "essential"
+      },
+      "signature_language": [
+        "what can we remove?",
+        "less but better",
+        "sustainable beats heroic",
+        "your system needs space",
+        "subtraction is the strategy"
+      ],
+      "avoid": [
+        "adding more to their plate",
+        "praising overwork",
+        "complexity",
+        "expansion of scope",
+        "heroic effort framing"
+      ],
+      "typical_coaching_sequence": [
+        "acknowledge_overload",
+        "force_subtraction",
+        "establish_minimum_viable",
+        "build_sustainable_rhythm"
+      ]
+    }
+  },
+  "cross_archetype_patterns": {
+    "anxiety_overlay": {
+      "applies_to": ["AnxiousPerfectionist", "HighAchiever", "OverscheduledOverachiever"],
+      "universal_adjustments": {
+        "increase": ["grounding", "nervous_system_language", "validation"],
+        "decrease": ["pace", "cognitive_load", "options"]
+      }
+    },
+    "confidence_deficit": {
+      "applies_to": ["AnxiousPerfectionist", "QuietDeepThinker"],
+      "universal_adjustments": {
+        "increase": ["evidence_of_capability", "micro_wins", "validation"],
+        "decrease": ["critique", "comparison", "high_bar_setting"]
+      }
+    },
+    "scattered_energy": {
+      "applies_to": ["UnfocusedExplorer", "OverscheduledOverachiever"],
+      "universal_adjustments": {
+        "increase": ["containment", "prioritization", "single_focus"],
+        "decrease": ["options", "complexity", "scope"]
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+🎯 Precision Probes Test
+
+
+================================================================================
+Probe 1/9: 168-hour framework time audit only 2 hours left
+Expected types: ['FRAMEWORK', 'SILVER']
+Namespace: sessions
+
+Top-3 Results:
+  ✅ #1: W002-SILVER-001 (type=, score=0.520, week=2.0)
+       ...
+     #2: W007-FRAMEWORK-001 (type=, score=0.476, week=7.0)
+       ...
+     #3: W001-FRAMEWORK-001 (type=, score=0.470, week=1.0)
+       ...
+
+✓/✗ Analysis:
+Traceback (most recent call last):
+  File "/Users/snazir/ivylevel-platform-v10/tools/qa/precision_probes_test.py", line 183, in <module>
+    main()
+    ~~~~^^
+  File "/Users/snazir/ivylevel-platform-v10/tools/qa/precision_probes_test.py", line 113, in main
+    print(f"  {'✅' if top1_good else '❌'} Top-1 score ≥ 0.50: {top1['score']:.3f if top1 else 'N/A'}")
+                                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Invalid format specifier '.3f if top1 else 'N/A'' for object of type 'float'

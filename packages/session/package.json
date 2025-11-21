@@ -1,0 +1,7 @@
+{
+  "name": "@ivylevel/session",
+  "version": "1.0.0",
+  "private": true,
+  "main": "assessmentSessionStore.ts",
+  "types": "assessmentSessionStore.ts"
+}

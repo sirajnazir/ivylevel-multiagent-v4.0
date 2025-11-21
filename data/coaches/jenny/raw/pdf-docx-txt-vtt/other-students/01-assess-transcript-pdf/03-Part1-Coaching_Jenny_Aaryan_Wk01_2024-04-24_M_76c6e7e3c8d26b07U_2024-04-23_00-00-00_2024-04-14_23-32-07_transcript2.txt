@@ -1,0 +1,1902 @@
+WEBVTT
+
+1
+00:00:27.410 --> 00:00:29.570
+Jenny Duan: Hi, Hunter, it's nice to meet you.
+
+2
+00:00:30.810 --> 00:00:32.540
+Ankur Shah: Hi, hold on 1 s. Sorry
+
+3
+00:00:32.800 --> 00:00:33.390
+Ankur Shah: today.
+
+4
+00:00:33.390 --> 00:00:34.040
+Jenny Duan: Eric!
+
+5
+00:00:34.510 --> 00:00:35.820
+Jenny Duan: Hello.
+
+6
+00:00:35.820 --> 00:00:36.637
+Ankur Shah: How are you?
+
+7
+00:00:37.300 --> 00:00:39.070
+Jenny Duan: I'm doing well. How are you?
+
+8
+00:00:39.260 --> 00:00:39.894
+Ankur Shah: And
+
+9
+00:00:40.640 --> 00:00:42.070
+Ankur Shah: this is our end.
+
+10
+00:00:43.660 --> 00:00:47.829
+Jenny Duan: Hi Arian, so nice to meet you. Give us a second. I think Sir Rojas is
+
+11
+00:00:47.870 --> 00:00:49.920
+Jenny Duan: going to join soon.
+
+12
+00:00:58.270 --> 00:00:59.380
+Ankur Shah: It's a lot of people.
+
+13
+00:01:01.380 --> 00:01:02.250
+Jenny Duan: Solely.
+
+14
+00:01:03.770 --> 00:01:05.980
+Jenny Duan: Okay, there we go. Saraje's on.
+
+15
+00:01:06.740 --> 00:01:08.040
+Jenny Duan: hey, Saraj?
+
+16
+00:01:08.650 --> 00:01:09.365
+Ivylevel: Hey?
+
+17
+00:01:10.590 --> 00:01:16.759
+Ivylevel: hey? How's it going? Sorry? Yeah. I was trying to start. I was not sure, because we had a few people joining, so
+
+18
+00:01:16.980 --> 00:01:27.706
+Ivylevel: I wasn't sure if you know who was the who was the host? So it was Jenny, you you were the host, so I mean we are all good here. Thanks a lot for your time, ankur, and so sorry. Uncle
+
+19
+00:01:28.620 --> 00:01:29.720
+Ivylevel: Aryan, right.
+
+20
+00:01:29.720 --> 00:01:33.998
+Ankur Shah: Yeah, Arian. And Lena, yeah, Hunker is not here. But yeah, my zoom is unclear. So yeah.
+
+21
+00:01:34.250 --> 00:01:53.380
+Ivylevel: No, yeah, no worries. Yeah. Thanks. Yeah, thanks a lot for your time. And actually, I do have like a full fledged team here. We typically, like, you know, start with Jenny, who's our head coach, you know, being Pm leadership team of Iv level. And you know, you know, she's done really a fabulous job and has actually really, like, you know, carved out
+
+22
+00:01:53.622 --> 00:02:08.890
+Ivylevel: multiple, like, you know, probably hundreds of different game plans. And you know, strategies for different students and transform any students as well. So I think, got the best today who's gonna run it and also like what we do in this 2 weeks, as we said. Right? One of the primary kind of questions you had, Lena and Uncle was
+
+23
+00:02:09.367 --> 00:02:10.162
+Ivylevel: to really
+
+24
+00:02:10.590 --> 00:02:36.819
+Ivylevel: find the right fit in terms of the coach that actually would be partnering with Ayan. I think the way. And again, as I said, we are a team. That's our kind of unique value proposition. However, we do need like a primary coach. But I again at the end of the day. So we have 2 other coaches that I've actually invited today, based on the early kind of inputs that we received so that is Rishi and Janu.
+
+25
+00:02:37.293 --> 00:02:49.189
+Ivylevel: You know, both are, actually, quite quite, quite an amazing combination of stem and arts. And you know, you know, kind of humanities. Sophomore cs, and
+
+26
+00:02:49.584 --> 00:02:50.920
+Ivylevel: you know, data science
+
+27
+00:02:51.380 --> 00:03:14.890
+Ivylevel: drummer community impact lot of great things they've done. So I think they're just gonna listen in mostly to kind of because then we take back based on this is really Jenny kind of driving the entire session, getting to really know. You know, Ian at his core right to discover many things, and I think she's done. It's it's an art and science that she's kind of mastered and we have done it with many, many students. So after that
+
+28
+00:03:14.890 --> 00:03:31.090
+Ivylevel: we'll spend the entire week as a team, we'll have more input. And data coming in trying to figure out what's the right strategy? What's the right tactical plan and roadmap that I've shown you? But also find, you know, who could actually be a good match and fit to partner with the ion
+
+29
+00:03:31.309 --> 00:03:50.429
+Ivylevel: and then, I think, during the course of the period, I'm more than happy to have a few kind of you know. Quick touch base where they, you know Ian, can actually speak with the coach that we have in mind, and then, after a week, we'll have another follow up 1 h session where we'll, you know. Jenny will actually, collectively, you know, it's a collective kind of review process, and we'll present the report and we'll get more. Follow up questions from you.
+
+30
+00:03:50.662 --> 00:04:01.140
+Ivylevel: And in that way, you know, we can then get started with the long term program. So that make like, you know, I'll I'll just let Jenny kind of pick it off. Thanks a lot Rishi, and Jana. Also for joining today.
+
+31
+00:04:02.420 --> 00:04:14.449
+Jenny Duan: Amazing. So nice to meet you. I thought I would also provide a little bit of context on how this session will go, so I'll spend a first couple of minutes just introducing myself and then asking a couple of questions to get to know you, and then
+
+32
+00:04:15.007 --> 00:04:39.689
+Jenny Duan: we'll start talking first about the academics, and then move on to the extracurriculars and the motivations so kind of doing a holistic assessment, how an admissions officer might view a student starting from their academics to their extracurriculars and everything else but the goal of this session. Arian is just to get to know each other. It's I want you to be feel super comfortable with saying, whatever whatever's on your mind don't feel like you need to hold anything back.
+
+33
+00:04:39.850 --> 00:05:03.809
+Jenny Duan: So yeah, super nice to meet you. My name is Jenny. I'm a current sophomore at Stanford, where I study Cs psychology and philosophy, and I've been working with Saraje and with Iv level for about a year. Now. I'm originally from Portland, Oregon, but of course, now I live in the Bay for school. I'd love to hear a little bit about you if you want to introduce yourself, and maybe tell me your name, what grade you're in and what school and city you're from.
+
+34
+00:05:05.232 --> 00:05:06.797
+Ankur Shah: My name's Aaron
+
+35
+00:05:07.370 --> 00:05:10.080
+Ankur Shah: I live in San Jose, and I go to Valley Christian.
+
+36
+00:05:11.780 --> 00:05:13.789
+Jenny Duan: Amazing! What year are you in school.
+
+37
+00:05:14.371 --> 00:05:15.779
+Ankur Shah: I'm in ninth right now.
+
+38
+00:05:16.850 --> 00:05:20.950
+Jenny Duan: Cool. I've one of my best friends actually went to Valley Christian. How is it.
+
+39
+00:05:21.796 --> 00:05:22.570
+Ankur Shah: It's good!
+
+40
+00:05:23.160 --> 00:05:29.650
+Jenny Duan: It's good. How is like the school year going? Are you getting ready for Ap? Testing? How do you feel about that?
+
+41
+00:05:31.150 --> 00:05:34.279
+Ankur Shah: one of my classes is getting ready for ap testing.
+
+42
+00:05:34.420 --> 00:05:36.230
+Ankur Shah: But yeah, it's going well.
+
+43
+00:05:36.760 --> 00:05:40.899
+Jenny Duan: It's going well. And do you have good friends and everything at school?
+
+44
+00:05:40.900 --> 00:05:41.470
+Ankur Shah: Yeah.
+
+45
+00:05:41.940 --> 00:06:01.919
+Jenny Duan: Awesome. Well, I'd love to learn a little bit about what classes you're taking and sort of what you're enrolled, and I know it's your first year in high school, and that can be such a scary place. I remember when I was in high School freshman Year was always the most, I think, after freshman year things get a lot easier. Is my advice. But yeah, what classes are you enrolled in right now?
+
+46
+00:06:05.200 --> 00:06:06.890
+Ankur Shah: Right now I'm in.
+
+47
+00:06:08.656 --> 00:06:10.110
+Ankur Shah: Precalculus honors.
+
+48
+00:06:13.870 --> 00:06:24.230
+Ankur Shah: PE biology, honors, business fundamentals ap computer science principles, Spanish, 2 English, 9 honors and a Bible class.
+
+49
+00:06:26.030 --> 00:06:26.750
+Jenny Duan: Cool.
+
+50
+00:06:27.670 --> 00:06:32.340
+Jenny Duan: that's a lot of honors classes. Does it feel tough to balance? Or are you managing it? Okay.
+
+51
+00:06:33.084 --> 00:06:35.390
+Ankur Shah: I think I'm managing it. Okay.
+
+52
+00:06:36.400 --> 00:06:37.549
+Jenny Duan: Yeah. Like.
+
+53
+00:06:37.550 --> 00:06:51.150
+Ankur Shah: Recalc is giving him the the hardest time, because it's just so fast. And in his school what happens is from pre calc honors they learn a little bit of calculus, so he go. He would go directly to BC. So it's just.
+
+54
+00:06:51.150 --> 00:06:51.929
+Jenny Duan: Like oh!
+
+55
+00:06:51.930 --> 00:06:55.209
+Ankur Shah: Really fast. My daughter took it, too. So it's
+
+56
+00:06:55.220 --> 00:07:02.230
+Ankur Shah: it's supposed to be one of the most challenging classes, even though. And he's taking it in ninth grade, which is crazy, but you know so.
+
+57
+00:07:02.770 --> 00:07:26.389
+Jenny Duan: Yeah. Well, props to you. And I could definitely relate to that. When I was in high school I also went to a Catholic High School. I went to a Jesuit High School in Portland, Oregon, so I know all about the Bible study the required mass. I'm familiar. I'm not Catholic. But I'm very familiar with how these systems work. And I, I know that definitely. That jump to BC is really difficult. That's what I did, too, and when I was in high school I went straight into BC. Too. And
+
+58
+00:07:26.629 --> 00:07:38.580
+Jenny Duan: I know that can be really challenging, but I'm sure you're pushing through it. And you're almost done with the school year, too. And I think once you have that calculus background. BC, it gets better. I think Precock is actually one of the toughest classes, but I think.
+
+59
+00:07:38.580 --> 00:08:01.450
+Jenny Duan: in my opinion, I think Calc is a little bit easier, because you don't have to do as much memorization for all the formulas. But hopefully you'll feel the same way, too. Do you like the Bible study classes? I'm curious what drove you to choose the religious school for me. I chose my high school because it had the best, like academics out of every school, even though it was Catholic. But I'm curious, like, what were your motivations to to choose Valley? Christian.
+
+60
+00:08:01.730 --> 00:08:11.499
+Ankur Shah: I guess probably my motivations more than him. It was just the it was like, you know, the area that we live in San Jose, especially initially, the public schools just weren't great. So we really didn't.
+
+61
+00:08:11.670 --> 00:08:12.010
+Jenny Duan: Which way?
+
+62
+00:08:12.010 --> 00:08:21.629
+Ankur Shah: Had to kind of put him in a private school. But my daughter's been through it. She's a senior this year, and so far. It's a it's a good school, I don't think it's like the most academically rigorous.
+
+63
+00:08:22.551 --> 00:08:28.869
+Ankur Shah: You know. It's up there, but not like, you know. But it's a good nurturing school with a lot of
+
+64
+00:08:29.350 --> 00:08:34.359
+Ankur Shah: gives you a lot of opportunities for different things. You just have to kind of take them, you know. So.
+
+65
+00:08:34.630 --> 00:08:47.430
+Jenny Duan: Yeah, Arian, I'm curious. What are your thoughts? When I was in high school my sister was also. She was 3 years younger, too, so she was a freshman as a senior, too. Do you like having her sister around like having someone to drive you places, or is that like? Do you get annoyed when she says Hi! To you in the hallways.
+
+66
+00:08:48.760 --> 00:08:52.299
+Ankur Shah: I guess it's good cause she can drive me to school every morning.
+
+67
+00:08:53.160 --> 00:08:53.720
+Ankur Shah: Yeah.
+
+68
+00:08:54.780 --> 00:09:00.220
+Jenny Duan: And and what's it like for you going to a religious school? Is it hard to leave your friends, or have you made new friends? There.
+
+69
+00:09:01.272 --> 00:09:04.250
+Ankur Shah: Well, I've been here since fifth grade, so.
+
+70
+00:09:04.250 --> 00:09:05.099
+Jenny Duan: Oh, wow!
+
+71
+00:09:05.170 --> 00:09:06.160
+Ankur Shah: For a while.
+
+72
+00:09:06.930 --> 00:09:12.420
+Jenny Duan: Got it. So I'm curious out of all your classes. What's your favorite class so far.
+
+73
+00:09:15.560 --> 00:09:16.760
+Ankur Shah: probably be.
+
+74
+00:09:17.360 --> 00:09:20.320
+Jenny Duan: PE. Yeah, do you play any sports? Do you play sports at school?
+
+75
+00:09:20.678 --> 00:09:22.470
+Ankur Shah: Yeah, I do. Varsity tennis.
+
+76
+00:09:22.980 --> 00:09:26.189
+Jenny Duan: Oh, super cool! How long have you been playing tennis for.
+
+77
+00:09:27.870 --> 00:09:30.000
+Ankur Shah: maybe 4 or 5 years.
+
+78
+00:09:30.740 --> 00:09:35.639
+Jenny Duan: Well, we'll get back to that later. I'm curious what classes you're forecasted for next year.
+
+79
+00:09:40.650 --> 00:09:44.539
+Ankur Shah: you don't have a list. But I I can kind of remember. So calc, BC,
+
+80
+00:09:45.843 --> 00:09:48.250
+Ankur Shah: ap computer science, a.
+
+81
+00:09:49.390 --> 00:09:52.690
+Ankur Shah: of course, a Bible class, English, 10 honors.
+
+82
+00:09:53.020 --> 00:09:54.720
+Ankur Shah: Cam. Honors.
+
+83
+00:09:55.700 --> 00:09:58.570
+Ankur Shah: Spanish, 3 honors, Spanish, 3 honors.
+
+84
+00:09:59.870 --> 00:10:01.879
+Ankur Shah: Ap. Physics, one.
+
+85
+00:10:01.970 --> 00:10:13.350
+Ankur Shah: Yeah. So he's this should be one more still. 8. Right? So he's trying to do cam honors and physics Ap. Next year, but he has to like get a form for that, so we're not sure
+
+86
+00:10:13.420 --> 00:10:27.509
+Ankur Shah: that he'll be able to get into Ap. Physics. If he doesn't get into ap physics, then he'll take in entrepreneurship honors, which is like the Second Level Business Fundamentals. There's one more class. Oh, yeah, world history. Yeah. Ap, world history.
+
+87
+00:10:28.120 --> 00:10:36.599
+Jenny Duan: It's a lot of ap as well. I'm curious what your grades are looking like right now. Do you have good grades like? Do you have a mix of A's and B's? What's that looking like.
+
+88
+00:10:37.569 --> 00:10:38.829
+Ankur Shah: Right now, the
+
+89
+00:10:38.940 --> 00:10:41.419
+Ankur Shah: Milos is at 87 in precock
+
+90
+00:10:41.670 --> 00:10:42.680
+Ankur Shah: and the hmm
+
+91
+00:10:43.230 --> 00:10:45.909
+Ankur Shah: the oven. I need 3 in bio
+
+92
+00:10:47.470 --> 00:10:50.579
+Ankur Shah: 92 in computer science, 95 in English.
+
+93
+00:10:50.710 --> 00:10:54.760
+Ankur Shah: 96 in Spanish and 98 in business fundamentals.
+
+94
+00:10:55.470 --> 00:10:58.069
+Jenny Duan: Do you remember what your grades were last semester? Oh.
+
+95
+00:10:58.310 --> 00:10:59.349
+Ankur Shah: Same. Yeah.
+
+96
+00:10:59.570 --> 00:11:03.759
+Ankur Shah: So he has one B in Precalc right now, basically, everything else is A's.
+
+97
+00:11:04.150 --> 00:11:06.659
+Jenny Duan: Okay. And that was the same for last semester, too.
+
+98
+00:11:07.670 --> 00:11:10.840
+Ankur Shah: Last semester at all is 4.5.
+
+99
+00:11:11.420 --> 00:11:28.528
+Jenny Duan: Oh, wow! Super super impressive as a freshman. I would encourage you to try to keep that those grades up for the rest of the semester, too. I know you can do it, and 87 is not too far off from an A. You have a lot of opportunities to improve that, but I would encourage you to really try to keep your Gpa up, if possible.
+
+100
+00:11:29.060 --> 00:11:52.390
+Jenny Duan: obviously one. B is not going to be the end. I'll be all. But I I believe that you have it in you because you have you gotten straight days last semester, so I know you can do it again. This one and your schedule for next year looks really stacked so props to you. I know that you're only a freshman, but do you have any plans to take standardized testing in the future like, are you planning to take the sat? And do you know, when you plan to take it like sophomore junior here in the future.
+
+101
+00:11:53.060 --> 00:11:55.240
+Ankur Shah: I think I'm taking sat
+
+102
+00:11:55.550 --> 00:11:56.740
+Ankur Shah: Junior Year.
+
+103
+00:11:57.640 --> 00:11:58.720
+Jenny Duan: Okay. Cool.
+
+104
+00:11:59.207 --> 00:12:05.110
+Ankur Shah: So he takes, and their school requires them to take like this. Tuesday, actually a psat, 8, 9.
+
+105
+00:12:06.440 --> 00:12:12.599
+Ankur Shah: Is required for the school, and then I think he'll take the standard Psat in October.
+
+106
+00:12:13.850 --> 00:12:15.439
+Ankur Shah: P. As A. P. Yeah.
+
+107
+00:12:15.879 --> 00:12:36.630
+Jenny Duan: The psat. 8 9 is pretty in inconsequential, I would say. But the psat 10 I would try to do well on that, even if it doesn't count for national merit, because the psat 10 a lot of people say that the psat is not important, but it actually is probably more important than you think, because you can use that score to supplement different applications that you do. For instance, for summer programs for awards
+
+108
+00:12:36.900 --> 00:12:57.620
+Jenny Duan: and for qualification to other programs. So even though people say that the Ps. 18 is 10 is inconsequential. I think it's a plus. If you do well, it won't harm you if you do bad, but it is a plus, if you do well, so I would try to at least put a little bit effort of effort into studying. Not too much, but just, you know, preparing a little bit for it.
+
+109
+00:12:58.040 --> 00:13:08.269
+Jenny Duan: I'm curious now. You were talking about doing tennis earlier. It seems like you're super athletic. I'd love to know what other things you spend time doing outside of school, and if you're involved in any clubs.
+
+110
+00:13:11.180 --> 00:13:14.000
+Ankur Shah: Right now. Sometimes I go to an investment club.
+
+111
+00:13:14.820 --> 00:13:16.380
+Ankur Shah: Mondays and Thursdays.
+
+112
+00:13:17.330 --> 00:13:18.820
+Ankur Shah: and then I have a
+
+113
+00:13:19.849 --> 00:13:22.990
+Ankur Shah: after school program deco that I go to.
+
+114
+00:13:23.910 --> 00:13:25.110
+Ankur Shah: I gotcha.
+
+115
+00:13:25.760 --> 00:13:27.060
+Ankur Shah: I think that's it.
+
+116
+00:13:27.650 --> 00:13:40.340
+Jenny Duan: That's it cool. So those are the clubs. It seems like you're really interested in business, right? I mean, you're taking introduction to you're taking business fundamentals. You're doing all these business related clubs. How long have you been interested in business for.
+
+117
+00:13:41.905 --> 00:13:42.740
+Ankur Shah: Maybe
+
+118
+00:13:42.790 --> 00:13:46.245
+Ankur Shah: just this year. But I I've always been interested in this.
+
+119
+00:13:46.560 --> 00:13:47.360
+Jenny Duan: This year?
+
+120
+00:13:48.800 --> 00:13:56.400
+Jenny Duan: Got it? What got what inspired you to become interested in business? Did you do something, or did you start a business? Or was this just kind of interesting to you.
+
+121
+00:13:56.630 --> 00:13:58.419
+Ankur Shah: I think it's probably my dad.
+
+122
+00:13:58.720 --> 00:13:59.510
+Ankur Shah: He probably.
+
+123
+00:13:59.510 --> 00:14:01.169
+Jenny Duan: Yeah. Can you tell me more about that.
+
+124
+00:14:04.240 --> 00:14:07.170
+Ankur Shah: He, I mean, he's in business
+
+125
+00:14:07.320 --> 00:14:10.931
+Ankur Shah: and tech. So I kinda wanna do what he does. So
+
+126
+00:14:12.530 --> 00:14:15.609
+Ankur Shah: and I like just like the inside of what he does.
+
+127
+00:14:17.040 --> 00:14:30.290
+Jenny Duan: Yeah, that's super inspiring. And and I mean, do you see yourself working in business and tech in the long term? And and I know, like business and tech are 2 different fields that have many ways to come together. So in what area of business and tech do you see yourself in.
+
+128
+00:14:32.363 --> 00:14:34.170
+Ankur Shah: Cybersecurity and
+
+129
+00:14:34.310 --> 00:14:36.190
+Ankur Shah: or something. Data. Science.
+
+130
+00:14:36.464 --> 00:14:55.280
+Ankur Shah: I mean, AI is everywhere now. So that's my husband. Just started a company like literally right now. So I think he's seeing that kind of develop, you know. So it's kind of exciting, you know. So he's I mean, literally like a month ago, he's starting got funded and all that. So he's kind of seeing that process cause he tells us about it, and stuff, you know. So it kind of.
+
+131
+00:14:55.280 --> 00:14:57.130
+Jenny Duan: Congratulations, super cool.
+
+132
+00:14:57.130 --> 00:14:59.890
+Ankur Shah: I think he's getting excited about that.
+
+133
+00:15:00.420 --> 00:15:06.919
+Jenny Duan: Yeah, Arian, quick question. So when you're on the top cover of Times magazine in 20 years, what's the cover? Gonna say.
+
+134
+00:15:13.080 --> 00:15:25.810
+Jenny Duan: It could be anything it could be. It could be, you know, world's record longest longest time playing video games. It could be, you know, travel to the most countries, it could be started. New 1 billion dollar startup like, what's it? Gonna say, it could be anything.
+
+135
+00:15:28.150 --> 00:15:29.754
+Ankur Shah: Future. CEO. Maybe.
+
+136
+00:15:30.290 --> 00:15:32.320
+Jenny Duan: Your CEO. What what are you gonna be doing?
+
+137
+00:15:34.197 --> 00:15:38.220
+Ankur Shah: Same thing in like computer science, business, cyber security.
+
+138
+00:15:38.750 --> 00:15:44.249
+Jenny Duan: Okay, okay, future. CEO, computer science business cyber security. What's your company? Gonna do.
+
+139
+00:15:45.560 --> 00:15:46.510
+Ankur Shah: It's gonna
+
+140
+00:15:49.550 --> 00:15:53.310
+Ankur Shah: What is that gonna secure? Protect people from like cyber attacks?
+
+141
+00:15:54.040 --> 00:16:13.349
+Jenny Duan: Okay, yeah, super important, super important. Cyber attacks are, gonna you know, be more and more prevalent, especially when it comes to like se national security like personal security, especially, maybe it does like personal data protection on social media. Or you know, something like that. That's super cool. So now I want you to think about yourself in 20 years, and
+
+142
+00:16:13.700 --> 00:16:35.919
+Jenny Duan: the reason why we're doing this call right now is to set yourself up on the path to get you there, and I know you're already taking the classes that you need to be doing to, you know. Prepare yourself academically. But, the reason why we're doing this, and the reason why all of the hard work that you're gonna put in now and over the next 4 years is to set you on that track to one day. Be on that cover of Times magazine.
+
+143
+00:16:35.920 --> 00:16:58.999
+Jenny Duan: So that's why, you know, it's really important to put time into extra curriculars to put time into school, and I want you to have this goal in mind, because I know that sometimes the college application process can feel like you're just putting yourself into the void like you're doing something for no reason. And you know, like, why am I taking these prep classes like, why am I? Why am I sitting here on this call when I could be like outside played basketball with my friends
+
+144
+00:16:59.000 --> 00:17:24.339
+Jenny Duan: like, why am I even doing this? This is why you're doing this so that you can set yourself up with the knowledge and the personal character in the preparation to get you to where you want to be in that 20 years. So just remember this like everything that you do. It's for a reason you're not doing it for no reason. Because I think that's a narrative that a lot of students, and that's something that I even thought when I was a little bit younger, that I didn't realize that everything that I was doing had purpose. But for you I want you to
+
+145
+00:17:24.349 --> 00:17:36.640
+Jenny Duan: approach school and tennis and everything else with that sense of purpose. So okay, you're interested in business and technology. We know that. What else are you interested in? What else do you spend time doing? I know you do tennis. What else do you do?
+
+146
+00:17:39.670 --> 00:17:40.880
+Ankur Shah: I mean, I
+
+147
+00:17:40.910 --> 00:17:43.110
+Ankur Shah: play sports for fun. And
+
+148
+00:17:43.270 --> 00:17:44.960
+Ankur Shah: I play video games.
+
+149
+00:17:48.180 --> 00:17:49.000
+Ankur Shah: yeah.
+
+150
+00:17:50.470 --> 00:17:53.489
+Jenny Duan: What, what sports, what sports do you play in? What video games.
+
+151
+00:17:54.342 --> 00:17:57.650
+Ankur Shah: Sports for fun, I mean basketball, football.
+
+152
+00:17:58.796 --> 00:18:01.230
+Ankur Shah: and tennis for fun. Sometimes.
+
+153
+00:18:01.930 --> 00:18:02.690
+Jenny Duan: Hmm.
+
+154
+00:18:03.910 --> 00:18:05.459
+Jenny Duan: and what about video games?
+
+155
+00:18:07.080 --> 00:18:09.929
+Ankur Shah: I play. Cs go sometimes.
+
+156
+00:18:11.390 --> 00:18:39.199
+Jenny Duan: This goes cool. Also, I wanna emphasize like, it's not a bad thing to play video games like nothing that you do is is inherently bad. What's bad is, you know. Maybe you spend too much time playing video games. That could be a problem. But playing video games in and of itself isn't a problem. So I want you to feel comfortable like you can share that also, like right now, I don't know if I told you this. But I'm studying abroad in China, and I'm literally gonna go with my school, my my academic professor, to go watch
+
+157
+00:18:39.200 --> 00:18:47.299
+Jenny Duan: like the League of Legends like Asia championships in a couple of weeks. So I think there's nothing wrong with playing video games. My professor at school
+
+158
+00:18:47.300 --> 00:19:11.789
+Jenny Duan: at Stanford loves video games, and he's taking a group of us to go see the League of Legends, Asia championships. So there's nothing wrong with with saying that you like video games. It's I mean, the only thing is, if you spend too much time playing video games, and if that affects other things. But if you just play video games like that's fine. I want you to feel comfortable sharing that. So you play Cs, go super cool basketball, football tennis. How long does tennis training take you every week. I'm curious.
+
+159
+00:19:11.930 --> 00:19:13.810
+Jenny Duan: I know this can be super intense.
+
+160
+00:19:15.040 --> 00:19:15.929
+Ankur Shah: So
+
+161
+00:19:16.300 --> 00:19:18.099
+Ankur Shah: practice that our school is
+
+162
+00:19:18.340 --> 00:19:21.670
+Ankur Shah: every day for the most part for 2 h.
+
+163
+00:19:21.890 --> 00:19:23.539
+Ankur Shah: and then out of school.
+
+164
+00:19:24.221 --> 00:19:30.509
+Ankur Shah: I actually don't really do out of school anymore since the season started. But that would have been
+
+165
+00:19:30.560 --> 00:19:32.549
+Ankur Shah: maybe 4 HA week.
+
+166
+00:19:33.740 --> 00:19:40.150
+Jenny Duan: Got it. So you're currently in season during the off seasons. Do you play football and basketball at school, too, or no?
+
+167
+00:19:40.150 --> 00:19:42.160
+Ankur Shah: No, that that's just for fun.
+
+168
+00:19:42.670 --> 00:19:43.870
+Jenny Duan: Okay, gotcha
+
+169
+00:19:44.362 --> 00:19:47.750
+Jenny Duan: so during the off season, do you take outside lessons for tennis?
+
+170
+00:19:48.290 --> 00:19:49.380
+Ankur Shah: Yeah, I did.
+
+171
+00:19:50.250 --> 00:19:50.890
+Jenny Duan: Okay.
+
+172
+00:19:51.170 --> 00:20:04.499
+Jenny Duan: okay? So you do tennis? You do investment club. And you do. Deca, are you involved in anything else like volunteering? Do you have, like anything else that you spend your time doing outside of school, and and all this thing that you mentioned earlier.
+
+173
+00:20:05.489 --> 00:20:11.000
+Ankur Shah: Our school has like mandatory volunteering. So I do that sometimes.
+
+174
+00:20:11.383 --> 00:20:13.250
+Ankur Shah: I'll see the kitchen locally.
+
+175
+00:20:16.310 --> 00:20:17.429
+Jenny Duan: anything else.
+
+176
+00:20:21.060 --> 00:20:22.819
+Jenny Duan: Could be. Anything, could be anything
+
+177
+00:20:22.870 --> 00:20:24.260
+Jenny Duan: academic or not?
+
+178
+00:20:25.280 --> 00:20:27.309
+Ankur Shah: For volunteering, you're saying, or for any.
+
+179
+00:20:27.310 --> 00:20:29.400
+Jenny Duan: Or no, just in general, just in general.
+
+180
+00:20:31.170 --> 00:20:31.950
+Ankur Shah: Think that's it?
+
+181
+00:20:32.380 --> 00:20:33.080
+Ankur Shah: Probably.
+
+182
+00:20:34.790 --> 00:21:03.100
+Jenny Duan: Okay, cool. Yeah. Seems pretty balanced for a freshman. So what we're gonna do now is I wanna take some time and strategize about what other types of activities you might find interesting. Or you might wanna explore in the next couple of years on the common application. There's space to list up to 10 different activities. And what that means is, typically, people have a balance of academic related activities. So that would be your pre professional things like Deca or Investment Club.
+
+183
+00:21:03.100 --> 00:21:21.450
+Jenny Duan: but people also like to spend their time volunteering and showing a good mix of you know their extracurricular commitments, pre professional interest and also their community service and their impact. So it's good that you already have little buds of each one. But we're gonna think about and strategize how you can maybe expand this moving forwards.
+
+184
+00:21:21.480 --> 00:21:22.370
+Jenny Duan: So
+
+185
+00:21:23.430 --> 00:21:26.880
+Jenny Duan: with Investment Club and Decca, I'm curious like.
+
+186
+00:21:26.960 --> 00:21:36.650
+Jenny Duan: are you? How are you situated in this club? And do you feel like you would have the opportunity to take leadership positions moving forward, maybe in your junior year or your senior year.
+
+187
+00:21:37.801 --> 00:21:40.109
+Ankur Shah: Yeah, hopefully, I can become
+
+188
+00:21:40.220 --> 00:21:43.029
+Ankur Shah: deck officer or a mentor.
+
+189
+00:21:44.460 --> 00:21:48.339
+Ankur Shah: I think, becoming the it's hard. So that's probably not gonna happen. But
+
+190
+00:21:48.728 --> 00:21:51.859
+Ankur Shah: becoming an officer is something I wanna do.
+
+191
+00:21:52.420 --> 00:21:55.170
+Jenny Duan: Yeah. And that's something that you run for at the statewide level.
+
+192
+00:21:57.076 --> 00:21:58.380
+Ankur Shah: No! It's just no.
+
+193
+00:21:58.590 --> 00:22:00.549
+Jenny Duan: Just so in the club. Okay, got it?
+
+194
+00:22:01.412 --> 00:22:03.740
+Jenny Duan: And I'm curious like.
+
+195
+00:22:03.770 --> 00:22:06.680
+Jenny Duan: how are you perceived at school by your peers? Do you think
+
+196
+00:22:06.850 --> 00:22:13.939
+Jenny Duan: it's a random question. Do you feel like you've come off as more shy? It's more talkative. Are you the class clown? How do you think your peers perceive you.
+
+197
+00:22:14.390 --> 00:22:15.619
+Ankur Shah: Probably more shy.
+
+198
+00:22:16.200 --> 00:22:28.279
+Jenny Duan: More shy. Got it? And is this something that you're comfortable with like? Do you like being shy? Do you want to be more outgoing. Do you like being more reserved? You like? What? What do you? Where do you want to grow? In what direction.
+
+199
+00:22:29.420 --> 00:22:30.520
+Ankur Shah: Maybe more
+
+200
+00:22:30.670 --> 00:22:31.803
+Ankur Shah: outgoing. So
+
+201
+00:22:32.930 --> 00:22:35.599
+Ankur Shah: I can get more leadership opportunities.
+
+202
+00:22:36.570 --> 00:22:41.190
+Jenny Duan: Yeah, that makes a lot of sense. What do you feel like is is stopping you from being more outgoing right now.
+
+203
+00:22:43.160 --> 00:22:45.360
+Ankur Shah: I I just don't want to. Most of the.
+
+204
+00:22:45.360 --> 00:22:46.479
+Jenny Duan: She doesn't want to.
+
+205
+00:22:46.500 --> 00:22:48.148
+Jenny Duan: Yeah, that makes sense.
+
+206
+00:22:49.120 --> 00:22:54.769
+Jenny Duan: there's a period of time in my life where I was, where I was also really shy. I think I just wasn't like
+
+207
+00:22:54.900 --> 00:23:10.459
+Jenny Duan: when I was in eighth grade and ninth grade. I think I just wasn't comfortable with putting myself out there, and I was always like really wanting to stay in my bubble with all of my friends, because that's just like the people that I knew my whole life. But I definitely remember feeling that way, too, in my life.
+
+208
+00:23:10.860 --> 00:23:19.989
+Jenny Duan: I'm curious how how your relationship with your teachers is. Do you feel like you know them pretty well. Do you not really know them like, how how close are you with your teachers?
+
+209
+00:23:21.176 --> 00:23:22.859
+Ankur Shah: I think I'm close with
+
+210
+00:23:23.090 --> 00:23:24.980
+Ankur Shah: maybe 3 teachers.
+
+211
+00:23:26.780 --> 00:23:28.289
+Jenny Duan: Yeah, which teachers are those.
+
+212
+00:23:29.570 --> 00:23:32.099
+Ankur Shah: English and business teacher.
+
+213
+00:23:32.980 --> 00:23:51.560
+Jenny Duan: Cool. I would say. Try to keep your relationships with your teachers as close as possible. Like. Go to office hours, feel free to ask them for help, because there, first of all, they're really there to support you. But second, of all, teacher relationships are really important to you for letters, recommendation and for other programs down the line. I also feel like
+
+214
+00:23:51.560 --> 00:24:05.516
+Jenny Duan: everything that I'm telling you. When it comes to college application. So I'm saying, teacher relationships are important for your letters of recommendation. But all of these tips are not only for college, it's also for just life and preparing as a person, because ultimately.
+
+215
+00:24:06.096 --> 00:24:28.750
+Jenny Duan: college preparation is not ultimately just about getting into a good school. It's about like developing as a person. So when I say these things. I don't want it to seem like you're doing everything just again to college. It's really to help you grow as a person and like getting into college is a byproduct of that, but not the root purpose of, you know, investing your time into relationships with teachers, investing your time into activities and everything like that.
+
+216
+00:24:28.980 --> 00:24:32.619
+Jenny Duan: So just wanna clarify that a little bit. But
+
+217
+00:24:32.640 --> 00:24:37.550
+Jenny Duan: yeah, relationships with teachers is important for life, but also for your recommendations.
+
+218
+00:24:38.220 --> 00:24:39.540
+Jenny Duan: Okay, so
+
+219
+00:24:39.640 --> 00:24:46.089
+Jenny Duan: Investment Club. Decca, I'm curious. Are you planning to major in business in the future? Is this something that you're thinking about doing.
+
+220
+00:24:47.423 --> 00:24:48.569
+Ankur Shah: Maybe, but
+
+221
+00:24:48.980 --> 00:24:51.669
+Ankur Shah: probably one of major computer science.
+
+222
+00:24:53.340 --> 00:24:58.840
+Jenny Duan: Sure. Yeah, can you tell me why computer science stands out to you? Why is this interesting to you? To major in.
+
+223
+00:25:00.436 --> 00:25:04.829
+Ankur Shah: Cause. That's the field. I wanna go in computer science cyber security.
+
+224
+00:25:05.890 --> 00:25:06.456
+Jenny Duan: Got it.
+
+225
+00:25:06.950 --> 00:25:10.740
+Jenny Duan: So do you see yourself more on the tech side than rather than the business side?
+
+226
+00:25:11.596 --> 00:25:16.499
+Ankur Shah: I I like business more. But I think I'm probably gonna do something with tech.
+
+227
+00:25:17.390 --> 00:25:19.509
+Jenny Duan: Why is that? Why is that.
+
+228
+00:25:21.860 --> 00:25:23.010
+Ankur Shah: I mean.
+
+229
+00:25:23.070 --> 00:25:26.649
+Ankur Shah: maybe I can do something with a combination of both.
+
+230
+00:25:26.810 --> 00:25:28.149
+Ankur Shah: But that's what I wanted to do.
+
+231
+00:25:29.000 --> 00:25:30.180
+Jenny Duan: Okay, got it?
+
+232
+00:25:30.593 --> 00:25:43.810
+Jenny Duan: So I'm just. I am curious, though. You say you'd like business more. But you want to do tech. Is that? Because tech is more stable? Is that because, like what? I'm curious? Why, you think that there's no wrong answer. I'm just curious.
+
+233
+00:25:44.783 --> 00:25:47.849
+Ankur Shah: Cause. There's like a clear path with tech.
+
+234
+00:25:49.800 --> 00:25:50.586
+Ankur Shah: To what
+
+235
+00:25:51.120 --> 00:25:52.290
+Ankur Shah: For the feature?
+
+236
+00:25:53.260 --> 00:26:04.790
+Jenny Duan: That makes a lot of sense. Yeah, I think in the future, everything is gonna involve some type of technology, right? Whether you're in business whether you're in medicine, whether you're in law or anything else. Tech is going to be a part of it so smart that you're thinking ahead.
+
+237
+00:26:05.230 --> 00:26:16.279
+Jenny Duan: So it seems like you're interested in tech. But you don't really do anything related to tech. I'm curious if there's a computer science club at your school, and if so like. Why, you've chosen not to be in that.
+
+238
+00:26:17.508 --> 00:26:23.599
+Ankur Shah: I actually did go to. I forgot to mention. I went to a Cyber Security club last semester
+
+239
+00:26:25.310 --> 00:26:29.840
+Ankur Shah: and there's just not a lot of computer science and tech programs after school.
+
+240
+00:26:30.230 --> 00:26:32.759
+Ankur Shah: Not a lot of major clubs
+
+241
+00:26:32.800 --> 00:26:33.920
+Ankur Shah: that do that.
+
+242
+00:26:34.990 --> 00:26:37.369
+Jenny Duan: Hmm! What's stopping you from starting your own.
+
+243
+00:26:40.330 --> 00:26:45.589
+Ankur Shah: I was thinking about doing that next year. They don't let freshmen start clubs. But yeah.
+
+244
+00:26:45.590 --> 00:26:46.810
+Jenny Duan: Oh, go ahead. Yeah.
+
+245
+00:26:48.480 --> 00:26:52.340
+Jenny Duan: So I think it'd be super cool if you started your own club. What do you think.
+
+246
+00:26:52.710 --> 00:26:55.250
+Ankur Shah: Yeah, I think that's something I'd wanna do.
+
+247
+00:26:55.810 --> 00:26:58.070
+Jenny Duan: Yeah, what type of club do you think you would start.
+
+248
+00:26:59.750 --> 00:27:02.709
+Ankur Shah: That like I really have no idea. But
+
+249
+00:27:03.330 --> 00:27:03.880
+Ankur Shah: maybe.
+
+250
+00:27:03.880 --> 00:27:11.550
+Jenny Duan: We can spend some time like thinking about that together right now. So you mentioned there's a Cyber Security Club at your school. What other types of Cs clubs are there.
+
+251
+00:27:14.880 --> 00:27:18.785
+Ankur Shah: is robotics, right? There's for oh, yeah, robotics.
+
+252
+00:27:20.390 --> 00:27:22.320
+Ankur Shah: there's some smaller ones.
+
+253
+00:27:22.460 --> 00:27:27.620
+Ankur Shah: This is some Matt Rover. I don't know that very well, either. I mean, we just kind of yeah.
+
+254
+00:27:27.820 --> 00:27:34.137
+Ankur Shah: cause my daughter was very liberal artsy, so kind of very did much of that. So I don't know too much on this side. But
+
+255
+00:27:35.270 --> 00:27:41.035
+Ankur Shah: and there's a few I just have to kind of look into it to see exactly what's offered for next year.
+
+256
+00:27:41.590 --> 00:27:44.020
+Ankur Shah: What is that? Frc, what is that?
+
+257
+00:27:44.020 --> 00:27:46.249
+Jenny Duan: Oh, at first! See robotics.
+
+258
+00:27:46.250 --> 00:27:47.090
+Ankur Shah: Okay.
+
+259
+00:27:47.210 --> 00:28:08.940
+Ankur Shah: yeah. I mean, I that's the thing I mean, just, you know, just really quick is what he hasn't done too much like program. Of course he does it in computer science. But he doesn't tend to with programming. But you know, we're in Bay area. So tech is just kind of top of mind all the time, right? But I think he's interested in business. But he does. Wanna intersect that with tech at some point, just because he feels like.
+
+260
+00:28:09.190 --> 00:28:21.003
+Ankur Shah: you know, to be honest, that's where he's gonna make money. That's where he's gonna be successful. That's where that's what I think. He I he could say something different. But that's why I think that everybody kind of goes through since the big area kind of mindset, you know.
+
+261
+00:28:21.240 --> 00:28:21.900
+Jenny Duan: Hmm.
+
+262
+00:28:22.080 --> 00:28:28.309
+Ankur Shah: But yeah, I think if you can figure out a good club that intersects both of those that would be kind of cool. Yeah.
+
+263
+00:28:28.600 --> 00:28:39.449
+Jenny Duan: Yeah, that's super cool. So one thing that I'm thinking about is actually have you heard of like Cs for social good, or C tech for good types of nonprofits or clubs.
+
+264
+00:28:40.660 --> 00:28:42.310
+Ankur Shah: I don't think I've heard of that.
+
+265
+00:28:42.620 --> 00:29:08.710
+Jenny Duan: So one thing that could be a really good approach is for you to work with small businesses or nonprofits, and actually create like websites or apps for these businesses, and that would combine your passion for business and technology because you would able, you'd be able to support, like a small business, a nonprofit, a local initiative by helping them create a solution like a website or an app or a platform to really showcase and demonstrate and grow their work.
+
+266
+00:29:08.710 --> 00:29:13.190
+Jenny Duan: And I think that would teach you a lot about business because you'd be working with so many businesses.
+
+267
+00:29:13.190 --> 00:29:19.249
+Jenny Duan: But you would also learn about technology and Cs, because you would be building like tech solutions for them, and
+
+268
+00:29:19.250 --> 00:29:40.729
+Jenny Duan: even better if you did it for free, or if you worked with like nonprofits that could also demonstrate, like your commitment to your community and community service. If you wanted, you could narrow this in further like. For example, if you wanted to work with businesses of a certain type. You could do that, or if you wanted to work with nonprofits of a certain type, or def a certain like demographic or interest area, you could narrow it down.
+
+269
+00:29:40.730 --> 00:29:54.089
+Jenny Duan: But using that as a framework, I feel like that could be a really cool way for you to not only gain some hands on projects, building actual things, but also like being able to support and learn about businesses, too. Is this something that you would find interesting.
+
+270
+00:29:55.210 --> 00:29:55.690
+Ankur Shah: Yeah.
+
+271
+00:29:58.410 --> 00:30:10.749
+Jenny Duan: Yeah. So I feel like that. Seems like a pretty good like idea, like within the club, you could, you could have different teams of maybe like 5 to 10 people in your club working with individual businesses. And you could you could lead like
+
+272
+00:30:10.810 --> 00:30:29.540
+Jenny Duan: a team, or you could be like you could oversee all of the different teams, and that would also help you develop a leadership leadership skills by like coordinating all these different, you know, student to business partnerships, and it could be like you could call it whatever you want. Who could call it? Some people call it like Cs for social good. Some people call it like
+
+273
+00:30:29.840 --> 00:30:40.660
+Jenny Duan: hacking for good, you could, you know, give it whatever type of name you want. But I feel like that would be a really good way to integrate community service, leadership, business and technology all in one opportunity.
+
+274
+00:30:42.030 --> 00:30:43.289
+Jenny Duan: I think it's like that's.
+
+275
+00:30:43.290 --> 00:30:43.779
+Ankur Shah: Good, happy.
+
+276
+00:30:43.780 --> 00:30:44.460
+Jenny Duan: And okay.
+
+277
+00:30:44.460 --> 00:31:00.459
+Ankur Shah: Last choice called something about social innovation. I don't know. I mean, I'd have to look at his catalog for next year, but some of those are like entrepreneurship for, like nonprofit kind of stuff or impact. Or I mean, those are just classes. I don't. They're not clubs, but.
+
+278
+00:31:01.350 --> 00:31:21.499
+Jenny Duan: Yeah, I mean, I think that it OP opens an opportunity for you to attract people who maybe don't have space in their schedule to take those classes who want to do something like that, or people who have already taken those classes and want to continue so. It seems like even if there's overlap, I feel like you can use that overlap to your advantage by like engaging the people who are interested in those classes into your club.
+
+279
+00:31:22.330 --> 00:31:23.380
+Jenny Duan: Hmm.
+
+280
+00:31:24.010 --> 00:31:35.270
+Jenny Duan: yeah, I'm also curious with the Investment Club. How does that club work? Are you doing like, are you learning about investments? Are you actively investing. What kinds of things do you do in that club?
+
+281
+00:31:36.516 --> 00:31:41.980
+Ankur Shah: It's a it's a smaller club that's student ran seniors
+
+282
+00:31:42.902 --> 00:31:47.049
+Ankur Shah: so they they teach investing sometimes.
+
+283
+00:31:48.560 --> 00:31:53.920
+Ankur Shah: and they teach how to invest, and I did try to invest a bit last semester.
+
+284
+00:31:54.090 --> 00:31:56.426
+Ankur Shah: I tried it off for a bit.
+
+285
+00:31:59.230 --> 00:32:04.179
+Jenny Duan: Cool. So a couple of questions here, first of all, are the seniors graduating and
+
+286
+00:32:04.610 --> 00:32:14.059
+Jenny Duan: and do they when they graduate? Who's gonna take leadership? Can you take leadership? Second of all, where? What money are you investing with? And
+
+287
+00:32:14.450 --> 00:32:15.949
+Jenny Duan: yeah, how does that work.
+
+288
+00:32:16.942 --> 00:32:21.630
+Ankur Shah: So the seniors, actually, they haven't even showed up in a few months. So.
+
+289
+00:32:21.965 --> 00:32:22.300
+Jenny Duan: Wow!
+
+290
+00:32:22.300 --> 00:32:24.290
+Ankur Shah: Question is taking over right now.
+
+291
+00:32:25.568 --> 00:32:28.680
+Ankur Shah: She's taking over as the president
+
+292
+00:32:30.490 --> 00:32:33.189
+Ankur Shah: and I'm investing right now.
+
+293
+00:32:34.040 --> 00:32:36.600
+Ankur Shah: Actually, I'm not. I'm not really investing right now.
+
+294
+00:32:37.490 --> 00:32:39.001
+Jenny Duan: Okay, no worries. So
+
+295
+00:32:39.430 --> 00:32:59.639
+Jenny Duan: I think you should take this opportunity to also take leadership as a co-president advice President, or some other officer role. Seems like if another freshmen stepping up like you could do the same too. So why don't you coordinate with this person and see what you can do together to transform this club. Second thing is to give this club structure. I think you guys should look into the stock market game. Have you heard about this.
+
+296
+00:33:00.360 --> 00:33:01.050
+Ankur Shah: Bye.
+
+297
+00:33:02.362 --> 00:33:05.390
+Jenny Duan: Do you have a club that does the stock market game? Simulation.
+
+298
+00:33:06.686 --> 00:33:10.429
+Ankur Shah: Yeah, deca there's an option to do that
+
+299
+00:33:10.790 --> 00:33:12.140
+Ankur Shah: within the December.
+
+300
+00:33:12.140 --> 00:33:13.010
+Jenny Duan: You gave.
+
+301
+00:33:13.210 --> 00:33:14.235
+Jenny Duan: Okay?
+
+302
+00:33:16.210 --> 00:33:21.289
+Jenny Duan: that's that's interesting. I feel like the stock market game would also fit well in the In Confessment club scope.
+
+303
+00:33:21.300 --> 00:33:24.920
+Jenny Duan: But maybe there's is there a lot of overlap between? But Investment Club and Decca.
+
+304
+00:33:26.280 --> 00:33:27.750
+Ankur Shah: Not not really no
+
+305
+00:33:27.940 --> 00:33:32.699
+Ankur Shah: cause that doesn't want to. Competitive, you know. They have the competition and investment clubs like
+
+306
+00:33:32.760 --> 00:33:34.840
+Ankur Shah: a really small club.
+
+307
+00:33:35.430 --> 00:33:36.840
+Ankur Shah: Compared to Decca.
+
+308
+00:33:37.640 --> 00:34:07.369
+Jenny Duan: Okay, cool. So what I see here is, it's a small club which means you are a freshman. You have the opportunity to take leadership in this club and completely transform it. So that would be really cool if you would be able to grow this club by like a lot by the end of your graduation time. Because also another thing that, like most college applications and every application looks for is they wanna see metrics. And so if you're actually starting with the small club that is actually gonna be a benefit because you can show more growth
+
+309
+00:34:07.370 --> 00:34:33.239
+Jenny Duan: for a bigger club already with 100 members. It's hard to show like (102) 030-4050% growth. But if you're a small club and you only have like 5 members, it can be really easy to double even triple quadruple your membership if you're able to do a good job as a leader. So I feel like this is a really good opportunity for you to actually demonstrate your growth over time and like the growth of this organization as well. So I feel like you should take this opportunity to keep on growing your club
+
+310
+00:34:33.989 --> 00:34:36.309
+Jenny Duan: and try to pick up a leadership role as well.
+
+311
+00:34:37.010 --> 00:34:37.949
+Jenny Duan: Bond
+
+312
+00:34:38.330 --> 00:34:44.859
+Jenny Duan: cool. So the other thing that I want to spend some time talking about is community service and impact.
+
+313
+00:34:44.870 --> 00:35:04.540
+Jenny Duan: So I think that this is like a very undervalued area and understated for a lot of students and most students typically have, like a passion or an area that they feel like they can make a big contribution or impact in. And I'm curious like, is there anything any like areas that stand out to you as areas that you'd be interested in contributing to.
+
+314
+00:35:05.860 --> 00:35:07.810
+Ankur Shah: To community service.
+
+315
+00:35:11.200 --> 00:35:13.729
+Ankur Shah: like, I was saying earlier, there's a soup kitchen
+
+316
+00:35:13.960 --> 00:35:15.909
+Ankur Shah: that I volunteer a lot
+
+317
+00:35:16.100 --> 00:35:17.670
+Ankur Shah: so maybe I could do that
+
+318
+00:35:17.920 --> 00:35:18.930
+Ankur Shah: often.
+
+319
+00:35:20.210 --> 00:35:39.518
+Jenny Duan: Yeah. So I think that the here thing here is we wanna emphasize that it's not just service. It's not just about being a body there and giving a number of hours. It's about trying to make an impact in some area or some cause in the world. So if we were to take the soup kitchen as an example. The cause that you would be focused on highlighting is maybe
+
+320
+00:35:39.980 --> 00:35:41.400
+Jenny Duan: is maybe
+
+321
+00:35:41.820 --> 00:36:03.729
+Jenny Duan: poverty, alleviation, or hunger, so that would be like the bigger issue that you're trying to solve, and that maybe would extend beyond the soup kitchens that would maybe extend to changing and affecting policy in your area and becoming a leader in other ways. But for you, I'm curious like, is there an area that you're passionate about like this? And the reason why we bring this up is because.
+
+322
+00:36:04.076 --> 00:36:15.150
+Jenny Duan: a lot of students, I think, from similar backgrounds to you are maybe labeled as Cookie Cutter profiles, or they are a little bit stereotyped within the college application process like.
+
+323
+00:36:15.480 --> 00:36:42.589
+Jenny Duan: let's be honest like you are an Indian male who's wants to study Cs from the Bay Area. There's many, many students with the same profile as you, who maybe spend hours volunteering at the soup kitchen, who do business, who are interested in all these areas. And that's not a bad thing. But what we wanna do is really make your profile and make you stand out by highlighting what's unique about you. And that could be anything that could be something like, you're really good at tennis. That could be. You have an impact in a very specific area. But
+
+324
+00:36:42.800 --> 00:37:05.389
+Jenny Duan: the reason why we're trying to talk about all of this is because it's really really important for you to do things that make you stand out, because the truth is, you will probably be faced with many people with the same background, and when faced with a profile of other people, with same Gpa, same demographics, same major interest. We wanna have something unique about you that the admissions officers can hold on to and help you stand out. Siraj. Yes. Did you have something to say?
+
+325
+00:37:05.390 --> 00:37:16.519
+Ivylevel: Yeah, I think it's a very important point that if if you don't mind, I wanted to kind of chime in as well, because, you know, I think it's a very related point. And the reason why, you know, we had actually hand picked
+
+326
+00:37:16.570 --> 00:37:19.610
+Ivylevel: Rishi. And you know you don't have to come on board.
+
+327
+00:37:19.938 --> 00:37:29.019
+Ivylevel: So I think the point that Jenny's highlighting is critically important. You know both Lina and we had been discussing about this right. What we are trying to do here. All every effort that's going in here
+
+328
+00:37:29.040 --> 00:37:50.449
+Ivylevel: is really not about just following. You know the the herd here right? And I think that's very stressful. And I know that your parents have actually gone through this journey already once, and I'm I'm I myself. I'm a victim. I'm I'm I've sent my older daughter to crimson, and then had to work out of it, and all that stuff. The thing we want to do is right early on. We want to identify
+
+329
+00:37:50.480 --> 00:38:06.670
+Ivylevel: how to make you really unique and stand out. And you are unique already in too many things that you've already said. And you have an example here, Rishi, right? And I want, you know, this is so Rishi basically is now AI machine learning software art.
+
+330
+00:38:06.690 --> 00:38:23.020
+Ivylevel: Stanford. And when you know a again, like when I when you look at his story, and and this is something that he got in his admission letter after he got admitted. I mean, they all go to like Stanford. They get a note from the admission officer as to like, why did they choose Rishi? What did really stand out.
+
+331
+00:38:23.020 --> 00:38:39.730
+Ivylevel: It's his community and service impact right? And not in a bad way, you know, like a lot of people have asked me, sir. I see in your website that people with 3.8 Gpa can actually make it to Stanford. I mean, Rishi is here, and there are many of the students who have done that. You don't need to be like, you know, all is right, and this is with proof.
+
+332
+00:38:39.870 --> 00:38:57.830
+Ivylevel: And the reason. Just look at the way this, I mean, this is, I mean, when I looked at this, I said, Hey, you're an AI machine learning guy, right? Like, I don't see any technology in your Passion project or any community project. There's no single line of code. It's all like what they've done is they've actually procured all the waste kind of devices that all of us have in the house.
+
+333
+00:38:57.930 --> 00:39:14.099
+Ivylevel: Yeah, on ebay. And Rishi bought them with his team, built a team. They repaired it. And they basically generated nonprofit revenue out of it at a profit. And then, basically, you know, gave it to the nonprofit organization, apparently like more than 27,000 etc. But, more importantly.
+
+334
+00:39:14.270 --> 00:39:32.129
+Ivylevel: the way it also that tied into the narrative of reducing e waste, and also working towards the advocacy of actually enabling a right to repair something that probably Apple would not like. I'm sure you know as an apple care like, you know, they don't want like a do your own repair kind of a thing. I want to show you the impact here. Right?
+
+335
+00:39:32.130 --> 00:39:48.359
+Ivylevel: This is what I really talk. Tell to people that you know it's. And and this is all, not just a perspective. This is hardcore data. And I wanted to highlight this. And this is what we are trying to do from early on. It's not about the quantity of checklist items the cookie got to profile that Jenny's talking about.
+
+336
+00:39:48.560 --> 00:39:59.749
+Ivylevel: We have so many, I can tell you that we have so many profiles, and we make this running joke internally, like, you know. Hey? I really feel to ask the student, why haven't you found the cure to cancer yet?
+
+337
+00:39:59.760 --> 00:40:16.609
+Ivylevel: Trust me, there are profiles unbelievable. But I think this is where we are. We are. We are trying to drive this conversation towards and what we want to help you with. So yeah, I just wanted to kind of chime in here for us for a sec yeah, sorry, Jenny. I'll just let you kind of you know. Take it from there.
+
+338
+00:40:17.210 --> 00:40:33.389
+Jenny Duan: Yeah. So anyways, continuing from that, that's kind of why we're asking all of these questions, to try to get to know you and try to identify what's unique about you and about your interest so that we can help craft that better. So yeah, curious about
+
+339
+00:40:34.200 --> 00:40:53.489
+Jenny Duan: this community impact area that you're passionate about. Do you feel like there's anything that stands out to you? So some people like to work on education. Some people like to do healthcare. Some people like to focus on the right to repair electronics like, is there any small area that you're interested in? Perhaps making a difference in one day.
+
+340
+00:40:54.920 --> 00:40:57.559
+Jenny Duan: If not, that's also okay. But just curious.
+
+341
+00:40:59.180 --> 00:41:02.840
+Ankur Shah: With the soup kitchen. I'm not not really interested in that.
+
+342
+00:41:02.920 --> 00:41:05.059
+Ankur Shah: I just do it, cause I have to.
+
+343
+00:41:05.540 --> 00:41:06.150
+Jenny Duan: Oh!
+
+344
+00:41:07.230 --> 00:41:10.200
+Ankur Shah: I mean, I haven't explored many other
+
+345
+00:41:11.190 --> 00:41:12.660
+Ankur Shah: community service.
+
+346
+00:41:14.590 --> 00:41:15.809
+Ankur Shah: things so
+
+347
+00:41:16.420 --> 00:41:19.129
+Ankur Shah: right now, I'm not really interested in anything.
+
+348
+00:41:19.890 --> 00:41:37.020
+Jenny Duan: Yeah, makes sense. I feel like soup kitchen, just because you have to like that totally makes sense. No one, you know, wakes up, and it's like my dream necessarily is to work in the soup kitchen and like that's what I want to do every day, like I think maybe some people do. But I feel like for the vast majority of people. That's probably not the case.
+
+349
+00:41:37.020 --> 00:41:52.797
+Jenny Duan: But I think that something that I think is really interesting, personally at least, is, have you ever thought about like social media privacy and like online privacy cause? I feel like this is an emergent area that requires a lot of attention. But I feel like there's not a lot of people working on these issues
+
+350
+00:41:53.090 --> 00:42:05.330
+Jenny Duan: in the field of social media and other forms of like digital privacy. Is this something that you might be interested in like advocating? For to some level or no, it's. And it's totally okay, if not too.
+
+351
+00:42:07.760 --> 00:42:11.747
+Ankur Shah: Maybe I'm just not sure what I would do with it.
+
+352
+00:42:13.110 --> 00:42:24.970
+Jenny Duan: Yeah, so people typically would tackle this project in different ways. So maybe like working on legislation to help moderate like trust and safety or cyber security in terms of like data sharing on social media.
+
+353
+00:42:25.830 --> 00:42:31.030
+Jenny Duan: also ensuring that, like, the algorithms are fair and like, are able to take down harmful content.
+
+354
+00:42:33.870 --> 00:42:36.044
+Jenny Duan: That could be something interesting.
+
+355
+00:42:36.700 --> 00:42:50.439
+Jenny Duan: another interesting area. And like, obviously, you don't have to know what you want to do right now. These are just some ideas that I'm throwing at you that you could think about. And you can think about over the next couple of months. What you want to spend a lot of your high school experience working on.
+
+356
+00:42:50.760 --> 00:42:58.559
+Jenny Duan: There's also like video games and like mental health and safety. I think this is a big area, especially for young teenagers.
+
+357
+00:42:58.915 --> 00:43:10.310
+Jenny Duan: Like video games. Obviously, we know, can be pretty harmful to creating violence or encouraging violence in children. So maybe that's an area you could think about, too. Do you have any thoughts on that?
+
+358
+00:43:11.770 --> 00:43:12.520
+Jenny Duan: Yeah.
+
+359
+00:43:12.870 --> 00:43:20.749
+Ankur Shah: Yeah, I think I mean, this may be something where you may have to list a few things, and you can kind of think about it. Honestly, he's just not. I mean, you know.
+
+360
+00:43:20.880 --> 00:43:28.680
+Ankur Shah: I'm sure he does think about stuff, but it's just with school and everything else. It's just. But this is good because it gives him
+
+361
+00:43:28.730 --> 00:43:34.719
+Ankur Shah: kind of a direction which is what we're looking for, right cause. It's even hard for us to kind of figure out what he
+
+362
+00:43:34.930 --> 00:43:41.738
+Ankur Shah: kind of can. And sometimes you don't know what you're going to impact until you actually start doing it, you know. So he's trying to figure
+
+363
+00:43:43.140 --> 00:43:43.670
+Ankur Shah: and.
+
+364
+00:43:43.670 --> 00:43:44.560
+Jenny Duan: Percent.
+
+365
+00:43:45.012 --> 00:43:52.337
+Jenny Duan: Also, another thing is like using sports as a way to teach life skills. You mentioned earlier that, like yours, you're
+
+366
+00:43:52.670 --> 00:44:18.340
+Jenny Duan: your city in San Jose or your area doesn't necessarily have access to the best public education, and maybe, like alongside that comes with like a mis preparedness in terms of life skills like leadership, organization and other things. And so maybe sports can be a great way to teach that. For example, like tennis. If you need to practice 2 HA day. That means you need to organize your schedule around tennis. That means you need to be a leader on the core. That means you need to balance school practice life. And so
+
+367
+00:44:18.530 --> 00:44:33.530
+Jenny Duan: maybe you could start a program where you teach young people like live skills through sports. Maybe in these like different underserved areas. So that's another idea for you. Do you have any thoughts on that? One like you don't have to say, if you like it or not, just like, do you have any thoughts on it?
+
+368
+00:44:34.608 --> 00:44:37.800
+Ankur Shah: I I might be interested in coaching Dennis
+
+369
+00:44:37.990 --> 00:44:38.959
+Ankur Shah: in the future.
+
+370
+00:44:38.960 --> 00:44:49.578
+Jenny Duan: Yeah, that's super cool. And then another thing is like another. So we went over 3 ideas. So far, we went over social media and like regulations and safety. We also went over
+
+371
+00:44:50.070 --> 00:44:55.379
+Jenny Duan: video games and mental health. We went over sports and leadership. Another final idea for you and
+
+372
+00:44:55.679 --> 00:45:11.869
+Jenny Duan: these are just ideas. Again, you don't have to follow these. Just think about them. It's all. Another idea is maybe some type of like nonprofit or startup that uses business to solve a social issue. And I know this is super broad, and we could think about how to integrate that better. But maybe you like
+
+373
+00:45:12.620 --> 00:45:31.600
+Jenny Duan: start a company, and you donate the money to to an organization that you're very passionate about. Maybe you you know, solve other. Some other type of social impact. Area with business. I know some. I know people who actually have done sneaker reselling made a ton of money doing that and like donated all of that to a nonprofit.
+
+374
+00:45:31.600 --> 00:45:54.519
+Jenny Duan: So think big it doesn't have to be. You don't have to be like working in the soup kitchen you could be reselling sneakers, and that could be your passion project, you know, like this. Think big with your ideas, and think about something that is, you truly care about, because at the end of the day you don't wanna waste your time doing things that you don't find valuable, whatever that is. So yeah, I would say, encourage you to think about not only these ideas, but anything else you could come up with.
+
+375
+00:45:54.540 --> 00:45:59.838
+Jenny Duan: and maybe the next time we meet we can talk about what might be interesting to you.
+
+376
+00:46:00.450 --> 00:46:01.900
+Jenny Duan: yeah, I'm curious
+
+377
+00:46:02.253 --> 00:46:24.596
+Jenny Duan: beyond that. So we talked about some of the clubs that school we talked about. Your academic interest. We also talked about your community service impact. I'm curious if you do anything in regards to like your cultural background, or if you do anything cultural. Because one thing is, people think that hiding their background is, gonna make them a more competitive applicant. But I think colleges actually,
+
+378
+00:46:25.390 --> 00:46:41.010
+Jenny Duan: Do you really like to see your involvement with culture and your background? Because they wanna create a holistic and diverse class. And they want students to lead like cultural groups, dance groups, music groups, and all things like that. So do you do anything related to your culture or your background?
+
+379
+00:46:41.910 --> 00:46:42.524
+Ankur Shah: Email.
+
+380
+00:46:44.220 --> 00:46:55.039
+Jenny Duan: No, okay, maybe that's something to think about doing. If you can explore that in in any way. For example, like every school like, has, for example, a South Asian Culture Club, and they have, like
+
+381
+00:46:55.340 --> 00:47:22.528
+Jenny Duan: groups that do dance that do music that try to contribute to like the diversity on campus, and they want to see students who will come to their institutions and lead those clubs. And so your culture is like a strength for you. It's it's something that adds a lot of value, not only to your life, but like to your college applications. And so I would encourage. Yeah, there's Bollywood dance groups. There's things like that everywhere. Maybe like you're not a dancer. Maybe you are, but it doesn't have to be Bollywood. It could be anything else.
+
+382
+00:47:22.880 --> 00:47:44.339
+Jenny Duan: So if there's anything that you can do to like, showcase your cultural involvement, that would also be really good. What some people like to do is they like to work at cultural related nonprofits in their area. They like to if they're religious volunteer at a temple or mosque some people like to organize like, you know, other activities that are cultural. So anything like that, I would
+
+383
+00:47:44.340 --> 00:48:00.309
+Jenny Duan: say, like, use this off as an opportunity to not only learn more about your culture, because when you're in college to, you might not have the same opportunity to learn from your parents your grandparents, in the same way that you do right now. So I would say, like, Take this high school as an opportunity to get more involved with that if you can.
+
+384
+00:48:02.010 --> 00:48:04.400
+Jenny Duan: And now I'm curious, like
+
+385
+00:48:04.470 --> 00:48:10.109
+Jenny Duan: moving forward. What are your plans for the summer? And do you have any thoughts on what you're gonna spend your summer doing.
+
+386
+00:48:14.770 --> 00:48:16.509
+Ankur Shah: wasn't there that program?
+
+387
+00:48:17.120 --> 00:48:21.089
+Ankur Shah: Yeah. So he's applying to a couple of programs, I think.
+
+388
+00:48:22.460 --> 00:48:31.541
+Ankur Shah: there, by June, something. So I forgot the names of it. But this summer, initially, he was gonna take Kim in the summer.
+
+389
+00:48:31.920 --> 00:48:32.270
+Jenny Duan: Right.
+
+390
+00:48:32.270 --> 00:48:52.789
+Ankur Shah: Physics right? But then it's not offered at a school anymore. And then his, his school counselor told him that if he takes Kim outside. Then he would not be able to take ap Kim in school. So we kind of, you know, decided not to do that. And then I really, you know, he's taking Calc could be seen, especially if he's gonna take physics because it's like
+
+391
+00:48:52.830 --> 00:49:11.199
+Ankur Shah: really hard for my daughter this year. She's taking physics. Ap, so I really want him to get some kind of tutoring over the summer, just for, you know, maybe a few hours a week for physics and and calc, if needed, but mostly for physics and and also computer science, because I don't think he's quite there where.
+
+392
+00:49:11.390 --> 00:49:23.379
+Ankur Shah: you know, he's some of the basics. I just don't think he spends enough time on it. Basically, I think he needs to spend more time on certain things just to kind of get better. He's he's quick to pick up, but he's just gotta spend that time on it, you know. So.
+
+393
+00:49:24.080 --> 00:49:35.900
+Jenny Duan: Yeah, that makes a lot of sense. And with computer science, like, what aspect of computer science are you interested in? More? The problem, solving aspect, the aspect of building something like what is what is interesting to you about Cs.
+
+394
+00:49:36.792 --> 00:49:38.799
+Ankur Shah: Probably building building app.
+
+395
+00:49:38.800 --> 00:49:39.450
+Jenny Duan: Building.
+
+396
+00:49:39.919 --> 00:49:53.909
+Jenny Duan: Yeah, maybe the summer could be a good time to like pick up some of those web development app development skills, too, especially if you're thinking about starting a club like this, where you will be building apps and other digital things, it could be a good opportunity to learn a little bit more about that.
+
+397
+00:49:54.441 --> 00:50:23.749
+Jenny Duan: So seems like it's good that you're thinking about the summer. The next time we meet I want to spend some more time. Breaking down your summer and seeing like. If there's another thing that we could start in the summer with regards to your community service impact area, because I think like starting as young as you can is the best, because you have the the most amount of time to build off of extra curriculars. So I wanna spend some more time next time we meet breaking down summer plans, and how? How? You're gonna spend your summer most effectively. So, Raj, did you have something to add.
+
+398
+00:50:23.750 --> 00:50:43.090
+Ivylevel: Yeah. Great, I think. Yeah, in the interest of time. Right? I think this is already like, quite heavily loaded. I hope it's not very overwhelming, Arian, but I think I'm I'm thoroughly enjoying this conversation. There's so many things that come out. It's just the depth of exploring your personality and and your identity and your background. I think that's a few things I wanted to kind of just kind of recap on.
+
+399
+00:50:43.110 --> 00:50:45.840
+Ivylevel: And and don't worry, you know we'll have more time to
+
+400
+00:50:46.279 --> 00:50:59.199
+Ivylevel: collaborate over the week. Right? You. Your parents can send more questions over email. And you know we will try to get all that feedback, and even after the report comes it's an evolving document, right? There is. No, there's a certain method of, and this is something I stole from Yana
+
+401
+00:50:59.200 --> 00:51:17.479
+Ivylevel: the sort of method of doing things there isn't like, you know, a silver bullet that actually, you know, it's a. It's a very opaque system. We all know that. But I think, with our kind of data points and success stories that we have seen, and also, you know, as you were talking you know, in the background we were already looking at your school profile.
+
+402
+00:51:17.717 --> 00:51:32.469
+Ivylevel: you know. Rishi was kind of digging into it. I basically made a comment, no one to Stanford. And then Rishi basically said that he knew someone from last 2 years ago from Christian Valley who made it to Stanford, their profile. So there's a lot of data work that was happening behind the scene that you're not still aware
+
+403
+00:51:32.470 --> 00:51:48.080
+Ivylevel: what we want to do really, is this right? We work backwards. We want to keep the outcome, because this is the the unfortunate thing, and being a parent of, you know, 3 kids, and have seen, like students struggle through all the heavy work that you're doing. I can totally empathize right? I have a Junior as well, very intense.
+
+404
+00:51:48.400 --> 00:51:58.680
+Ivylevel: So we really want to make it a very stress, free and an enjoyable journey for you. And the way to go about doing that is, by first starting and saying no to things that do not add value to your profile
+
+405
+00:51:58.810 --> 00:52:04.639
+Ivylevel: like soup. Kitchen is great. But then, again, just applying that lens. And and I want you to ask that question, Arian yourself.
+
+406
+00:52:04.850 --> 00:52:18.219
+Ivylevel: am I doing this just because there's a Su kind of a social pressure. Am I just doing this just because everyone does it? And what I know is that oh, if I do these many voluntary hours, I'll look strong. And that's actually there are a lot of misconceptions. Right?
+
+407
+00:52:18.330 --> 00:52:20.580
+Ivylevel: It is about your unique identity.
+
+408
+00:52:20.950 --> 00:52:47.109
+Ivylevel: I mean, look at Jana as an example. Right? So I mean if if I mean his, his regime is very intimidating, I don't share it with people right like he's got all these kind of international kind of you know you know us echo ub like he's pretty much nailed every stem kind of award. And then, when I ask, What are you doing these days. You know, at Stanford he's a drummer at Stanford, all crazy personalities and people right? Very different passions and and things of that sort.
+
+409
+00:52:48.490 --> 00:52:58.530
+Ivylevel: what I want to see. Number one is. You know, summer is a very important time now, right? So kind of to conclude one of the key areas that a lot of parents come to us is about summer.
+
+410
+00:52:58.560 --> 00:53:06.730
+Ivylevel: A very easy way for us, like, and many counselors do is to give you like a big big list. You know, we have more than like 1,000 kind of database kind of hand picked things.
+
+411
+00:53:07.020 --> 00:53:12.230
+Ivylevel: But the way to think about summer is, first, 2 things to kind of keep it separate. Right?
+
+412
+00:53:12.450 --> 00:53:24.170
+Ivylevel: There is an upscaling path. There are thousands and tons of programs that actually help you learn things. Nothing against that right? You can go to a boot camp. And you can learn computer science.
+
+413
+00:53:24.420 --> 00:53:34.130
+Ivylevel: This is something that Jenny can. What we witness last year. Remember, Jenny, like everyone, came up with one summer program. Can you tell me the name, Jenny, like, you know? It was that.
+
+414
+00:53:34.130 --> 00:53:35.470
+Jenny Duan: Yeah, it's pretty.
+
+415
+00:53:35.470 --> 00:54:05.290
+Ivylevel: AI right when we ask them the question that what do you think was one of the standout activities this summer in spirit? AI in spirit. AI, how can it be? And in spirit, AI like to your mom's point. Right? Typical kind of bay area tech profile. And everyone goes after that what we want to do is we want to really avoid. So keep your upskilling on one side. And definitely, as you mom said, you know, spend time on tutoring. Learn things, hone your skills. And to be honest in all honesty, like, you know, there is no better platform than Youtube today out there
+
+416
+00:54:05.644 --> 00:54:13.750
+Ivylevel: which has all these kind of amazing resources. Right? What we want to do, however, is leverage your summer, like many other many other students
+
+417
+00:54:13.880 --> 00:54:32.910
+Ivylevel: right who actually are trying to use this time to actually have this, their passion project, their passion areas in the community impact areas. Really, like, you know, accelerate that work like Rishi as an example like the what that you see in the news article is something that you started. When did you start that Rishi? That community project. Was it like a freshman or sophomore year?
+
+418
+00:54:33.650 --> 00:54:34.790
+Rishi Padmanabhan: Freshman, year.
+
+419
+00:54:34.790 --> 00:54:57.199
+Ivylevel: Fresh one year. Right? So if you think about it because they they look at 2 aspects of it. Are you authentic, genuinely passionate about a particular passion area. There are 2 metrics around it. One is the commitment of tenure is very important. Because, are you really someone who's actually spent a lot of time and effort on it for a long period of time? Or was this something that you just did for checklists and college applications towards the end.
+
+420
+00:54:57.420 --> 00:55:19.600
+Ivylevel: plus the depth of it, is also important, right? And that's why you know. Jenny asked, are you a builder profile? Or are you more like a research profile. If you were more like a research kind of a profile might be, we would have thought about some research papers and stuff like that, you know, some of our middle schools are actually working on research papers as well. Right? So so I think the way I want you to think about summer is like, you know, what can I do to also enjoy the journey.
+
+421
+00:55:19.610 --> 00:55:31.480
+Ivylevel: but also build some track record behind the scene, and our team will do that right. We'll try to offload that from you and make sure that every effort that you spend is also leaving a trail that will actually help you eventually
+
+422
+00:55:31.490 --> 00:55:54.280
+Ivylevel: that your parents know already by like, you know, the 10 extra curricular activity list that has. Then we need to quantify your impact. And things like that. Right? So so I want you to think very clearly that because I have wasted tons of time and effort and money on these summer sessions and upscaling programs. I don't want you or your parents to fall for that. That is the wrong way of thinking about it. It does not add any value. In fact, all it shows is privilege
+
+423
+00:55:54.280 --> 00:56:02.670
+Ivylevel: and pay to win, that parents are able to spend money and swipe their card every single time to send. We need to figure out ways where you can actually go to free programs.
+
+424
+00:56:02.670 --> 00:56:16.889
+Ivylevel: right? And something very interesting. And I can tell you, based on and your identity and your background is gonna really be helpful. So I would love to. You know. Go a bit into your Indian roots and try to figure it out. I've seen that with my own daughter.
+
+425
+00:56:17.249 --> 00:56:27.120
+Ivylevel: you know, and more than happy to share that as well. So yeah, I think a couple of things I wanted to just highlight, because summer is an important time. Lot of parents are coming to us. Same applies to Ap. As well.
+
+426
+00:56:27.150 --> 00:56:41.910
+Ivylevel: I think the most important thing about grades and Ap's is also something I want to highlight here, right? It is about showing them the academic rigor and discipline. Number one, number 2, showing them that you there is an upward trajectory. So if you get my daughter gotta be.
+
+427
+00:56:41.920 --> 00:56:52.989
+Ivylevel: You know she's been working. We flipped it to 100. And this all happened not because, like she freaked out, but I think it does a way of doing it, and we'll pursue that. But I mean, don't worry if you basically get like one or 2 low scores
+
+428
+00:56:52.990 --> 00:57:13.619
+Ivylevel: and don't just run it just because all your friends are doing 13 apes and supply. They want to maintain the rigor. But we need to be smart about how do we go about strategizing and selecting those Ap's right. So we will work on Ap core selection. We will work on your summer plan. All these things will come out in that report, but I also want you to learn the framework on how to think about these things. That's very important.
+
+429
+00:57:13.844 --> 00:57:29.115
+Ivylevel: Yeah. And yeah. Finally, I mean, Jana, I mean, I know that sports is actually one of the reason I brought in Jana was because of your sports element, and I knew that there was. Of course, like you know something. I mean, would you like to share something, Yana, that from your story that anything that you have like as a learning that you would.
+
+430
+00:57:29.340 --> 00:57:30.559
+Yanav Lall: Absolutely. Yeah.
+
+431
+00:57:30.620 --> 00:58:00.459
+Yanav Lall: Yes, I I played soccer throughout school. I went to the same school from No. Street to twelfth grade, and it was a big part of my life. And you know, a lot of people would like you need to give it up because it doesn't really count too much, unless you know you're representing your country or something. But I just did it for fun, and I continue doing that. And I did speak about it on my application. So I think it's created audience following his passion for tennis, and I think you should continue doing that. But at the same time I think you should be mindful of the relationship that he has with his coaches and whatnot, because.
+
+432
+00:58:00.861 --> 00:58:25.219
+Yanav Lall: they are the ones that will be giving you a position in the future. And that's why you should be, you know, thinking about how you interact with them at the same time. And but at the same time you should also be mindful of the fact that if you don't see yourself, maybe you know, playing at the extreme the extreme high level, then you should also be focusing on other things. Yeah, you should play tennis. It is an important part of your life, but at the same time don't maybe spend all of your time on it.
+
+433
+00:58:25.820 --> 00:58:26.550
+Ivylevel: Exactly
+
+434
+00:58:26.800 --> 00:58:55.570
+Ivylevel: it is so I just wanted to kind of, though this is. I hope it gives a glimpse on how we approach every student. Really, you know, it's a teamwork that we do. We we bring in many more perspectives. And you know, this is just the beginning and hopefully during the week, so feel free to send us as many as questions as possible. Lina and uncle, everyone else, and I mean, we'll try to really come up with the draft in the next session. I I think, for now I I do have like, you know, we have discussed. And I think Rishi and Jana are kind of top of our mind as as kind of the main coaches
+
+435
+00:58:55.908 --> 00:59:04.779
+Ivylevel: for and we're gonna figure out again. You know. Both have a data science and Cs, and the other thing about Cs, I want to be very clear also. Right?
+
+436
+00:59:04.850 --> 00:59:15.809
+Ivylevel: Ccs major like, you know, Jenny is Cs, but she's Cs. She's AI. She's psychology. She's philosophy, I think. What we also want to do is maximize your chance of getting into a good college.
+
+437
+00:59:15.920 --> 00:59:18.279
+Ivylevel: and the way to do it is to be smart.
+
+438
+00:59:18.530 --> 00:59:23.080
+Ivylevel: Do not like, you know, problem with Cs is that everyone wants to go into Cs Lane.
+
+439
+00:59:23.230 --> 00:59:40.710
+Ivylevel: And you can ask this like I've asked, like there are probably, I think, 80% of the Cs students today that I've spoken to at Stanford probably did not even come in as Cs. Into Stanford as an example. Even in Berkeley. Right? They come in as like environmental science, and they kind of switch. I think a smarter way to do it is to see where are your Ord less
+
+440
+00:59:40.770 --> 00:59:47.850
+Ivylevel: and data. And there are many beautiful programs that are coming up. So I think, like you said business and combining Cs
+
+441
+00:59:47.920 --> 01:00:11.859
+Ivylevel: and the courses that both Jenny or Jana or Rishi take. They did much, many, many. You don't need a Cs major to learn. Cs is the point you need that don't need like a Cs major to it, because I think the it's. It's a pity that a lot of parents unfortunately, do not understand this. And then they basically go into that lane because they're busy, and I did the same thing. The only 3 majors I knew was Econ
+
+442
+01:00:11.860 --> 01:00:32.070
+Ivylevel: and Cs. And biomed, and I learned my lesson the hard way, and parents do that every single time unconsciously, and then they go through the same bill they they spend in 20 applications, and they apply to every place, and they get rejections. And then finally, they send their kids to some other school right at in Cs, so we wanna be. We will work very, very creatively. We will try to figure out why.
+
+443
+01:00:32.070 --> 01:00:47.807
+Ivylevel: you know, might be there is some unique comment. And there are amazing programs coming up every other month. Right? Stanford has so many, like 2 2 different variants of data science, data, science and social systems, data, science and Xyz and things like that. Right? So we will work on that and we'll we'll figure out. So
+
+444
+01:00:48.130 --> 01:00:48.710
+Ivylevel: so yeah.
+
+445
+01:00:48.710 --> 01:01:07.439
+Ankur Shah: This is a comment, Sarge, and, like everybody else, the the most important thing that I'm looking for is he's in ninth grade, you know he doesn't have as much direction. So I'd like the way that Jenny asked a lot of questions. I think that's important, because sometimes you don't know until you know, you know. So you just have to kind of kind of probe him a little bit, and
+
+446
+01:01:07.440 --> 01:01:28.597
+Ankur Shah: I'm sure even offline. He'll start thinking about different things after each session, you know. So that's mainly what I'm what we're looking for initially, for, sure. And then, of course, how to just package him at some point right? But right now is just to kind of put in some roots so that he can figure it out. So yeah, I appreciate today's session. I appreciate all of you guys. I'm sure he's
+
+447
+01:01:28.880 --> 01:01:36.789
+Ankur Shah: he'll open up a little bit more as he gets to know everybody else, too. He's like once he gets to know you, he's a lot more open, and I think that'll continue as well. So.
+
+448
+01:01:36.790 --> 01:01:37.680
+Ivylevel: Yeah, and and.
+
+449
+01:01:37.680 --> 01:01:38.110
+Jenny Duan: The.
+
+450
+01:01:38.110 --> 01:01:45.060
+Ivylevel: In fact, lot of students today, you know, Lina actually are from that undecided state right? Lot of students.
+
+451
+01:01:45.250 --> 01:01:48.180
+Ivylevel: And what we want to do is, however, this.
+
+452
+01:01:48.180 --> 01:01:48.710
+Ankur Shah: Yeah.
+
+453
+01:01:48.710 --> 01:01:53.129
+Ivylevel: We are going to keep a very Yeah, thanks, Jenny. If you are, yeah, I'll just take like 2 min.
+
+454
+01:01:53.350 --> 01:01:56.459
+Jenny Duan: Much. I'm sorry I have to leave a little early. I have to run to class right now, but
+
+455
+01:01:56.790 --> 01:02:01.430
+Jenny Duan: so nice you feel free to shoot any questions you have at our team and look forward to our next session.
+
+456
+01:02:01.430 --> 01:02:02.060
+Ankur Shah: Alright. Thank you.
+
+457
+01:02:02.060 --> 01:02:12.737
+Ivylevel: Thank you, Penny. Yeah. And and I mean, I don't know if you have like 2 min, I just wanted to respond to that particular topic, because that's your initial details and and feel free, Jana. And Rishi to drop off as well.
+
+458
+01:02:13.150 --> 01:02:19.659
+Ivylevel: so yeah, on that particular point. I think lot of 9 graders and even sophomores that we are working with today.
+
+459
+01:02:19.770 --> 01:02:23.430
+Ivylevel: They fall under the category of undecided. That's perfectly fine.
+
+460
+01:02:23.580 --> 01:02:27.229
+Ivylevel: because and and and the approach we take again
+
+461
+01:02:27.370 --> 01:02:32.250
+Ivylevel: is that being an undecided major student is not.
+
+462
+01:02:32.270 --> 01:02:59.439
+Ivylevel: you know, a bad thing. It's that approach of discovering it. What is bad is actually to not leverage that time, and that work and that activity that aren't you know, iron does, and not build a profile around it. In fact, what colleges look for is curiosity is intellectual curiosity. See eventually the decision, the rubrics that are being employed are you know how curious he is. How interested is he in multiple things, being interested in multiple things is not at all prohibitive. It's great.
+
+463
+01:02:59.440 --> 01:03:26.450
+Ivylevel: What we want to do is like. We, we have identified Cs, we have identified cyber security. The other thing we have identified is also finance, his investment and business. All these things have been identified. Correct. What we're gonna do is we are gonna make it very tangible activities where he can do, but also make sure it doesn't go waste right? That also adds up to a track record that that basically demonstrates a measurable and quantifiable
+
+464
+01:03:26.920 --> 01:03:37.609
+Ivylevel: activity versus telling that oh, I was in this constant research mode, and I was just learning, and you know I did. But if you cannot demonstrate that, so we want to make everything demonstrable.
+
+465
+01:03:37.700 --> 01:03:53.140
+Ivylevel: and that demonstrability is where I think it can happen even for a year, right? It doesn't matter so so I think it's just that we are taking kind of a diverse mode at this time, but I think the sooner we try to also converse during sophomore that would be great.
+
+466
+01:03:53.476 --> 01:04:10.969
+Ivylevel: So so I think we will, we will definitely include all those kind of passion areas. And say, Let's do X, let's do y? Let's see. And then might be he after those activities will be able to say by doing, we really want to do by doing, we want him to drive a conclusion and say, Mom, actually, I'm all for business, I am. And business, Guy. I don't want to do that.
+
+467
+01:04:10.970 --> 01:04:23.619
+Ivylevel: So I I just wanted to clarify. That's our approach as well. Not Don. I didn't want you to feel like oh, that we are trying to converse too fast. I think that's not the goal. But we also want to frame something that you know it has some tangibility to it. If that makes sense.
+
+468
+01:04:23.800 --> 01:04:25.760
+Ankur Shah: Yeah, sounds good. So much. Thank you.
+
+469
+01:04:26.260 --> 01:04:29.909
+Ivylevel: Cool. Thank you. Anything else from you. Arian. Any questions.
+
+470
+01:04:30.230 --> 01:04:30.705
+Ankur Shah: No.
+
+471
+01:04:31.180 --> 01:04:32.290
+Ivylevel: Did you like it?
+
+472
+01:04:32.460 --> 01:04:33.446
+Ankur Shah: Yeah, yeah.
+
+473
+01:04:34.630 --> 01:04:36.215
+Ivylevel: Amazing, amazing. Thank you very much.
+
+474
+01:04:36.480 --> 01:04:38.959
+Ankur Shah: Alright! Thank you so much. Alright! Perfect!
+
+475
+01:04:39.240 --> 01:04:41.500
+Ivylevel: Thanks, Jana, thanks, Rishi, for joining. Take care bye.
+

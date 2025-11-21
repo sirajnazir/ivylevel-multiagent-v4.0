@@ -1,0 +1,21 @@
+{
+  "name": "@ivylevel/ingest-coach",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Coach data ingestion engine for extracting EQ patterns and building digital twins",
+  "main": "ingestCoach.ts",
+  "scripts": {
+    "ingest": "ts-node ingestCoach.ts",
+    "test": "jest __tests__",
+    "validate": "ts-node validate.ts"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.5.0"
+  }
+}

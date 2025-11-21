@@ -1,0 +1,21 @@
+{
+  "reorganization_timestamp": "2025-11-19T23:02:29.363196",
+  "backup_location": "/Users/snazir/ivylevel-multiagents-v4.0/data_backup_20251119.tar.gz",
+  "new_structure_location": "/Users/snazir/ivylevel-multiagents-v4.0/data/v4_organized",
+  "statistics": {
+    "total_files": 869,
+    "successfully_copied": 869,
+    "failed": 0,
+    "skipped": 0,
+    "by_bucket": {
+      "archive": 41,
+      "assessments": 22,
+      "eq_chips": 107,
+      "frameworks": 2,
+      "kb_chips": 455,
+      "narrative": 5,
+      "raw": 237
+    }
+  },
+  "errors": []
+}

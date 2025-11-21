@@ -10,15 +10,33 @@
     "prepare": "husky",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage"
+    "test:coverage": "jest --coverage",
+    "test:assessment": "jest packages/agents/assessment-agent/__tests__",
+    "test:rag": "jest packages/rag/adaptive/__tests__",
+    "test:rendering": "jest packages/rendering/assessment/transcript/__tests__",
+    "test:ingestion": "jest packages/ingestion/__tests__/qualityGatePipeline.test.ts",
+    "test:batch": "jest packages/ingestion/batch/__tests__",
+    "test:chunks": "jest packages/ingestion/chunker/__tests__",
+    "test:persona": "jest packages/persona/jenny/__tests__",
+    "test:generation": "jest packages/generation/styleEngine/__tests__",
+    "test:memory": "jest packages/memory/conversation/__tests__",
+    "test:eq": "jest packages/eq/__tests__",
+    "test:quality": "npm run test:rag && npm run test:assessment && npm run test:rendering && npm run test:ingestion && npm run test:batch && npm run test:chunks && npm run test:persona && npm run test:generation && npm run test:memory && npm run test:eq",
+    "data:lint:chips": "echo 'Chip linting not yet implemented - skipping for now'",
+    "ingest:jenny": "ts-node packages/ingestion/batch/cli.ts --coach=jenny",
+    "chunks:jenny": "ts-node packages/ingestion/chunker/cli.ts --coach=jenny",
+    "ingest:coach": "ts-node tools/ingest-coach/ingestCoach.ts",
+    "test:ingest": "jest tools/ingest-coach/__tests__"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@types/cli-progress": "^3.11.6",
     "@types/jest": "^30.0.0",
     "@types/node": "^24.10.1",
+    "@types/uuid": "^10.0.0",
     "husky": "^9.1.7",
     "jest": "^30.2.0",
     "ts-jest": "^29.4.5",
@@ -26,6 +44,18 @@
     "zod-to-ts": "^2.0.0"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.70.0",
+    "@pinecone-database/pinecone": "^6.1.3",
+    "@types/pdfkit": "^0.17.3",
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
+    "docx": "^9.5.1",
+    "dotenv": "^17.2.3",
+    "openai": "^6.9.1",
+    "ora": "^5.4.1",
+    "p-limit": "^3.1.0",
+    "pdfkit": "^0.17.2",
+    "uuid": "^8.3.2",
     "zod": "^4.1.12"
   }
 }

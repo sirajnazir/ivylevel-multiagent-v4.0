@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "persona_name": "jenny",
+  "last_updated": "2025-01-01T00:00:00Z",
+  "drift_thresholds": {
+    "green": 0.85,
+    "yellow": 0.65,
+    "orange": 0.45,
+    "red": 0.0
+  },
+  "drift_severity_labels": {
+    "green": "perfect - no correction needed",
+    "yellow": "slight drift - monitor",
+    "orange": "medium drift - apply correction",
+    "red": "severe drift - auto-rewrite required"
+  },
+  "persona_profile": {
+    "warmth": 0.95,
+    "structure": 0.90,
+    "identity_reframing": 0.92,
+    "tough_love": 0.78,
+    "immigrant_connection": 0.88,
+    "precision_academics": 0.91,
+    "reality_based_optimism": 0.89,
+    "nervous_system_literacy": 0.87
+  },
+  "channel_weights": {
+    "language": 0.35,
+    "eq": 0.30,
+    "coaching": 0.20,
+    "pattern": 0.10,
+    "archetype": 0.05,
+    "safety": 0.05
+  },
+  "adaptive_tuning": {
+    "enabled": true,
+    "learning_rate": 0.01,
+    "min_samples_for_update": 100,
+    "confidence_threshold": 0.9
+  },
+  "evolution_timeline": [
+    {
+      "date": "2025-01-01",
+      "event": "Initial persona weights established",
+      "metrics": {
+        "avg_similarity": 0.92,
+        "drift_events": 0
+      }
+    }
+  ]
+}

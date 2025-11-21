@@ -1,0 +1,31 @@
+{
+  "file": "sample_coaching_patterns.txt",
+  "processed_at": "2025-11-18T18:53:03.143Z",
+  "raw_chars": 1409,
+  "normalized_chars": 1340,
+  "blocks": {
+    "total": 9,
+    "byChannel": {
+      "language": 2,
+      "eq": 3,
+      "coaching": 2,
+      "archetypes": 1,
+      "safety": 1
+    },
+    "avgRulesPerBlock": 1.8888888888888888,
+    "avgPhrasesPerBlock": 2.3333333333333335
+  },
+  "chunks": {
+    "total": 9,
+    "byChannel": {
+      "language": 2,
+      "eq": 3,
+      "coaching": 2,
+      "archetypes": 1,
+      "safety": 1
+    },
+    "avgTokens": 63.55555555555556,
+    "minTokens": 47,
+    "maxTokens": 90
+  }
+}

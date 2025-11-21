@@ -20,40 +20,11 @@ export async function handleAssessment(input: unknown): Promise<AssessmentOutput
 
   // Step 4: Execute transformation chain (sequential calls)
   // TODO: Wire to task graph execution
-  const profile = await agent.extractProfile();
-  const oracleResults = agent.runIntelligenceOracles(profile);
-  const narrative = agent.generateNarrativeBlocks(profile, oracleResults);
-  const strategy = agent.generateStrategyBlocks(profile, oracleResults, narrative);
-
-  // Step 5: Construct output (placeholder)
-  const output: AssessmentOutput_v1 = {
-    profile: {
-      academics: profile.academics,
-      activities: profile.activities,
-      awards: profile.awards,
-      personality: profile.personality,
-    },
-    diagnostics: {
-      strengths: [],
-      weaknesses: [],
-      academicGaps: [],
-      ECDepthGaps: [],
-    },
-    narrative: {
-      themes: narrative.themes,
-      identityThread: narrative.identityThread,
-      positioning: narrative.positioning,
-    },
-    strategy: {
-      '12MonthPlan': strategy['12MonthPlan'],
-      summerPlanning: strategy.summerPlanning,
-      awardsTargets: strategy.awardsTargets,
-    },
-    metadata: {
-      modelVersion: 'assessment-agent-v1.0',
-      generatedAt: new Date().toISOString(),
-    },
-  };
+  const extracted = await agent.extractProfile();
+  const oracles = await agent.runIntelligenceOracles();
+  const narrative = agent.generateNarrativeBlocks(extracted, oracles);
+  const strategy = agent.generateStrategyBlocks(extracted, oracles, narrative);
+  const output = agent.buildOutput();
 
   return output;
 }

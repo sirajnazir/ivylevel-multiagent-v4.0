@@ -1,0 +1,7 @@
+{
+  "name": "@ivylevel/telemetry",
+  "version": "1.0.0",
+  "private": true,
+  "main": "events.ts",
+  "types": "events.ts"
+}

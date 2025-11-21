@@ -1,0 +1,1466 @@
+WEBVTT
+
+1
+00:02:12.670 --> 00:02:13.840
+Jenny Duan: Everybody ready?
+
+2
+00:02:14.230 --> 00:02:17.809
+Siraj Nazir: Yeah, I think we're waiting for them. Right? So yeah, I just wanted to join.
+
+3
+00:02:18.470 --> 00:02:20.249
+Jenny Duan: I think she is in the waiting room.
+
+4
+00:02:20.700 --> 00:02:22.580
+Siraj Nazir: Oh, yeah, but you can allow or read.
+
+5
+00:02:23.240 --> 00:02:24.819
+Jenny Duan: Oh, okay, sure. Yeah.
+
+6
+00:02:25.260 --> 00:02:27.000
+Siraj Nazir: I think you're you're the host here.
+
+7
+00:02:27.660 --> 00:02:28.410
+Jenny Duan: Okay?
+
+8
+00:02:39.520 --> 00:02:46.760
+Jenny Duan: Hmm, Hi, Nisha, how are you? I'm good. Wait, are you, Neil? Emma?
+
+9
+00:02:47.160 --> 00:02:55.529
+Neelima Rustagi: Okay. Amazing background. This is your time.
+
+10
+00:02:56.240 --> 00:03:22.589
+Jenny Duan: Amazing. So it's so nice to meet you. I thought we could go straight in. I'm gonna introduce myself. And then I'd love to learn a little bit more about you. And then we can talk about how we're gonna start working together. So my name is Jenny. I study a I at Stanford. I'm an incoming sophomore and at Stanford. I'm involved in a couple of things, including Stanford's Tech consulting group as well as the AI Club. So it's really nice to meet you, and I'd love to learn a little bit about you and your background.
+
+11
+00:03:24.200 --> 00:03:29.990
+Neelima Rustagi: I'm Inushka. I'm an incoming junior school starts in like 2 days for me at Lynbrook Highs.
+
+12
+00:03:31.100 --> 00:03:37.070
+Neelima Rustagi: My background in tech is more. I guess I've done python.
+
+13
+00:03:39.880 --> 00:03:44.689
+Neelima Rustagi: I've also worked with the p. 5 Javascript library, I
+
+14
+00:03:45.800 --> 00:03:52.010
+Neelima Rustagi: website development for the front end. But not really that much. Yeah.
+
+15
+00:03:53.000 --> 00:03:56.240
+Neelima Rustagi: Apcs.
+
+16
+00:03:56.940 --> 00:04:09.969
+Jenny Duan: awesome. So I'm gonna start by asking you a little bit of questions about your school, and then I'd love to learn actually what some of your goals are in terms of college applications. And over the next 2 years, if you've thought about any of your goals.
+
+17
+00:04:12.450 --> 00:04:22.629
+Jenny Duan: So yeah, we can just start with that. I'd love to learn just what are some of your passions? What do you hope to do, and what are your goals in terms of college admissions in in over the next 2 years.
+
+18
+00:04:23.640 --> 00:04:28.520
+Neelima Rustagi: So my make for the college editions.
+
+19
+00:04:29.280 --> 00:04:35.989
+Neelima Rustagi: So the main thing
+
+20
+00:04:37.160 --> 00:04:43.320
+Neelima Rustagi: thing to achieve with this was to find some hackathons and other things. Other things like, boost.
+
+21
+00:04:44.640 --> 00:04:50.680
+Neelima Rustagi: Let me get into good schools. I am looking. I'm most likely going to.
+
+22
+00:04:51.870 --> 00:04:55.150
+Neelima Rustagi: Yes. so okay.
+
+23
+00:04:56.070 --> 00:05:05.490
+Jenny Duan: amazing. Yeah. And I saw that on your profile. One thing that you wrote about is that you are looking for a help with making a college list. This is still something that's top of mind for you.
+
+24
+00:05:07.650 --> 00:05:08.740
+Jenny Duan: Amazing.
+
+25
+00:05:08.930 --> 00:05:27.410
+Jenny Duan: Okay? So I'm gonna put a bookmark in that. And then we can come back to that later in this session. So in terms of your school right now, how would you say that your classes and academics are going, and what classes are you taking next year must be pretty exciting. That school is starting so soon. Yeah, so in terms of all.
+
+26
+00:05:27.540 --> 00:05:28.210
+Neelima Rustagi: Oh.
+
+27
+00:05:28.420 --> 00:05:34.699
+Neelima Rustagi: I've done freshman and sophomore year. So I've gotten
+
+28
+00:05:36.420 --> 00:05:41.600
+Neelima Rustagi: and my classes this year for Junior Year. Do you want?
+
+29
+00:05:42.470 --> 00:05:49.380
+Neelima Rustagi: Yeah, I'd love to know them. Yeah. So this year at school, I'm taking Ap
+
+30
+00:05:50.450 --> 00:05:56.659
+Neelima Rustagi: tech. I'm also going to fill in a hole I have for my third period with the.
+
+31
+00:05:58.130 --> 00:06:04.839
+Neelima Rustagi: And then I've also taken Ap Cali, BC, I'm taking normal Us. History.
+
+32
+00:06:05.210 --> 00:06:07.719
+Neelima Rustagi: Principal principles of business.
+
+33
+00:06:08.430 --> 00:06:09.590
+Jenny Duan: Okay? Great
+
+34
+00:06:09.820 --> 00:06:17.189
+Jenny Duan: and then the reason why I'm asking you all these questions, yeah, I think you're cutting out a little bit for me as well,
+
+35
+00:06:17.460 --> 00:06:18.670
+You know what
+
+36
+00:06:23.220 --> 00:06:26.239
+Neelima Rustagi: life camera, my one. Sec.
+
+37
+00:06:27.390 --> 00:06:32.379
+Neelima Rustagi: Hear me if I'm speaking this fast, or does it still seem like it's cutting out?
+
+38
+00:06:32.630 --> 00:06:47.370
+Jenny Duan: It's kind of a little bit. So I was able to catch what you said about your classes. But sometimes it's it's I don't think it's about your speed. I think just something with the connection. It's cutting a little bit in and out. But can you hear me? Okay?
+
+39
+00:06:48.800 --> 00:06:50.100
+Neelima Rustagi: Sure.
+
+40
+00:06:51.770 --> 00:07:21.179
+Jenny Duan: Well, I thought I could tell you a little bit more about why I'm asking you these questions. It's because since this is a 3 60 assess session, I'm really trying to understand you holistically as a student and seeing exactly what points in your profile or in your application, we can use and improve over again the next 2 years, because college applications process is, you know, it doesn't just start your senior year. It starts in your junior year and everything that you do. You know, freshman sophomore year, including now impacts your success and trajectory in the in the coming years.
+
+41
+00:07:21.290 --> 00:07:26.479
+Jenny Duan: Okay, can you start talking a little bit again? So I can check the Wi-fi.
+
+42
+00:07:30.620 --> 00:07:33.439
+Jenny Duan: Yeah, I think your audio's still breaking a little bit
+
+43
+00:08:15.320 --> 00:08:16.370
+Neelima Rustagi: will be.
+
+44
+00:08:39.289 --> 00:08:57.970
+Neelima Rustagi:  yeah.
+
+45
+00:09:00.890 --> 00:09:04.690
+Neelima Rustagi: okay, we moved to the phone. So this should be better.
+
+46
+00:09:05.440 --> 00:09:08.159
+Jenny Duan: Okay, yeah, I think this is working better as, well.
+
+47
+00:09:08.460 --> 00:09:16.069
+Jenny Duan: Okay, amazing. So yeah, another question I have for you is, how many Ap's have you taken so far.
+
+48
+00:09:17.870 --> 00:09:31.919
+Neelima Rustagi: I didn't take any freshman year, and I took Apcsa and Ap. Psych last year I got a 5 on my Csa. Exam. But I only got a 3 on my site.
+
+49
+00:09:32.850 --> 00:09:39.369
+Jenny Duan: Okay, no problem. And I saw that on your profile you have a 4 point OGPA. Is that still the case?
+
+50
+00:09:40.060 --> 00:09:40.950
+Neelima Rustagi: Yes.
+
+51
+00:09:41.200 --> 00:09:48.600
+Jenny Duan: okay. Congratulations. That's really awesome. And so by the end of high school, how many Ap's do forecast taking
+
+52
+00:09:50.600 --> 00:09:57.769
+Neelima Rustagi: I'm taking 1, 2 weeks. 4 this year, I think
+
+53
+00:09:58.100 --> 00:10:10.600
+Neelima Rustagi: 4 or 5. If I just retake Ap psych. And then next year I'm planning on taking Ap physics. C. There's also ap gov
+
+54
+00:10:10.860 --> 00:10:18.029
+Neelima Rustagi: ap rang. And I'm planning on taking ap statistics this year, so I'll be taking
+
+55
+00:10:18.060 --> 00:10:20.500
+Neelima Rustagi: college level math course.
+
+56
+00:10:20.980 --> 00:10:28.449
+Neelima Rustagi: And so how many have you been told? 7 to 8? Right? Yeah, I think it would be 7,
+
+57
+00:10:28.790 --> 00:10:29.760
+Neelima Rustagi: 8.
+
+58
+00:10:30.650 --> 00:10:53.870
+Jenny Duan: Okay, great. So initially, some feedback that I have is, I don't think you need to spend time retaking Ap psych. I don't think that's necessary, because in the college application process, they actually don't ask you about your Ap. Scores, so you don't have to report them if you don't want to. And so you don't need to spend your time taking retaking Ap. Psych, if you can spend that time focusing on other Ap's. So that's a piece of initial advice for you. And then.
+
+59
+00:10:53.870 --> 00:11:11.080
+Jenny Duan: obviously, all of this is going to be detailed in a pretty thorough report. So don't worry about writing this down, because I'll be sending you a very detailed list after this of things that we've talked about. So yeah, I think you don't need to spend time to be taking Ap psych. And the second thing that comes top of mind when I hear this is I think that
+
+60
+00:11:11.100 --> 00:11:20.460
+Jenny Duan: you might want to consider taking some more Aps, especially within the stem field, because you're applying as a CS. Major. So if there's another Cs.
+
+61
+00:11:20.540 --> 00:11:26.709
+Jenny Duan: I mean you've taken Apc. SA. But if you could take some more stem Ap's that could be cool like
+
+62
+00:11:27.080 --> 00:11:31.869
+Jenny Duan: for Ap. Physics. C. Are you taking both E. And M. And physics, or just one of them?
+
+63
+00:11:33.740 --> 00:11:38.409
+Neelima Rustagi: I think our school only has, of course, or one of them.
+
+64
+00:11:38.430 --> 00:11:46.929
+Neelima Rustagi: so I might take it outside if I'm taking another Ap. Physics scores, but I wouldn't do it for credit. I just take it to prep for the exam.
+
+65
+00:11:47.270 --> 00:11:48.440
+Jenny Duan: Totally. Yeah.
+
+66
+00:11:48.490 --> 00:12:13.730
+Jenny Duan: But I think if you, if it's in your senior year, then you don't actually need to take the exam. This is another piece of another strategy piece that I feel like a lot of people don't tell you is in your senior year you should load up on as many a piece as possible, because you don't actually have to follow through and take the exam, because by the time you would have taken the exam you would have already committed to a college, because it's after May first. So that's one piece of strategy that I feel like
+
+67
+00:12:13.730 --> 00:12:36.830
+Jenny Duan: it's not commonly talked about. You can sign up for as many Ap's as you want that you think you can effectively handle, because obviously the first semester of your senior year is really important. But you don't actually need to take those tests so you can boost the rigor of your application by signing up for more Ap's and then not take the test and second semester, because at that point you've gone into the college. Your score doesn't matter. They're not gonna send you because you didn't take the test. Obviously. So
+
+68
+00:12:36.830 --> 00:12:41.079
+Jenny Duan: that's one piece of strategy that I think. One of the pieces of strategy we can implement
+
+69
+00:12:41.250 --> 00:12:48.139
+Jenny Duan:  And so that covers your school. Are you thinking about taking standardized testing anytime over the next 2 years?
+
+70
+00:12:49.030 --> 00:12:59.150
+Neelima Rustagi: Erm, I have an sat like next week, I think. Next on the 20 sixth. Okay. And how's your preparation for that going?
+
+71
+00:13:00.420 --> 00:13:11.599
+Neelima Rustagi: The last test I took I got a 1560. So I started off with like a 1490, and I've just been going up since then. So I'll take like a few practice tests
+
+72
+00:13:11.740 --> 00:13:24.429
+Neelima Rustagi: over this week after school starts, and then will hopefully prepare me for the sat on Sunday, I think, and I'm I also have. I'm also signed up for more sats.
+
+73
+00:13:24.690 --> 00:13:28.590
+Neelima Rustagi: In case I don't do well on this one, I have more chances.
+
+74
+00:13:29.200 --> 00:13:34.219
+Jenny Duan: Yeah. What do you think you struggle with the most on the SAT. Is it the math section, the writing section reading.
+
+75
+00:13:35.140 --> 00:13:53.669
+Neelima Rustagi: It's usually the writing section, like reading section. I usually get anywhere from one to 3 or 4 off that section is usually one in total, because it will be like assuming mistake where I couldn't properly read the graph or anything, and then for dividing and lay.
+
+76
+00:13:54.020 --> 00:14:02.309
+Neelima Rustagi: I just don't know. Grammar or sentence structure is not going to be my strongest suit. So that's usually one to one where I get the most air.
+
+77
+00:14:03.090 --> 00:14:25.979
+Jenny Duan: Yeah, totally. So that sounds really good that you have a 1560 on the practice test. That's very impressive. And I think for top schools. So top 20, Ivy League admissions aiming for a 1550 or higher is usually the target or the benchmark, so that you're at a 1560. That's very impressive. And then, if we start working together, I have some resources I can share with you that we could go through in the next
+
+78
+00:14:26.210 --> 00:14:40.489
+Jenny Duan: couple of weeks or months with the sat tips, cause I've in my time. I've been a sat tutor in the past, so I've made like a couple of guides for math and writing and language, with some of like the cheat sheets and top tips you need to know. So
+
+79
+00:14:40.720 --> 00:14:49.969
+Jenny Duan: I'm happy to share those with you. If we start working together, and then for the PSAT. That's also coming up in your junior year. Have you taken any practice tests for the PSAT.
+
+80
+00:14:51.290 --> 00:14:53.560
+Neelima Rustagi: Took the piece out last year.
+
+81
+00:14:53.980 --> 00:14:56.460
+Don't really remember what score I got.
+
+82
+00:14:56.490 --> 00:15:03.170
+Neelima Rustagi: He goes around 4 teams. Okay. it's like pizza grape.
+
+83
+00:15:03.450 --> 00:15:07.639
+Neelima Rustagi: Yeah, I can check really quickly to see where they got. If you want.
+
+84
+00:15:07.750 --> 00:15:11.860
+Jenny Duan: Yeah, that'd be great. And I'll explain why I'm asking this while you're checking. So
+
+85
+00:15:11.900 --> 00:15:21.819
+Jenny Duan: I know a lot of schools offer the Pst. In tenth grade, but the Pst. And eleventh grade. It's the same test. It's the Psat, but they call it the Nms. Qt, have you heard about this?
+
+86
+00:15:22.770 --> 00:15:23.710
+Neelima Rustagi: Yeah.
+
+87
+00:15:24.240 --> 00:15:27.530
+Jenny Duan: yeah. So that is really important. Oh, go ahead.
+
+88
+00:15:29.080 --> 00:15:30.719
+Neelima Rustagi: right? You can go ahead.
+
+89
+00:15:30.770 --> 00:15:32.170
+Neelima Rustagi: I'm just signing it.
+
+90
+00:15:32.600 --> 00:15:58.480
+Jenny Duan: Yeah, no problem. So the Nms Qt is really important for the national merit process, which is a really prestigious award that you, as a High School junior, can get. And another one thing you mentioned on your application is that you're actually looking for support with boards. And so one way that you can demonstrate that is actually through your Pst score, because again, Nms. Qt. Qualification that might not seem like a traditional award to you, because, you know, it's not something that you apply for separately.
+
+91
+00:15:58.870 --> 00:16:08.789
+Jenny Duan: You qualify with your test score, but that is a very, very prestigious national award that you could put on your application, because again, on the common app
+
+92
+00:16:08.970 --> 00:16:37.489
+Jenny Duan: there's spots for 5 awards, and you want to make sure that your awards are rigorous to the national or international level. You want to have at least one of those. So the Pst. Having a good Pst score would qualify you for that, and to get a good score in your region. In California it is more competitive than most regions, as I'm sure you know, high school is a very competitive school, so I think, aiming for at least a 1,500 or 1,490 would be, it would put you in a good position for that this year.
+
+93
+00:16:38.710 --> 00:16:42.300
+Jenny Duan: Okay, so how did your Phd. Go?
+
+94
+00:16:43.130 --> 00:16:56.000
+Neelima Rustagi: It was. It was a 13 eighties. My math echo was lot lower, 'cause they were like questions on about mean absolute deviation, and like the whisker cat
+
+95
+00:16:56.100 --> 00:16:59.999
+and II hadn't reviewed that, and they would have 2 or 3 questions on that.
+
+96
+00:17:00.290 --> 00:17:05.579
+Neelima Rustagi: Got a 700 on my reading and writing, and 6 80 on my math.
+
+97
+00:17:06.220 --> 00:17:31.599
+Jenny Duan: Great. So as you're preparing for the sat, the sat and the Psat are very similar in terms of their question type and their difficulty. So as you're starting for the Psa. Sat, that's a good way to simultaneously study for your psat, and doing well in the sat is a signal that you'll do well in your PSAT. As well, and vice versa. Doing well in your psat is also a signal that you'll do on your sat. So it's important that you do some prep. Work for your psat as well.
+
+98
+00:17:31.600 --> 00:17:59.189
+Jenny Duan: Arguably, the pst is even more important than the sat, probably for you at this point in time, because the Pst. You only have one opportunity to take it versus the sat. You will have multiple. But I do wanna caution you with the sat because a lot of people think you can kind of. Just take it as many times as you need. I would say, take it a maximum of 3 times, because colleges they do. Some of them do ask for a full report of your standardized test history, which means they look at how many times you take the test.
+
+99
+00:17:59.240 --> 00:18:15.479
+Jenny Duan: And so it's really important that you treat every attempt as a serious attempt. And obviously you can retake it if you need to. But treat every attempt seriously, because colleges don't want to see that you're taking them over and over again, so make sure you take it only a maximum of 3 times, if possible.
+
+100
+00:18:20.610 --> 00:18:25.070
+You're suggesting that she should take A. PS. 80. Also this year
+
+101
+00:18:25.650 --> 00:18:29.739
+Jenny Duan: the PSAT. Is offered by every school, so it'll be required for her to take it.
+
+102
+00:18:30.920 --> 00:18:38.069
+Neelima Rustagi: Oh, I see, gosh. yeah. And they're administer. I, yeah, there are.
+
+103
+00:18:38.790 --> 00:19:02.530
+Jenny Duan: they're open to the whole school and every junior has to take it. That's why it's really important, because it's really the only one standardized test that every single high school junior in the United States has to take. So if you get a good score on that, you can really stand out on your application because it gives you like a very prestigious award. As you know, it's something that every single student has to take. So it's a universal benchmark, even more so than the Sct.
+
+104
+00:19:02.560 --> 00:19:11.369
+Jenny Duan: Yes, okay. And did she did prepare for Sitt through the summers. Just so, you know, like there's this elite something. And
+
+105
+00:19:11.410 --> 00:19:16.359
+Neelima Rustagi: I told her to kind of join that. And she did the 2 month course there
+
+106
+00:19:16.480 --> 00:19:25.119
+Jenny Duan: well, it seems like her SAT score is very good 1560 is very good. Again, aiming for that 50 50 plus 1550 plus is a good benchmark.
+
+107
+00:19:25.580 --> 00:19:44.560
+Jenny Duan: Okay. So now that I have an idea about what your school and test scores are like, the reason why I'm asking you these questions in this order is because I'm evaluating you just like a college application expert or a college admissions person would evaluate you because they really start at the beginning from your standardized test and your grades.
+
+108
+00:19:44.560 --> 00:20:07.510
+Jenny Duan: and that's your foundation for everything else. Every extra curricular that you do every preession project that you do that builds on top of your foundation, and if the core isn't strong which you have a strong course, no need to worry on that front. But if your core isn't strong they won't even look sometimes at the rest of your application, because they'll automatically filter you out, as you know, if you don't have a good enough Gpa or standardized test scores. So it's good that you have that foundation, because
+
+109
+00:20:07.510 --> 00:20:23.869
+Jenny Duan: that's really the hardest thing to build as a student. I think students think that extra curriculars and everything are the most important. And yes, those are extremely important, but it's your core that sets the the foundation to enable you to even achieve anything else. So it's good that you have a strong core.
+
+110
+00:20:23.960 --> 00:20:45.700
+Jenny Duan: So the next thing that I want to talk about is your extracurriculars. And this is one area where you said you were needing support with. So I'd love to learn more about some of the things that you're involved in, and I've read that. You know you're involved in the Youth Public Policy Institute, Viking Vocalist Club paths to excellence, and I've loved to learn more about your involvement in these different activities and how you came to get involved with them.
+
+111
+00:20:47.020 --> 00:20:49.290
+Neelima Rustagi: So for biking vocals.
+
+112
+00:20:49.420 --> 00:21:17.959
+Neelima Rustagi: I always love music. So when I went to middle school I started off in beginning choir, and then I took it through seventh and eighth grade, and when I went into high school. I took the high school choir here, and we only have one singing club, the other music for Community Club is more about like playing instruments and going to senior homes. But Viking vocalist was like one of the few clubs. It's an acapella club. So we just use singing, using our voices.
+
+113
+00:21:18.110 --> 00:21:24.879
+Neelima Rustagi: and we performed at, like all of our all of our school performances as well. So
+
+114
+00:21:24.930 --> 00:21:43.860
+Neelima Rustagi: I did that in ninth grade, and then in tenth grade I became the PR. Manager, the Activities coordinator, but like helped set up the concert. And of course I also sang there, and this year I am the President. So yeah, congratulations got some music, and
+
+115
+00:21:43.980 --> 00:21:46.529
+Neelima Rustagi: I I've also been in like.
+
+116
+00:21:46.980 --> 00:21:52.860
+Neelima Rustagi: The Allner State choirs in California, both the regional and the state choir.
+
+117
+00:21:53.060 --> 00:21:58.600
+Neelima Rustagi: So the music there was also really nice and for
+
+118
+00:21:58.800 --> 00:22:13.879
+Neelima Rustagi: Sunnyville youth, Public Policy Institute. I just saw that like 2 years ago now, and I was interested in, like the environment and policy related to that. So II put put in an application.
+
+119
+00:22:13.970 --> 00:22:16.880
+got accepted. And then for that.
+
+120
+00:22:16.960 --> 00:22:20.429
+Neelima Rustagi: think our biggest change is that for the
+
+121
+00:22:20.570 --> 00:22:31.489
+Neelima Rustagi: I go to Lynnbrook, which is part of the Fuhsc district. So then we put in a policy and we helped change the cafeteria so that they would have less plastic waste with their food
+
+122
+00:22:31.990 --> 00:22:34.200
+Neelima Rustagi: and related to food.
+
+123
+00:22:34.360 --> 00:22:38.510
+Neelima Rustagi:  other than food. We've also hosted clean ups.
+
+124
+00:22:39.170 --> 00:22:48.269
+Neelima Rustagi: So I was. I'm not the environmental chair for the Commission, but for Sunnyvale Yupi. As a whole I am the Vp of activities.
+
+125
+00:22:49.040 --> 00:23:06.980
+Neelima Rustagi: So yeah. And the last ones was a teacher. So I helped create didn't tutor people in the sat. But like I have create curriculum for how the art Earth started class I privately tutored. I think it's
+
+126
+00:23:07.040 --> 00:23:08.610
+Neelima Rustagi: really tutored like
+
+127
+00:23:09.060 --> 00:23:19.969
+Neelima Rustagi: 6 or 7 kids now. And I taught classes, for like advanced first and second grade literature. I also created some curriculum for python scratch.
+
+128
+00:23:20.000 --> 00:23:23.590
+Neelima Rustagi: and so I've taught that over the past 2 or 3 summers
+
+129
+00:23:25.140 --> 00:23:27.430
+Jenny Duan: awesome. So.
+
+130
+00:23:27.710 --> 00:23:37.849
+Jenny Duan: and then the other thing that I really wanted to ask you about is your involvement in Robotics Club or the robotics team? Can you tell me a bit more about that? That's team 8, 4, 6, right?
+
+131
+00:23:38.960 --> 00:23:47.809
+Neelima Rustagi: I don't. I was. I was like an active member last year, and a bit of this year
+
+132
+00:23:48.130 --> 00:24:01.130
+Neelima Rustagi: so I was mainly on the hardware side. But then, usually we didn't have that much to do. So I've not really been part of the Robotics Club for this summer, and like the latter half of the
+
+133
+00:24:01.480 --> 00:24:02.810
+Neelima Rustagi: second part of
+
+134
+00:24:02.960 --> 00:24:17.079
+Neelima Rustagi: a sophomore year, because usually I did just doing robotics, and most of the people there, even the ninth skaters usually have have a more in depth knowledge about how to use cab and how to use all the other hardware
+
+135
+00:24:17.110 --> 00:24:25.130
+Neelima Rustagi: equipment. So it's kind of hard to like do anything on that team, 'cause our team was really really large. Erm, we have gone to Nationals and everything.
+
+136
+00:24:25.670 --> 00:24:30.210
+Neelima Rustagi: So it's kind of hard to usually find something to do, so I kind of just dropped out of it.
+
+137
+00:24:30.340 --> 00:24:33.740
+Jenny Duan: I got it. Have you had the opportunity to go to Nationals with them.
+
+138
+00:24:34.990 --> 00:24:46.339
+Neelima Rustagi: I didn't go to Nationals, but I went to the Utah regionals and the San Francisco regionals where we won. We went second place for Utah regionals, and that's what qualified us to go to Nationals.
+
+139
+00:24:46.540 --> 00:24:51.149
+Neelima Rustagi: But Texas Nationals were during spring break, and I was doing something else at that time, I think.
+
+140
+00:24:51.750 --> 00:24:52.960
+Jenny Duan: okay, got it.
+
+141
+00:24:53.060 --> 00:25:04.769
+Jenny Duan: So it seems like you actually have a lot of extra curriculums. And I'd love to hear like about what you think are the things you want to work on when it comes to extracurriculars before I present my opinion
+
+142
+00:25:06.690 --> 00:25:10.950
+Neelima Rustagi: for me. It's just that I'm doing like a lot of things.
+
+143
+00:25:11.320 --> 00:25:27.609
+Neelima Rustagi: and I know I do a lot of things, but none of them are really Cs oriented except robotics. But I work more on the hardware side than really software because software, we just have a really small group people. And I'm not really doing anything that really showcases my Cs.
+
+144
+00:25:27.970 --> 00:25:34.439
+Neelima Rustagi: as compared to other skills. That's really what I wanted a bit more out on.
+
+145
+00:25:35.210 --> 00:25:51.699
+Jenny Duan: Yeah, totally. So I think that with extracurriculars, actually, the most important thing is not so much what you do, but how you can connect everything together, and let me tell you, what I see from you with your extracurriculars in mind. So I see these 3 sort of hubs.
+
+146
+00:25:51.700 --> 00:26:19.490
+Jenny Duan: So you love music. You're in this State owners choir, which is really impressive, and I think that's something that you should highlight on your application. You love music. You also love like service or advocacy, and you do that through showing environmental change on an environmental policy change. And then the other side is your Cs passion. So you're in into robotics. You've done these different AI programs like inspiration code things like that. And I think those 3 hubs are
+
+147
+00:26:19.710 --> 00:26:28.530
+Jenny Duan: like they, some of you, as a person like the 3 aspects of you love music, you love service, and you love Cs right, does that make sense to you.
+
+148
+00:26:28.970 --> 00:26:57.720
+Jenny Duan: and the way that I think about I share curriculars, and how they support a person's profile is I think about it like a web. So every one of our extracurriculars ideally should connect to one another in some way to paint this web. That's you, because I think one of the issues that most students struggle with is they have these different interest, but they can't connect them together. And it just seems like they're doing random things, and that doesn't paint a picture of them to an admissions officer, or or even to themselves, really because the goal of
+
+149
+00:26:57.720 --> 00:27:17.719
+Jenny Duan: submitting a college application, is it to look a certain way for an admissions, office, or anything? It's to present you as a person in the most authentic way possible? And that means showing a connection behind. Why you do all these things and connecting them to one another. So I think that for you, what I noticed in your extra regular. Is that
+
+150
+00:27:17.790 --> 00:27:43.140
+Jenny Duan: that sounds out to me. The most is, I think I'd like to expand the impact of your curriculum because you're doing a lot of things on the State level. But I think it'd be really nice to have some things expand to the national or international level. Just so you're able to have a bigger impact and expand the scope of what you do. And then with the Cs things, I have a couple of specific proposals that I think you might be interested in. So let me share that with you really quickly.
+
+151
+00:27:43.350 --> 00:28:09.699
+Jenny Duan:  let me just share my screen. And then if we start working together. This is something that we can take a look at over the next 2 years, because a lot of these are summer programs and extracurriculars. So for every single student that I help, I actually build them a a complete tracker that includes, you know, you can see at the bottom of the screen like awards. They can apply for summer programs extracurriculars that they're working on a daily schedule of. You know, time blocked like
+
+152
+00:28:09.700 --> 00:28:28.579
+Jenny Duan: you're doing this, for example, today. Here have in this meeting with me from like 4, 30 to 5, 30. That would be a specific or 5, 30 to 6 30. I'm not sure what the time conversion is. I'm in Korea right now. But you know I would have everything time blocked on a daily schedule, including your goals, sat and other things. So I've already started populating this for you.
+
+153
+00:28:28.580 --> 00:28:47.889
+Jenny Duan: So one of those things is AI scholars. This is a summer program that you can take part in. It's at Carnegie Mellon University, which is a very strong Cs school. And when I looked at your resume one thing that I actually noticed is that you're doing. You did inspire AI. Can you tell me a little bit more about your experience with that?
+
+154
+00:28:49.230 --> 00:28:59.300
+Neelima Rustagi: So for inspiration. AI. I took rather than like the 10 week program. I took the 2 week pro program where we had a class every day.
+
+155
+00:28:59.510 --> 00:29:01.100
+Neelima Rustagi: And
+
+156
+00:29:01.170 --> 00:29:04.169
+Neelima Rustagi: basically what happened was it?
+
+157
+00:29:04.220 --> 00:29:08.579
+They gave us notebooks, and they helped us like go through the notebooks.
+
+158
+00:29:08.810 --> 00:29:29.840
+Neelima Rustagi: Then we got to see how like in graphs how our model was like learning and how to fix it. But then, for a lot of their like explanations, they didn't really give that. And they just said, okay, this is how this happens. This is how this happens. And then we split off into groups to try to
+
+159
+00:29:30.200 --> 00:29:41.699
+Neelima Rustagi: try to create Ml, models for a specific of data they've given us. So for me it was. We got like tons of reviews and like
+
+160
+00:29:41.730 --> 00:29:52.760
+Neelima Rustagi: 5 star or one star statements, and then we had to tell whether they were good or bad. And so that's what we really helped do.
+
+161
+00:29:53.380 --> 00:29:59.879
+Neelima Rustagi: So that was the experience. But they didn't really teach a lot about how a I worked itself.
+
+162
+00:30:00.580 --> 00:30:03.210
+Jenny Duan: Right? Yeah.
+
+163
+00:30:03.790 --> 00:30:19.989
+Jenny Duan: actually, in my opinion. And I'm gonna give you all of this that I've been saying to you is very no Bs, because I think it's important to talk candidly about. You know everything, especially when it comes to college applications and admissions, because that's you know the probably the most important thing in your current time horizon.
+
+164
+00:30:19.990 --> 00:30:43.899
+Jenny Duan: So I think that in spirit AI is a little bit of a scam, or it's a little bit scammy, because again, I don't think they provide the details. And honestly, from my perspective, having, you know, mentored students who've got to gone into Stanford Brown, and other schools as well. From my perspective, I think that with these summer programs the most important thing that you should look for to make it a competitive program. Because
+
+165
+00:30:43.920 --> 00:30:44.940
+so
+
+166
+00:30:45.250 --> 00:31:02.179
+Jenny Duan: the reason why I'm saying this is because summer programs actually effectively work as awards as well. If you're able to gain admissions into a very preceded summer program that counts as an award or an extracurricular. On your application. You can put that summer program in as an extracurricular or an award depending on what the program is.
+
+167
+00:31:02.180 --> 00:31:23.230
+Jenny Duan: And so the thing that you should look for when evaluating summer programs is first of all the prestige. And the most important thing, when it comes to prestige, is that usually, if it's a free program, free means it's more prestigious, because, again, if it's free, that means more. People are applying for it, and it'll just naturally jack up the like. Lower the admissions rate. Does that sort of make sense to you.
+
+168
+00:31:23.430 --> 00:31:54.850
+Jenny Duan: And so because of that I think that you know. Obviously, this is information that it's really hard to know by yourself, because. like no one tells you. And when you look at, you know website for something like into your AI, all you can see are like their results. But you know, you don't really hear people talk about it unless they've actually gone through the college admissions process. But that's why I was able to find a couple of different programs for you that I think would be better for you. Specifically. So, one of them is AI scholars. And that's at Cmu. That's a free program.
+
+169
+00:31:55.320 --> 00:32:08.889
+Jenny Duan: and it's pretty similar, I guess, to other AI programs. But the thing is, it's residential at Carnegie Mellon. So you stay there for a couple of weeks in the summer, and you must be a current junior to be eligible. So you're eligible
+
+170
+00:32:08.910 --> 00:32:10.550
+Jenny Duan: and
+
+171
+00:32:10.700 --> 00:32:26.449
+Jenny Duan: you can stay there and learn about AI and AI education for it's fully, it's grant funded merit based. That's what you need to look for fully. It's free. And it's merit based. That means that the people who get in are they get in with their merit alone.
+
+172
+00:32:26.450 --> 00:32:32.289
+Jenny Duan: And that this will really boost your application. So this is one example of something that we can look at together.
+
+173
+00:32:32.290 --> 00:32:57.279
+Jenny Duan: The other thing about merit based summer program applications is that they're a pretty good precursor for your college admissions process. Because if you're able to gain admission into a really competitive summer program, that is a signal about how you're going to do in the actual college admissions process. Does that make sense? Because again, for the summer programs you're writing, you're writing essays for admissions. You're getting letters of recommendation. You're preparing extra curriculum lists. And so they evaluate you, obviously in the context of
+
+174
+00:32:57.280 --> 00:33:04.270
+Jenny Duan: specific program. But it's still a really good evaluation about how you are just doing as a student in general.
+
+175
+00:33:04.270 --> 00:33:29.209
+Jenny Duan: So that's one program. And then, obviously, if we start working together, there's tons more programs I can share with you. But that's one example of one that I think. You should look at in terms of computer science. Another thing that you can do with computer science is really leverage your profile as a woman in stem. I think that this is something that really stands out about you, these 3 things against them music, advocacy. These are all really important aspects of
+
+176
+00:33:29.210 --> 00:33:44.050
+Jenny Duan: you that I think you should present on an application. So presenting yourself as a woman in stem is a very powerful positioning for you, and it'll open up a lot of opportunities for you, I mean, as you know, with girls who code. And have you heard of the program code with classy before?
+
+177
+00:33:46.360 --> 00:33:48.230
+Neelima Rustagi: I don't think so.
+
+178
+00:33:48.870 --> 00:34:12.209
+Jenny Duan: Yeah, okay, it's another 2 week program. I was actually an instructor assistant for their aiml camp this summer, which is why I'm like, II get really excited about Code Glossy, because I was an alum. I'm an instructor assistant for it right now. But it's another 2 week free program. But code with Glossy is a really powerful organization that I think we can explore as well, they have direct connections to apple, they this year I was teaching like a
+
+179
+00:34:12.570 --> 00:34:16.050
+Jenny Duan: private framework that Apple actually hasn't released to the public yet.
+
+180
+00:34:16.100 --> 00:34:23.320
+Jenny Duan: What are their machine learning models? And so code of classy is really powerful, and some of code of classes, alumni
+
+181
+00:34:23.469 --> 00:34:40.960
+Jenny Duan: include, like Kitanjali Rao Times Kid of the year a couple of years ago, and a couple of other really impressive like women's 10 leaders. So I think that's a powerful program that we can look into and then, as far as clubs and leadership at your school, are you involved in any leadership positions? Besides being President Fialcapello Club?
+
+182
+00:34:42.179 --> 00:34:48.730
+Neelima Rustagi: I'm also the secretary of another Service Club octagon.
+
+183
+00:34:49.440 --> 00:35:05.389
+Neelima Rustagi: Can you tell me about that? I don't know. Yeah. So we volunteer at races. We've done food drive. We mainly help on like the homeless and veterans. And we're thinking of doing a program this year where we help create food kids
+
+184
+00:35:05.510 --> 00:35:12.889
+Neelima Rustagi: and go out and give them to homeless shelters. And we also donate cards to hospitals and stuff like that
+
+185
+00:35:14.420 --> 00:35:18.369
+Jenny Duan: right? Are there any computer science clubs at your school that you're a part of
+
+186
+00:35:20.020 --> 00:35:24.090
+Neelima Rustagi: there's only one computer science club.
+
+187
+00:35:25.540 --> 00:35:29.430
+Neelima Rustagi: II was a part of that for like the first year.
+
+188
+00:35:29.530 --> 00:35:30.830
+Neelima Rustagi: Then
+
+189
+00:35:30.850 --> 00:35:36.639
+Neelima Rustagi: Didn't really do computer science. They didn't actually even practice for the computer science.
+
+190
+00:35:36.900 --> 00:35:38.209
+Neelima Rustagi: It was mostly just
+
+191
+00:35:39.380 --> 00:35:48.909
+Neelima Rustagi: jokes about computer science, like, I think there's a language that operates on just white spaces. So they spent like the first 5 meetings talking about that.
+
+192
+00:35:49.170 --> 00:35:53.539
+Neelima Rustagi: And yeah, I kind of just dropped out after that.
+
+193
+00:35:54.350 --> 00:36:09.829
+Neelima Rustagi: And for web development was a club for that as well. And That was Lauren. And then we do this in when we ask for a when we ask questions
+
+194
+00:36:10.650 --> 00:36:18.360
+Neelima Rustagi: was another girl with me. So then she dropped out. I stayed for a couple more weeks, but wasn't really going anywhere.
+
+195
+00:36:19.000 --> 00:36:28.550
+Neelima Rustagi: And then, lastly, there was. There's an Ml. Club, but it's the same time as Viking vocalists, and I can't do the both of them at the same time.
+
+196
+00:36:30.140 --> 00:36:40.529
+Jenny Duan: Got it. Have you ever thought about starting your own CS. Club, like maybe girls who code or just a general Cs project club for because the other one doesn't seem like they're doing projects.
+
+197
+00:36:41.870 --> 00:36:56.949
+Neelima Rustagi:  are for girls who code. We have a stand chapter. Matt Miller, the middle school I went to. That's just for middle schoolers, so I don't know if it would be
+
+198
+00:36:57.010 --> 00:36:58.530
+possible to do that.
+
+199
+00:36:58.730 --> 00:37:09.610
+Neelima Rustagi: And for girls who code. The only curriculum I know they have is basic python and also basic HTML, Css. And Javascript.
+
+200
+00:37:09.830 --> 00:37:14.189
+Neelima Rustagi: and most of the clubs here, and the people usually know that
+
+201
+00:37:14.760 --> 00:37:16.450
+Neelima Rustagi: can try.
+
+202
+00:37:16.670 --> 00:37:27.979
+Neelima Rustagi: But we also have, like a lot of clubs. Already we have over 60 clubs, and our Legislative Council that tries to pass the club usually doesn't pass their clubs
+
+203
+00:37:28.150 --> 00:37:31.359
+Neelima Rustagi: because we don't want to use up all of our teachers.
+
+204
+00:37:33.210 --> 00:37:38.160
+Jenny Duan: Gotcha, can you tell me a little bit more about this Legislative Council and what that looks like at your school.
+
+205
+00:37:39.120 --> 00:37:45.200
+Neelima Rustagi: Give me 1 s. I'm gonna plug in my computer. I'm still listening. But I just need to plug in.
+
+206
+00:37:45.890 --> 00:37:50.789
+Neelima Rustagi: Yeah. So our Legislative Council is like a group of 20 to 30,
+
+207
+00:37:50.880 --> 00:37:52.610
+3 year students
+
+208
+00:37:52.910 --> 00:37:59.980
+Neelima Rustagi: who are selected by like applications. And then the Asb teachers. And
+
+209
+00:38:00.210 --> 00:38:21.449
+Neelima Rustagi: basically what we try to do is, clubs give their proposals to us, and then we are going to say yes or no. But the Asc. Teachers usually make it clear at the very first meeting that they don't want to approve new clubs because each club needs A teacher who's always there for each meeting, because students can't be in like a room
+
+210
+00:38:21.490 --> 00:38:30.810
+Neelima Rustagi: unsupervised. And that means that this teacher's not available for any future as B events that happen on that day. So they usually try to
+
+211
+00:38:31.450 --> 00:38:35.879
+Neelima Rustagi: have less clubs. I was afraid of it this year.
+
+212
+00:38:36.520 --> 00:38:42.789
+Jenny Duan: Yeah, I was just you followed up with the question I was just gonna ask, are you part of it. This coming year. So your junior year as well.
+
+213
+00:38:43.960 --> 00:38:54.280
+Neelima Rustagi: The applications haven't released yet. They usually happen in the first think for a week a bit later, and that's when you applied
+
+214
+00:38:55.050 --> 00:39:13.109
+Jenny Duan: awesome. I think that you should apply again. And one thing that I really want you to emphasize is school leadership this year, and I think, try to aim for positions. And this is my honest again. No Bs, no filter advice. Aim for positions that give you a big leadership position, but are low time commitment.
+
+215
+00:39:13.130 --> 00:39:17.180
+Jenny Duan: That's my advice. Because the reason why you wanna do this is
+
+216
+00:39:17.360 --> 00:39:41.040
+Jenny Duan: there's 2 reasons. So first, it's the position of actually having like leadership. I think that in and of itself is a really good learning opportunity for you. It'll help you develop your confidence, your public speaking, ability, and other things. But another thing is to make a good impression on your teachers. This is really important, because I think people underestimate the power of letter, of recommendation when it comes to colleges. But this is something that, like your teachers, they don't have a lot of opportunity to get to know you.
+
+217
+00:39:41.040 --> 00:39:50.760
+Jenny Duan: That's especially at a big public school. That's one of the struggles that many students face is, you know, they don't have time to really talk with their teachers, get another teacher as well. So
+
+218
+00:39:50.760 --> 00:40:04.839
+Jenny Duan: when your teachers, writing a letter recommendation from you, they want us. They wanna know your name, know your face and know some of the things that you've been involved in. So if you have a larger presence at school, whether that's through clubs, whether that's through things like the Advisory Board or other things, the Legislative Council.
+
+219
+00:40:04.840 --> 00:40:31.629
+Jenny Duan: That'll just give more opportunities to make impressions on your teacher, and that's really powerful because for me, when I was applying to schools, and when I supplied to scholarships, I had like letters recommendation from my principal, for example, and I wouldn't have gotten that if I hadn't, you know, stepped up and taken more leadership positions at school, and I think that that's a strategy that you can use as well. And obviously I'm gonna write all this down and send it to you in the report. So no worries about taking notes. But
+
+220
+00:40:31.750 --> 00:40:33.389
+I think that's
+
+221
+00:40:33.770 --> 00:40:35.340
+Jenny Duan: kind of a
+
+222
+00:40:35.530 --> 00:40:56.070
+Jenny Duan: a strategy that a lot of people don't talk about is doing leadership to for the purpose of building relationships with your teachers, too? And then that kind of brings me into the next question, which is, how is your relationship with your teachers right now? And have you thought about letters of recommendation? And who, you want to ask? Cause junior Year is the perfect time to start thinking about this. It's not too early, trust me.
+
+223
+00:40:57.320 --> 00:41:08.310
+Neelima Rustagi: So I'd say I had a good relationship with most of my teachers. I did get 2 of them to write letters of X programs
+
+224
+00:41:08.740 --> 00:41:12.969
+Neelima Rustagi: and if I wanted more I could ask them, because only
+
+225
+00:41:13.830 --> 00:41:18.800
+Neelima Rustagi: Erm, it was one of the Stanford. I think it was the stars ones.
+
+226
+00:41:18.830 --> 00:41:20.399
+Stanford stars.
+
+227
+00:41:20.760 --> 00:41:25.079
+Neelima Rustagi: But I didn't get in. So yeah, but
+
+228
+00:41:25.120 --> 00:41:32.370
+Neelima Rustagi: I had. I could ask my teachers, and I think they'd know me pretty well. because I do speak up in class.
+
+229
+00:41:32.750 --> 00:41:40.620
+Neelima Rustagi: Then I do try to help them out when if they need any help. and then the second one is.
+
+230
+00:41:40.760 --> 00:41:43.339
+Neelima Rustagi: yeah, this year I'll be tas.
+
+231
+00:41:43.810 --> 00:41:46.220
+Neelima Rustagi: Oh, oh, go ahead.
+
+232
+00:41:46.850 --> 00:41:51.169
+Neelima Rustagi: Yeah. A good teacher. I'm already thinking of asking like
+
+233
+00:41:52.030 --> 00:42:00.729
+Neelima Rustagi: II was kind of close with my chem teacher last year and I was also close with my lit teacher, so I might ask one of those.
+
+234
+00:42:02.700 --> 00:42:10.699
+Jenny Duan: It seems like, you're very interested in literature, like from your tutoring, and just in general, can you tell me a little bit more about that interest?
+
+235
+00:42:13.730 --> 00:42:19.530
+Neelima Rustagi:  in literature?
+
+236
+00:42:20.140 --> 00:42:33.290
+Neelima Rustagi: I've always been big into reading books when I was a child. and I do help a lot at the library, because do love like I've sorted books. I've
+
+237
+00:42:33.440 --> 00:42:45.549
+Neelima Rustagi: have to check through Dvds. All of that. But my love for literature I don't really know that translates into a love for the class.
+
+238
+00:42:45.680 --> 00:43:01.179
+Neelima Rustagi: because I don't really like like writing essays that much, but I usually do love my literature teachers because of like analyzing books. because the types of essays that I like best are argumentative essays where you have, like a strict format
+
+239
+00:43:02.570 --> 00:43:13.890
+Jenny Duan: might totally no, that's actually really awesome. Do you like writing at all like, I know you said you don't like some forms of writing. But do you ever write like, create a fiction poetry, anything like that?
+
+240
+00:43:15.990 --> 00:43:23.989
+Neelima Rustagi: If I'm feeling like it, I can write poetry don't really like creative fiction that much. Because
+
+241
+00:43:24.180 --> 00:43:29.430
+Neelima Rustagi: really, like formats and creative fiction is really just broad.
+
+242
+00:43:29.610 --> 00:43:38.930
+Neelima Rustagi: It's kind of really boxed a nice way don't really like creative fiction writing creative fiction stories that much
+
+243
+00:43:38.970 --> 00:43:42.900
+I can write free. Freestyle poetry.
+
+244
+00:43:44.160 --> 00:43:49.590
+Jenny Duan: Have you ever thought about submitting to something like a poetry contest or an online journal.
+
+245
+00:43:51.640 --> 00:43:56.589
+Neelima Rustagi: I usually rarely write poetry. So not really. But I guess I could.
+
+246
+00:43:57.730 --> 00:44:01.750
+Jenny Duan: What about like do you like writing like argumentative essays or opinion pieces
+
+247
+00:44:03.610 --> 00:44:08.249
+Neelima Rustagi: in school and about to do that. I that that has been my favorite unit
+
+248
+00:44:09.270 --> 00:44:12.200
+Neelima Rustagi: usually may have done something in doing as well. Yeah.
+
+249
+00:44:12.890 --> 00:44:37.699
+Jenny Duan: is this something that you'd like to explore further, because I think it when it comes to extracurriculars or awards. Some things that are just top of mind for me are, for example, the New York Times has a student essay contest that I highly encourage people to submit to, especially if they like writing argumentative essays. It's a 650 word essay, and if you submit it, it's very prestigious. A word again. You get published in the New York Times. Obviously very competitive, but
+
+250
+00:44:37.700 --> 00:44:56.529
+Jenny Duan: I think it'd be a good challenge if you'd interested if you'd be interested in doing that. And obviously there's a ton of other like writing essay contests poetry contest awards that I can connect you with, if that's something that you're interested in. But I think that that's another opportunity for you to kind of brought in your award profile and your extracurricular profile.
+
+251
+00:44:56.720 --> 00:45:09.419
+Jenny Duan: So yeah. The other thing that I wanted to ask you about is whether or not you've ever been involved in research, because I think that's another way that you can develop your no pun intended. You can develop your CS experience, because
+
+252
+00:45:09.470 --> 00:45:17.249
+Jenny Duan: with computer science, as you know, it's very hard to find extra curriculars that are tangibly Cs related, because, again, there's not a lot of like
+
+253
+00:45:17.530 --> 00:45:33.080
+Jenny Duan: clubs like you know how in sports like their sports teams and things like that. There's not a lot of that for Cs besides hackathons, and research. Those are the main 2 fields that I see people who are interested in Cs doing. Can you tell me a little bit more about your Hackathon experience. You said you've done one in the past right.
+
+254
+00:45:34.830 --> 00:45:39.030
+Neelima Rustagi: I did a few like months ago. There was a Ucla
+
+255
+00:45:39.700 --> 00:45:52.660
+Neelima Rustagi: print Hackathon. I forgot the name of it. But basically they they gave you, I think, up to 8 problems, and you had to create code. And either python or C to solve them.
+
+256
+00:45:53.610 --> 00:45:56.439
+Neelima Rustagi: Gotcha. That was that. Yeah.
+
+257
+00:45:56.900 --> 00:46:06.349
+Jenny Duan: yeah, I think there's a lot of opportunities for you to get involved in hackathons, especially in the Bay area. And have you ever thought about being a hackathon organizer or organizing your own hackathon?
+
+258
+00:46:08.700 --> 00:46:14.450
+Neelima Rustagi: Not really, mainly because I've rarely ever been to one. but I do.
+
+259
+00:46:15.720 --> 00:46:20.080
+Neelima Rustagi: But I do have experience in like planning events. So I'd like to create one.
+
+260
+00:46:20.670 --> 00:46:37.449
+Jenny Duan: Yeah, so again, this is like, over the next year or 2 years. But if you're interested. There's like a lot of hackathons that happen in the Bay Area, especially through an organization called Hack Club. And this is another extracurricular idea that I'm writing down Hack Club is this student run Hackathon Group.
+
+261
+00:46:37.450 --> 00:46:53.950
+Jenny Duan: My sister's actually a part of it. She's your age. She's the she's a rising junior, and she's also a little bit interested in Cs, so she's interested in that, and Hack Club runs hackathons like all over the country. They will fly you out to do hackathons like my sister. They flew her out to Vermont to do their hackathon there. So
+
+262
+00:46:54.020 --> 00:47:16.510
+Jenny Duan: that's really exciting, and for research. This is something that we can dive into again. If we want to. But research is sort of a year long or summer commitment. That is a good way to explore your passion for Cs and something else. So, for example, you could do research into Cs music which would connect, you know your passion for choir and Cs or Cs and environmental advocacy, for example.
+
+263
+00:47:16.510 --> 00:47:31.040
+Jenny Duan: one of the things I mentored worked on a project where they they were a recycling classification model with Cs. So they use machine learning to classify, you know, different trash items and decide whether or not it was compost, recycle or trash, and that's like a very good opportunity to to
+
+264
+00:47:31.250 --> 00:47:35.030
+Jenny Duan: combine your passion for Cs and environmental policy as well.
+
+265
+00:47:35.340 --> 00:47:51.679
+Jenny Duan: And the other thing I want to touch on with Cs in mind is bioinformatics slash biotech. I know this is something that you talked about, and I think your mom also mentioned. Can you tell me a little bit more about this interest in like biomed biotech? Cs.
+
+266
+00:47:53.280 --> 00:48:05.589
+Neelima Rustagi: so for me, I knew it either like Cs or something related to Doctor, not a combination of the 2, because I like Cs more as
+
+267
+00:48:06.140 --> 00:48:12.190
+Neelima Rustagi:  not related to sight of the other sciences.
+
+268
+00:48:12.600 --> 00:48:23.969
+Neelima Rustagi: I've not really done any work with the 2 of them like, I've not really done anything with genes or anything with that. But for biology, I really love like doing the land
+
+269
+00:48:24.270 --> 00:48:30.479
+Neelima Rustagi: favorite lab for anything that I've done in science was where we got to create recombinant plasmids.
+
+270
+00:48:30.850 --> 00:48:44.230
+Neelima Rustagi: Then they had, like the piglogging, so we could see them blow in the dark. So I thought that was really really cool, and I like chemistry in general. That's why I think I was closest to my chem teacher with chem honors. And it was really fun.
+
+271
+00:48:44.510 --> 00:48:51.430
+Neelima Rustagi: even if we didn't get to do that. Many labs, then you had to either do that or that. But I'm more into Cs.
+
+272
+00:48:51.660 --> 00:48:55.760
+Neelima Rustagi: Because I know if I were to go into biology or chemistry.
+
+273
+00:48:55.920 --> 00:49:02.920
+Neelima Rustagi: I'd most likely be a doctor, and the only type of doctoring I know I would want is to be a dermatologist.
+
+274
+00:49:02.990 --> 00:49:05.260
+I know it's really hard to become
+
+275
+00:49:06.170 --> 00:49:22.800
+Jenny Duan: totally yeah. And so I think that so when you're saying this, a lot of things came to mind. The first thing that I thought about was a couple of different summer programs that I think might be a good fit for you. And if we work together, I think we can probably apply to 5 programs at least over the next summer.
+
+276
+00:49:22.800 --> 00:49:38.830
+Jenny Duan: And I think that'll put you in a good position to get accepted into. Probably at least one of them. But one program that I know of is research at a biosciences lab. It's for all these. All the programs that I will mentioned to you are going to be fully funded, so free, and that makes them competitive.
+
+277
+00:49:38.890 --> 00:49:53.520
+Jenny Duan: Because free programs. It's not just about the fact that they're free. It's free programs again, are more prestigious and more competitive. Which is why I'm highlighting that. It's genomics research. So using Cs to look at the human genome and to do research on different genetic
+
+278
+00:49:53.530 --> 00:50:08.000
+Jenny Duan: sequences and things. So I think that's a really cool program that I wanna highlight to you. The other thing is, Stanford has a summer medicine research program that does Cs research as well for high school students. All these are for high school students.
+
+279
+00:50:08.300 --> 00:50:21.629
+Jenny Duan: nothing could be interested to look into. But again, we can work on applying to at least 5 of these if we work together, and then with CS. The other thing that's important, especially that now that I know that you're interested in bioinformatics or biotech biomed is.
+
+280
+00:50:21.650 --> 00:50:35.060
+Jenny Duan: for example, at at Stanford and a lot of other schools. They have tracks within computer science. So Stanford has a biosciences track within Cs, so people who are in that track, they would be taking a lot of like
+
+281
+00:50:35.070 --> 00:50:48.380
+Jenny Duan: biotech biochem classes. But they're still Cs majors. So that's one opportunity that you can look into. Because, for example, like my concentration, I'm studying AI. So I'm taking more AI classes, but other students. They might be concentrating in
+
+282
+00:50:48.380 --> 00:51:10.029
+Jenny Duan: that biology type of Cs concentration, and then they would be taking, you know, more biochem classes. But other students. They might have like a human computer interaction class concentration. So they'd be taking more design classes. So obviously for every major, there's concentration sources and the other thing with your interest in biotech is for a lot of these competitive schools, as you know, getting in straight Cs is very difficult.
+
+283
+00:51:10.030 --> 00:51:37.190
+Jenny Duan: Or I don't know if you've heard about this, but just applying as a Cs major is very, very difficult. But there's other Cs adjacent majors that you can apply for and take a lot of Cs classes, so you can still take a ton of Cs classes that may make it a little bit easier to get into schools. For example, if you apply as a bioinformatics, major, that might, there might be less people applying for that major compared to Cs, and that would increase your chances of getting into competitive school if you apply it through that route.
+
+284
+00:51:38.580 --> 00:51:50.790
+Neelima Rustagi: I don't know if I'm fully bioinformatics, so I probably see, because I what we did with the AI, even though I didn't understand it that much. I did
+
+285
+00:51:50.840 --> 00:51:55.149
+Neelima Rustagi: like it. So I really don't know where in science I like the most
+
+286
+00:51:56.460 --> 00:51:58.040
+Jenny Duan: of computer science.
+
+287
+00:51:58.270 --> 00:51:59.070
+Neelima Rustagi: Yeah.
+
+288
+00:51:59.790 --> 00:52:20.449
+Jenny Duan: yeah, totally. And I think that it's really great to structure application just straight. Cs, 2. But the reason why I'm mentioning this. These things is because if and I know, you don't have a college list right now. So that's what we'll talk to for the last couple of minutes. Talk about for the last couple of minutes. But if there's, for example, a dream school that you're really set on, and the Cs program is really really hard to get into for that school.
+
+289
+00:52:20.450 --> 00:52:32.720
+Then the strategy would be to apply for Acs adjacent, but not exactly Cs major. To just increase your chances of getting into that school specifically, that's why I bring it up. Definitely, not saying you should switch your major. But
+
+290
+00:52:32.720 --> 00:52:43.079
+Jenny Duan: ex for example, if you have like a dream school that you really want to get into. And if you care more about the school, then your specific major, that's like another pathway we can go into which is why I bring it up.
+
+291
+00:52:43.080 --> 00:53:08.109
+Jenny Duan: But I'd like to spend the last couple of minutes sort of talking about your college list, because I think that's something that is pretty top of mind, and something that you should think about as a junior so usually, when people apply for colleges they expected. Target is about 15 schools, and I know this seems like a lot. But I think that's pretty standard for some students. It might be 10 for some students it might be 20. But the average amount of schools applied to is 15. And
+
+292
+00:53:08.770 --> 00:53:10.119
+Jenny Duan: I'm sorry. Did you say something?
+
+293
+00:53:18.730 --> 00:53:22.150
+Jenny Duan: I'm gonna give notes. You should. You should listen. Because.
+
+294
+00:53:22.170 --> 00:53:39.139
+Jenny Duan: yeah, I'll all this will be provided to you later on. I think 15 schools is a pretty standard thing. And usually people do like 5, 5 split. So 5, safety, 5 match schools and 5 reach schools. When I say, like safety match reach, does that make sense to you? Do you understand that? Or should I explain?
+
+295
+00:53:39.450 --> 00:53:41.099
+Jenny Duan: Amazing? So
+
+296
+00:53:41.200 --> 00:53:46.649
+Jenny Duan: 5, 5, 5, some students, they do. A different breakdown, like some students might do 2 safety schools
+
+297
+00:53:46.760 --> 00:53:49.950
+Jenny Duan: 6 match schools and
+
+298
+00:53:50.270 --> 00:54:06.199
+Jenny Duan: 7 reaches. But it. It just depends on the student what they really want to prioritize, but 5 5 is a good balance. And so, since you want to be a Cs major, some schools that are top of mind for me, or obviously mit Stanford.
+
+299
+00:54:06.480 --> 00:54:09.510
+Jenny Duan: Cmu, Uc. Berkeley
+
+300
+00:54:09.630 --> 00:54:20.309
+Jenny Duan: and contact. They have, like some of the strongest Cs programs. But like I'd love to learn from your initial research. Are there any schools that you're in love with right now, or like that? You really like?
+
+301
+00:54:22.260 --> 00:54:23.330
+Neelima Rustagi: Hi.
+
+302
+00:54:23.370 --> 00:54:25.979
+only been to 2 colleges?
+
+303
+00:54:26.240 --> 00:54:39.380
+Neelima Rustagi: I've been to Columbia. and I've also been to Stanford like I went there for the Stanford Aces program. It was like launch pad, which is just for high schoolers.
+
+304
+00:54:39.550 --> 00:54:44.319
+Neelima Rustagi: and I give you like Stanford. So I think that would be my dream school for now.
+
+305
+00:54:44.510 --> 00:54:48.899
+Neelima Rustagi: But I don't. I would like to learn more about like Cmu and
+
+306
+00:54:48.940 --> 00:54:50.330
+Neelima Rustagi: Uc. Berkeley.
+
+307
+00:54:51.200 --> 00:54:55.339
+Jenny Duan: yeah. I have a question. Did you do this year? Was that this year?
+
+308
+00:54:57.100 --> 00:55:03.070
+Jenny Duan: Oh, what classes here? No. 80, yeah basis. Do? Okay, that's really
+
+309
+00:55:03.160 --> 00:55:10.550
+Jenny Duan: that's cool. Because one of my one of my friends is less like an organizer for that. I think his name's Odin. He goes to Stanford, but I don't know if you've met him
+
+310
+00:55:10.580 --> 00:55:14.800
+Jenny Duan: or not. But I know a lot of people involved in aces. So that's pretty cool.
+
+311
+00:55:15.160 --> 00:55:18.279
+Jenny Duan: Did you like Columbia as a university?
+
+312
+00:55:20.480 --> 00:55:23.030
+Neelima Rustagi:  not really.
+
+313
+00:55:23.670 --> 00:55:28.269
+Jenny Duan: Okay. Is it too big city? Or what was what didn't you like about it? Too small or
+
+314
+00:55:29.950 --> 00:55:31.789
+Neelima Rustagi: I think
+
+315
+00:55:32.160 --> 00:55:37.799
+Neelima Rustagi: was a bit too big city. I like Stanford more, 'cause it was a bit more
+
+316
+00:55:38.350 --> 00:55:40.740
+Neelima Rustagi:  closed off
+
+317
+00:55:55.240 --> 00:56:00.839
+Neelima Rustagi: she Likes, Stanford more. And I think because she's
+
+318
+00:56:00.960 --> 00:56:06.529
+Neelima Rustagi: happened there. Right? So yeah, I think she experienced the campus as well. And
+
+319
+00:56:08.200 --> 00:56:16.640
+Neelima Rustagi: I got the 2 big campus. one of the people there name was Drew. I don't know if you would know her, but
+
+320
+00:56:17.020 --> 00:56:19.239
+Jenny Duan: I don't know her, but that's cool.
+
+321
+00:56:19.770 --> 00:56:24.329
+Jenny Duan: Do you want to stay on the West Coast, or do you want to go to the East Coast for school?
+
+322
+00:56:27.820 --> 00:56:39.270
+Neelima Rustagi: Honestly, I would just stay on the West Coast. but it's doesn't truly matter if the college is good enough, but I would prefer to stay
+
+323
+00:56:39.290 --> 00:56:42.579
+Neelima Rustagi: near home so like the West Coast.
+
+324
+00:56:43.550 --> 00:57:03.590
+Jenny Duan: So some of the other, you know, West coast, like really good schools, are like all the Ucs, I think, are really have strong Cs programs like Uc Ucsd, Uc, Irvine, ucla, etc. All the Ucs have strong Cs programs. So that's one thing we can look into. The other thing is University of Washington has a really strong but.
+
+325
+00:57:03.660 --> 00:57:10.630
+Jenny Duan: like ultra ultra competitive CS. Program. So that would be when University of Washington is one school I would
+
+326
+00:57:11.000 --> 00:57:24.849
+Jenny Duan: look into. But it's probably gonna be more competitive than Stanford to get into their Cs program like that school is is very competitive, but that's one that we can look into. And then Santa Clara University. I don't know if you've heard about that one
+
+327
+00:57:25.710 --> 00:57:31.360
+Neelima Rustagi: yeah, it's kind of close by 'cause I live in San Jose. no.
+
+328
+00:57:31.650 --> 00:57:32.460
+Yeah.
+
+329
+00:57:32.920 --> 00:57:34.910
+Neelima Rustagi: It's I know if it.
+
+330
+00:57:35.430 --> 00:57:47.069
+Jenny Duan: Yeah, I think it could be like a good safety school or a match school. It also has a good sales program. It's like, obviously in Silicon Valley. It's proximity to all the big tech. So that's one that I like, too.
+
+331
+00:57:47.230 --> 00:57:52.530
+Jenny Duan: And Caltech obviously is in California. It's very nice. So
+
+332
+00:57:52.900 --> 00:58:02.030
+Jenny Duan: the schools I have right now, for you are mit Stanford, Cmu Uc. Berkeley Caltech University of Washington, Santa Clara, Ucla
+
+333
+00:58:02.060 --> 00:58:15.229
+Jenny Duan: you see, Irvine Uc. Santa Cruz, and like all the Ucs that I think because the Uc application, as you know, it's just one S. It's like one application for all the schools. So you don't individually apply, which makes it easier.
+
+334
+00:58:15.280 --> 00:58:20.970
+Jenny Duan: And then there's a couple of their schools that are not on the West Coast. I think you should look into it should include like
+
+335
+00:58:21.070 --> 00:58:35.350
+Jenny Duan: Rice University in Texas. I don't know how you feel about Texas, but rice is a very good school. I have friends who go there that really really enjoy it. So I think rice is one that I want to put on your radar. Vanderbilt University. Have you heard of this one?
+
+336
+00:58:36.320 --> 00:58:37.240
+Neelima Rustagi: Yeah.
+
+337
+00:58:37.800 --> 00:58:42.189
+Neelima Rustagi: they send like a lot of emails. So
+
+338
+00:58:42.970 --> 00:58:50.379
+Jenny Duan: I think Vanderbilt is one that you might enjoy. And do you know, if you wanna be at like, how big of a school do you wanna be a small school? Big school?
+
+339
+00:58:50.960 --> 00:58:58.300
+Jenny Duan: Okay, campus size and number of students? I guess those are 2 questions. Do you want a big campus or a small campus? And then do you want a lot of students or not? A lot of students.
+
+340
+00:58:59.400 --> 00:59:01.459
+Neelima Rustagi: big campus
+
+341
+00:59:01.950 --> 00:59:04.210
+Neelima Rustagi: students. Either that
+
+342
+00:59:04.330 --> 00:59:10.180
+Neelima Rustagi: for large. it's either it's either going to be small or large, but not medium.
+
+343
+00:59:11.070 --> 00:59:12.539
+Jenny Duan: Okay, got it.
+
+344
+00:59:13.580 --> 00:59:34.940
+Jenny Duan: So with this information in mind. I'm gonna send you alongside your report. I will send you like a list of colleges for you to look at. This is not a finalized college list, because that takes a lot of time to create. And that's something we can work together, and that that'll change over like the next year or so, but I'll send you like a sample list of colleges that I think you might be interested in, based on what I know about you so far
+
+345
+00:59:35.050 --> 00:59:40.360
+Jenny Duan: but that kind of wraps up the end of our session. Do you have any questions for me?
+
+346
+00:59:42.470 --> 00:59:47.390
+Neelima Rustagi: When about the colleges? What factors would you decide
+
+347
+00:59:47.640 --> 00:59:50.260
+Neelima Rustagi: for for college? But
+
+348
+00:59:51.130 --> 01:00:01.279
+Jenny Duan: yeah, honestly, I fell in love with Stanford as well, really early on, which was honestly very dangerous, I think, because, you know, I would have been really heartbroken if I didn't get in. But
+
+349
+01:00:01.380 --> 01:00:20.900
+Jenny Duan: I think I looked at the majors offered, so I really liked how Stanford has a lot of AI classes, and that's something that drew me in as well as the location. I want to be on the West Coast. I'm from Oregon, so I want to be close to my family. Also the people there. I think the school is a good size, and the people that I met there were really really nice. So those are the things that stood out to me.
+
+350
+01:00:23.060 --> 01:00:27.609
+Jenny Duan: Awesome. Yeah. Any other questions? Oh, go ahead
+
+351
+01:00:28.500 --> 01:00:33.499
+Neelima Rustagi: for for high school. What courses are classes did you take part in?
+
+352
+01:00:34.280 --> 01:00:49.649
+Jenny Duan: Yeah. So I think that from high school I did a lot of like math classes. So that was one of my spikes, which was math. I finished calculus PC. In my freshman year. So I ended up taking 3 post count classes, and I think I did about 12 Ap's
+
+353
+01:00:49.790 --> 01:01:16.219
+Jenny Duan: beyond that, so that those were kind of the things that I was involved in. So I really like doing math. I was a heavy like stem kid, kind of like you are. I've also did music. So I submitted a music supplement actually. And I was a pianist for like all of elementary high school, elementary through high school. And then I did a lot of school leadership and advocacy. So I taught a lot of leadership positions in my school. I did a lot of service work outside of school. And I did science research. I did computer science research.
+
+354
+01:01:16.230 --> 01:01:18.879
+Jenny Duan: So those were some of the things that I was involved in
+
+355
+01:01:19.350 --> 01:01:21.090
+Jenny Duan: and yeah.
+
+356
+01:01:21.240 --> 01:01:39.600
+Jenny Duan: anything else. And if your mom has any questions, I'm happy to answer pretty briefly. Again, maybe even more.
+
+357
+01:01:39.640 --> 01:01:55.850
+Neelima Rustagi: Mine is last year, because we just pulled like, you know, kernel singing, and also the teacher. I think she was Ukrainian. She just stopped taking everybody's calls. So she's not well, we would have found. But she she plays. She plays.
+
+358
+01:02:02.320 --> 01:02:07.419
+Neelima Rustagi: Yeah, but II don't have any any questions. I don't have any further questions.
+
+359
+01:02:07.900 --> 01:02:08.820
+Neelima Rustagi: Thank you.
+
+360
+01:02:09.030 --> 01:02:19.069
+Jenny Duan: Awesome. Yeah. I think music is very actually underrated as a form of getting into colleges, or as an admissions thing, because you can submit a music supplement
+
+361
+01:02:19.070 --> 01:02:43.910
+Jenny Duan: which is one thing that I did, and this is something to really highlight, your passion for music, but with the supplement again you submit your music portfolio. So you take a tape of your peer playing. You have a music resume, and you have a specific music letter recommendation that you can submit, and your letter recommendation could be like from your choir teacher from piano, teacher, etc. But this is like a really interesting perspective to add to your application that it's pretty specialized because I don't.
+
+362
+01:02:43.910 --> 01:02:54.040
+Jenny Duan: I don't know a lot of people who've done it. But for me, I think it was really impactful, because again, that music letter recommendation, and like my own supplement I think, was like meaningful to my own application.
+
+363
+01:02:56.470 --> 01:02:58.889
+Neelima Rustagi: Sounds good. Okay, thank you.
+
+364
+01:02:59.240 --> 01:03:19.439
+Siraj Nazir: Great thanks, Jenny. I mean, I'm more than happy to stay like 5 more minutes. Thanks, Jenny. I mean, I know it's a fresh early morning for you there, have a good day, and and she's traveling on a traveling spree. Thanks for your time, so I'm more than happy to be like 5 more minutes, just to kind of get your feedback, and but more than happy. If you have a hard stop. You can always set up another time as well.
+
+365
+01:03:19.940 --> 01:03:27.349
+Jenny Duan: Yeah, okay, I think I'm gonna log off now. But it was really nice meeting you, Anishka and I hope we can work together these next 2 years. Take care.
+
+366
+01:03:27.670 --> 01:03:29.799
+Neelima Rustagi: Hi! Thank you, Jennings.
+

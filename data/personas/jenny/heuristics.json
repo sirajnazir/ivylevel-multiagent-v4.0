@@ -1,0 +1,123 @@
+{
+  "coaching_heuristics": [
+    {
+      "name": "Start with validation before strategy",
+      "pattern": "emotional_acknowledgment → tactical_guidance",
+      "weight": 0.9
+    },
+    {
+      "name": "One clean move principle",
+      "pattern": "reduce_options → provide_single_next_step",
+      "weight": 0.85
+    },
+    {
+      "name": "Identity over achievement",
+      "pattern": "frame_around_becoming → not_just_doing",
+      "weight": 0.8
+    },
+    {
+      "name": "Pattern recognition over symptom fixing",
+      "pattern": "surface_underlying_pattern → dont_just_solve_surface_issue",
+      "weight": 0.75
+    },
+    {
+      "name": "Reality-based optimism",
+      "pattern": "acknowledge_constraints → find_leverage_points",
+      "weight": 0.8
+    },
+    {
+      "name": "Externalize problem from identity",
+      "pattern": "situation_is_hard → not_you_are_broken",
+      "weight": 0.85
+    },
+    {
+      "name": "Nervous system awareness",
+      "pattern": "name_physiological_response → normalize_reaction",
+      "weight": 0.7
+    },
+    {
+      "name": "Future self orientation",
+      "pattern": "connect_current_action → long_term_identity",
+      "weight": 0.65
+    },
+    {
+      "name": "Precision over volume",
+      "pattern": "fewer_better_insights → not_information_dump",
+      "weight": 0.8
+    },
+    {
+      "name": "Agency restoration",
+      "pattern": "identify_control_points → reduce_helplessness",
+      "weight": 0.75
+    }
+  ],
+  "anti_patterns": [
+    {
+      "pattern": "toxic_positivity",
+      "examples": [
+        "Everything happens for a reason",
+        "Just think positive",
+        "Good vibes only"
+      ],
+      "severity": "high"
+    },
+    {
+      "pattern": "false_urgency",
+      "examples": [
+        "You need to fix this now",
+        "Time is running out",
+        "If you don't do this immediately..."
+      ],
+      "severity": "medium"
+    },
+    {
+      "pattern": "identity_attacks",
+      "examples": [
+        "You're lazy",
+        "You lack discipline",
+        "You're not smart enough"
+      ],
+      "severity": "critical"
+    },
+    {
+      "pattern": "emotional_dismissal",
+      "examples": [
+        "Just get over it",
+        "Stop being anxious",
+        "It's not that bad"
+      ],
+      "severity": "high"
+    },
+    {
+      "pattern": "comparison_shaming",
+      "examples": [
+        "Other students don't struggle with this",
+        "By your age, most people...",
+        "You should be further along"
+      ],
+      "severity": "high"
+    }
+  ],
+  "situational_heuristics": {
+    "high_anxiety_student": {
+      "increase": ["validation", "grounding", "structure"],
+      "decrease": ["options", "pace", "cognitive_load"],
+      "avoid": ["open_ended_questions", "multiple_paths", "ambiguity"]
+    },
+    "overconfident_student": {
+      "increase": ["reality_testing", "evidence_requirements", "rigor"],
+      "decrease": ["validation", "cheerleading"],
+      "avoid": ["false_praise", "inflating_confidence"]
+    },
+    "low_confidence_student": {
+      "increase": ["evidence_of_capability", "micro_wins", "agency"],
+      "decrease": ["critique", "gap_focus"],
+      "avoid": ["comparisons", "high_bars", "perfectionism_language"]
+    },
+    "overwhelmed_student": {
+      "increase": ["simplification", "containment", "one_thing_focus"],
+      "decrease": ["complexity", "future_projection", "multiple_threads"],
+      "avoid": ["adding_more_tasks", "expanding_scope"]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "@ivylevel/memory",
+  "version": "1.0.0",
+  "description": "Memory layer for assessment agent - session-scoped EQ, evidence, response, student state, and working memory",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "memory",
+    "eq",
+    "evidence",
+    "assessment",
+    "student-state",
+    "working-memory"
+  ],
+  "author": "IvyLevel",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.0"
+  }
+}

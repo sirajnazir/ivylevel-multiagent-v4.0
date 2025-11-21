@@ -1,35 +1,26 @@
 import { AssessmentInput_v1 } from '../../schema/assessmentInput_v1';
 import { AssessmentInternalState_v1 } from '../../schema/assessmentInternalState_v1';
 
-export const assessmentGraph = {
-  nodes: {
-    INIT: {
-      handler: (input: AssessmentInput_v1): AssessmentInternalState_v1 => {
-        const state: AssessmentInternalState_v1 = {
-          step: 'init',
-        };
-        return state;
-      },
-    },
-    EXTRACT_PROFILE: {
-      handler: (state: AssessmentInternalState_v1): AssessmentInternalState_v1 => {
-        return {
-          ...state,
-          step: 'extract',
-          extractedProfile: {},
-        };
-      },
-    },
-    CALL_ORACLES: {},
-    BUILD_NARRATIVE: {},
-    BUILD_PLAN: {},
-    BUILD_OUTPUT: {},
-  },
-  edges: [
-    { from: 'INIT', to: 'EXTRACT_PROFILE' },
-    { from: 'EXTRACT_PROFILE', to: 'CALL_ORACLES' },
-    { from: 'CALL_ORACLES', to: 'BUILD_NARRATIVE' },
-    { from: 'BUILD_NARRATIVE', to: 'BUILD_PLAN' },
-    { from: 'BUILD_PLAN', to: 'BUILD_OUTPUT' },
-  ],
-};
+/**
+ * Assessment Agent Task Graph
+ * Defines the sequential execution flow for the assessment pipeline
+ * Updated with Component 10: EQ Modulation Engine
+ *
+ * Pipeline flow:
+ * 1. extractProfile - Extract student profile from raw data
+ * 2. runIntelligenceOracles - Run APS intelligence scoring
+ * 3. determineStudentType - Classify student into 1 of 7 archetypes
+ * 4. generateNarrativeBlocks - Generate narrative positioning
+ * 5. applyEQModulation - Generate adaptive conversational tone plan (NEW)
+ * 6. generateStrategyBlocks - Generate 12-month strategy plan
+ * 7. buildOutput - Aggregate final assessment output
+ */
+export const assessmentGraph = [
+  'extractProfile',
+  'runIntelligenceOracles',
+  'determineStudentType',
+  'generateNarrativeBlocks',
+  'applyEQModulation',
+  'generateStrategyBlocks',
+  'buildOutput',
+];
