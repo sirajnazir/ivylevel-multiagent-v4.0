@@ -1,9 +1,0 @@
-📊 Vector Counts:
-  Sessions+Exec (KBv6_2025-10-06_v1.0): 923
-  iMessage (KBv6_iMessage_2025-10-07_v1.0): 40
-
-✓/✗ Validation:
-  ✅ Sessions+Exec: 923 (expected 923)
-  ✅ iMessage: 40 (expected 40)
-
-✅ All counts match expectations
